@@ -7,19 +7,22 @@ import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 		/*
 		//Compile mvn compile
-		//Run: mvn exec:java -Dexec.mainClass="net.roseindia.AppTest"
+		//Run: mvn exec:java -Dexec.mainClass="it.mexican.quizstudy.App"
 		
 		*/
 /**
 * @author Domenico Conti
 */
 		
-public class AppTest {
+public class App
+{
 
 	private static final String PERSISTENCE_UNIT_NAME = "quizstudyDS";
 	private static EntityManagerFactory factory;
 
-	public static void main(String[] args) {
+	public static void main(String[] argv) throws Exception {
+		System.out.println("START");
+
 		factory = Persistence.createEntityManagerFactory(PERSISTENCE_UNIT_NAME);
 		EntityManager em = factory.createEntityManager();
 
@@ -33,6 +36,7 @@ public class AppTest {
 		em.persist(product);
 		em.getTransaction().commit();
 		em.close();
-		
+
+		System.out.println("STOP");
 	}
 }

@@ -1,6 +1,8 @@
 package it.mexican.quizstudy;
 
-import it.mexican.quizstudy.model.Product;
+import it.mexican.quizstudy.model.Answer;
+import it.mexican.quizstudy.model.Lesson;
+import it.mexican.quizstudy.model.Question;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
@@ -27,13 +29,23 @@ public class App
 		EntityManager em = factory.createEntityManager();
 
 		em.getTransaction().begin();
-		
-		Product product = new Product();
-		product.setProductName("JPA 2.1 Book");
-		product.setProductDescription("This is the latest book on JPA 2.1");
-		product.setStockQty(100.00);
-		product.setPrice(95.99);
-		em.persist(product);
+
+		Lesson lesson = new Lesson();
+		lesson.setNumero(1);
+		lesson.setDescription("Lezione 0");
+		em.persist(lesson);
+
+		Question question = new Question();
+		question.setLesson(lesson);
+		question.setTesto("Dummy Question");
+		em.persist(question);
+
+		Answer answer = new Answer();
+		answer.setDomanda(question);
+		answer.setTest("Dummy Answer");
+		answer.setCorretta(true);
+		em.persist(answer);
+
 		em.getTransaction().commit();
 		em.close();
 

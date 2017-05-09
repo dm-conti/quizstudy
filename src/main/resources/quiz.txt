@@ -1,0 +1,3446 @@
+<Lezione 1
+
+1	La prima fonte legislativa inerente allasicurezza è:
+A	Il CEI
+B	L'IEC
+C	Il CENELEC
+@D	La Costituzione
+
+2	La sigla CEI indica:
+A	Il Comitato Energetico Italiano
+@B	Il Comitato Elettrotecnico Italiano
+C	Il Comtato Edile Italiano
+D	Il Comitato Europeo sugli Impianti
+
+3	Il CEI è:
+@A	L'organismo italiano di normalizzazione elettrotecnica ed elettronica
+B	L'organismo italiano che legifera in materia elettrotecnica ed elettronica
+C	L'organismo normativo internazionale in materia elettrotecnica ed elettronica
+D	L'organismo normativo italiano in materia energetica
+
+4	La Norma CEI 64/8, è redatta:
+A	In ottemperanza alla gelle n. 8 del 1964
+B	In adempimento della direttiva comunitaria 64/8
+@C	Dal Comitato Tecnico n. 64 del CEI
+D	Dal Comitato Tecnico n. 8 del CEI
+
+5	Il marchio CEI viene applicato dal costruttore ai prodotti che:
+A	Sono certificati dall'IMQ corrispondenti alle Norme
+B	Sono certificati dal CEI corrispondenti alle Norme
+C	Secondo il suo parere, corrispondono alle norme IMQ
+@D	Secondo il suo parere, corrispondono alle norme CEI
+
+6	Il marchio IMQ:
+A	E' equivalente al marchio CEI
+B	Offre minori garanzie del marchio CEI
+@C	Offre maggiori garanzie del marchio CEI
+D	Non offre garanzie dal punto di vista tecnico
+
+7	Per le leggi dello Stato Italiano, un impianto è realizzato a regola d'arte se:
+A	Solo se l'Impianto è realizzato in accordo alle Norme CEI
+@B	Se l'Impianto è realizzato garantendo un livello di Sicurezza almeno pari a quello garantito dalle Norme CEI
+C	Se l'Impianto è realizzato garantendo un livello di Sicurezza superiore a quello garantito dalle Norme CEI
+D	Se l'Impianto è realizzato garantendo un livello di Sicurezza inferiore a quello garantito dalle Norme CEI
+
+8	Gli infortuni derivanti dall'utilizzo dell'energia elettrica dipendono, essenzialmente:
+A	Dal contatto con gli apparecchi di manovra
+@B	Dal contatto con parti in tensione
+C	Dal contatto con i cavi
+D	Dal contatto con gli apparecchi utilizzatori
+
+9	Per contatto diretto si intende:
+A	Il contatto con una parte normalmente non in tesione e che, accidentalmente, si trova in tensione
+@B	Il contatto accidentale con una parte normalmente in tensione
+C	Il contatto volontario con un apparecchio elettrico
+D	Il contatto involontario con un apparecchio elettrico
+
+
+10	Per contatto indiretto si intende:
+@A	Il contatto con una parte normalmente non in tesione e che, accidentalmente, si trova in tensione
+B	Il contatto accidentale con una parte normalmente in tensione
+C	Il contatto volontario con un apparecchio elettrico
+D	Il contatto involontario con un apparecchio elettrico
+
+
+<Lezione 2
+
+1	Un circuito elettrico si definisce come:
+@A	Un'interconnessione di dispositivi elettrici
+B	Un'interconnessione di dispositivi meccanici
+C	Un'interconnessione di dispositivi luminosi
+D	Un'interconnessione di linee elettriche
+
+2	L'unità di misura della tensione è:
+A	Il joule
+B	Il watt
+C	L'ampere
+@D	Il volt
+
+3	L'unità di misura della corrente è:
+A	Il joule
+B	Il watt
+@C	L'ampere
+D	Il volt
+
+4	L'unità di misura correntemente utilizzata per l'energia elettrica è:
+A	Il joule
+@B	Il chilowattora
+C	Il watt
+D	Il voltampere
+
+5	La convenzione del generatore:
+A	Si applica solo ai generatori
+B	Si applica solo ai bipoli attivi
+C	Prevede che il verso di corrente e tensione siano discordi
+@D	Prevede che il verso di corrente e tensione siano concordi
+
+6	La convenzione dell'utilizzatore:
+A	Si applica solo agli utilizzatori
+B	Si applica solo ai bipoli passivi
+@C	Prevede che il verso di corrente e tensione siano discordi
+D	Prevede che il verso di corrente e tensione siano concordi
+
+7	La corrente continua è caratterizzata da:
+A	Un flusso discontinuo di cariche
+@B	Un flusso di cariche costante nel tempo
+C	Un flusso di cariche a legge quadratica
+D	Un flusso di cariche a legge sinusoidale
+
+8	Il resistore:
+A	È un bipolo attivo
+@B	È un bipolo dissipativo
+C	È l'attitudine del materiale ad opporsi al flusso di cariche
+D	Si misura in ohm
+
+
+9	Il corto circuito:
+A	è un bipolo in grado di mantenere sempre costante la corrente circolante tra i suoi morsetti
+B	È un bipolo dissipativo
+@C	È un caso particolare del bipolo generatore ideale di tensione
+D	È un caso particolare del bipolo generatore ideale di corrente
+
+10	Il circuito aperto:
+A	è un bipolo in grado di mantenere sempre costante la tensione tra i suoi morsetti
+B	È un bipolo dissipativo
+C	È un caso particolare del bipolo generatore ideale di tensione
+@D	È un caso particolare del bipolo generatore ideale di corrente
+
+
+<Lezione 3
+
+1	In in circuito i nodi:
+A	Sono tutti i possibili percorsi chiusi costituiti da bipoli
+B	Sono sempre in numero dispari
+C	Sono sempre in numero pari
+@D	Sono i punti in cui convergono almeno due bipoli
+
+2	In in circuito le maglie:
+@A	Sono tutti i possibili percorsi chiusi costituiti da bipoli
+B	Sono sempre in numero dispari
+C	Sono sempre in numero pari
+D	Sono i punti in cui convergono almeno due bipoli
+
+3	In un nodo confluiscono tre bipoli la cui corrente (entrante nel nodo) vale +10 A, -5 A e:
+A	+5A
+@B	-5A
+C	+15A
+D	-15A
+
+4	Due bipoli in serie:
+A	Costituiscono un bipolo detto corto circuito
+B	Hanno due morsetti in comune tra i quali si registra la stessa tensione
+@C	Hanno un morsetto in comune e in essi circola la stessa corrente
+D	Costituiscono un bipolo detto circuito aperto
+
+5	Due bipoli in parallelo:
+A	Costituiscono un bipolo detto corto circuito
+@B	Hanno due morsetti in comune tra i quali si registra la stessa tensione
+C	Hanno un morsetto in comune e in essi circola la stessa corrente
+D	Costituiscono un bipolo detto circuito aperto
+
+6	La resistenza equivalente della serie di due resistenze di 5 ohm vale:
+@A	10 ohm
+B	2,5 ohm
+C	0,2 ohm
+D	0,2 ohm
+
+7	La resistenza equivalente del parallelo di due resistenze di 5 ohm vale:
+A	10 ohm
+@B	2,5 ohm
+C	0,2 ohm
+D	0,2 ohm
+
+
+8	Un circuito comunque complesso, costituito da bipoli ideali, può essere ridotto:
+A	Ad un bipolo equivalente costituito dal parallelo di un resistore e generatore di tensione
+B	Ad un bipolo equivalente costituito dal parallelo di due generatori di tensione
+C	Ad un bipolo equivalente costituito dalla serie di un resistore e generatore di corrente
+@D	Ad un bipolo equivalente costituito dalla serie di un resistore e generatore di tensione
+
+9	Nel bipolo equivalente di Thévenin il valore della resistenza equivalente si calcola:
+@A	Sostituendo i generatori di tensione con corto circuiti e i generatori di corrente con circuiti aperti
+B	Sostituendo i generatori di corrente con corto circuiti e i generatori di tensione con circuiti aperti
+C	Sostituendo i bipoli corto circuito con i generatori di tensione e i bipoli circuito aperto con i generatori di 	tensione
+D	Sostituendo i bipoli corto circuito con i generatori di corrente e i bipoli circuito aperto con i generatori di 	corrente
+
+10	Nel bipolo equivalente di Thévenin il valore della tensione equivalente tra i morsetti A e B è:
+A	La tensione che si ottiene sostituendo i generatori di tensione con corto circuiti
+B	La tensione 'di corto circuito'che si determina tra i morsetti A e B
+@C	La tensione a vuoto' ai morsetti A e B
+D	La tensione che si ottiene sostituendo i bipoli corto circuito con i generatori di corrente
+
+
+<Lezione 4
+
+1	Il valore efficcace di una grandezza sinusoidale:
+A	Coincide con il valor medio nel periodo
+B	Coincide con il valore massimo
+C	È
+@D	È 1/
+
+2	Date due grandezze sinusoidali A e B, si dice che A è in anticipo su B quando:
+@A	La fase di A è maggiore della fase di B
+B	La fase di A è inferiore a quella di B
+C	La fase di B è maggiore della fase di A
+D	Il valore massimo di A è superiore a quello di B
+
+3	Il periodo di una grandezza sinusoidale:
+A	Si misura in Hertz
+B	Si misura in radianti
+@C	Si misura in secondi
+D	Si misura in ampere
+
+4	La frequenza di una grandezza sinusoidale:
+@A	Si misura in Hertz
+B	Si misura in radianti
+C	Si misura in secondi
+D	Si misura in ampere
+
+5	La caratteristica del bipolo resistore è:
+A	P(t) = v(t) i(t)
+@B	V(t) = R i(t)
+C	V(t) = R/i(t)
+D	I(t) = R/v(t)
+
+6	L'induttanza si misura in:
+A	Secondi
+B	Ohm
+C	Farad
+@D	Henry
+
+
+7	La capacità si misura in:
+A	Secondi
+B	Ohm
+@C	Farad
+D	Henry
+
+8	Il modulo dell'impedenza:
+A	Se capacitiva si misura in henry
+B	È pari al rapporto tra i valori medi nel periodo della tensione e della corrente
+@C	È pari al rapporto tra i valori massimi della tensione e della corrente
+D	Si misura in radianti
+
+9	La reattanza induttiva si calcola come:
+A	2
+@B	2
+C	1/(2
+D	L / 2
+
+10	La reattanza capacitiva si calcola come:
+A	2
+B	2
+@C	1/(2
+D	C / 2
+
+
+<Lezione 5
+
+1	Nei circuiti in regime sinusoidale, la presenza dell'induttore determina che:
+A	Il teorema di Thevenin non vale
+B	I principi di kirchhoff non valgono
+C	Le equazioni di nodo e di maglia sono algebriche
+@D	Le equazioni di nodo e di maglia sono differenziali
+
+2	Risolvendo un circuito in regime sinusoidale, una generica corrente è una funzione composta:
+A	Solo da un termine transitorio
+B	Solo da un termine permanente
+@C	Da un termine transitorio e da un termine permanente
+D	Da due termini sinusoidali
+
+3	Risolvendo un circuito in regime sinusoidale, il termine permanente di una grandezza incognita:
+A	Dipende dalle condizioni iniziali
+@B	È la soluzione a regime
+C	Si annulla a regime
+D	Non dipende dai bipoli generatori
+
+4	Risolvendo un circuito in regime sinusoidale, il termine transitorio di una grandezza incognita:
+@A	Dipende dalle condizioni iniziali
+B	È la soluzione a regime
+C	Dipende solamente dall'effetto dei generatori
+D	Non si annulla a regime
+
+5	L'andamento nel tempo di una corrente sinusoidale con frequenza f può essere rappresentato dalla 	proiezione sull'asse delle ordinate di un vettore:
+@A	Rotante con velocità angolare pari a 2
+B	Rotante con velocità angolare pari a f
+C	Fisso con modulo pari a 2
+D	Fisso con modulo pari a f
+
+
+6	Al variare del tempo t, gli sfasamenti reciproci dei vettori rappresentativi delle tensioni e delle correnti 	di un circuito in regime sinusoidale:
+A	Sono decrescenti
+B	Sono crescenti
+C	Variano con legge sinusoidale
+@D	Rimangono costanti
+
+7	Tra un fasore ed una grandezza sinusoidale:
+@A	Esiste una corrispondenza biunivoca
+B	Non esiste alcuna corrispondenza
+C	Esiste una relazione di proporzionalità
+D	Esiste una relazione di uguaglianza
+
+8	Nelle applicazioni pratiche è convenzione rappresentare il modulo del fasore:
+A	Mediantela fase della grandezza sinusoidale corrispondente
+B	Mediante il valore massimo della grandezza sinusoidale corrispondente
+@C	Mediante il valore efficace della grandezza sinusoidale corrispondente
+D	Mediante il valore assoluto della grandezza sinusoidale corrispondente
+
+9	La rappresentazione fasoriale delle correnti e tensioni sinusoidali:
+A	Non preserva la validità dei principi di Kirchhoff
+@B	Preserva la validità di entrambi i principi di Kirchhoff
+C	Preserva la validità del solo principio di Kirchhoff sulle correnti
+D	Preserva la validità del solo principio di Kirchhoff sulle tensioni
+
+10	Un fasore può essere rappresentato:
+A	Da un numero reale
+@B	Da un numero complesso
+C	Da un numero intero
+D	Da un numero razionale
+
+
+<Lezione 6
+
+1	L'induttore ed il condensatore sono bipoli:
+A	Dissipativi
+B	Passivi
+@C	Conservativi
+D	Attivi
+
+2	Un bipolo conservativo:
+A	Non ha scambi di energia con gli altri bipoli del circuito
+B	Ha scambi di energia con l'esterno del circuito
+@C	Non ha scambi di energia con l'esterno del circuito
+D	È dissipativo
+
+3	La potenza istantanea assorbita da un resistore:
+A	Ha un valor medio nel periodo nullo
+@B	Ha un valor medio nel periodo positivo
+C	Ha un valor medio nel periodo negativo
+D	È costante nel tempo
+
+4	La potenza attiva assorbita da un resistore:
+A	Ha un valor medio nel periodo nullo
+B	Ha un valor medio nel periodo positivo
+C	Ha un valor medio nel periodo negativo
+@D	È costante nel tempo
+
+
+5	La potenza reattiva assorbita da un bipolo:
+A	Si misura in 'watt'
+B	Si misura in 'va'
+@C	Si misura in 'var'
+D	Si misura in 'J'
+
+6	Nel calcolo della potenza attiva compare il prodotto della tensione e corrente:
+@A	Ciascuna in valore efficace
+B	Ciascuna in valore massimo
+C	Ciascuna in valore assoluto
+D	Ciascuna in valore istantaneo
+
+7	La potenza apparente di un bipolo:
+A	Si misura in 'watt'
+@B	Si misura in 'va'
+C	Si misura in 'var'
+D	Si misura in 'J'
+
+8	La potenza apparente di un resistore:
+@A	Coincide con la potenza attiva
+B	Coincide con la potenza reattiva
+C	È a valor medio nullo nel periodo
+D	È variabile sinusoidalmente nel tempo
+
+9	La potenza apparente di un induttore:
+A	Coincide con la potenza attiva
+@B	Coincide con la potenza reattiva
+C	È a valor medio nullo nel periodo
+D	È variabile sinusoidalmente nel tempo
+
+10	La potenza complessa:
+A	È sempre positiva
+B	È un fasore
+C	È un numero reale
+@D	È un numero complesso
+
+
+<Lezione 7
+
+1	Una terna di vettori si dice spuria, quando:
+A	La loro somma è zero
+@B	La loro somma non è zero
+C	Formano i lati di un triangolo equilatero e si succedono in senso antiorario
+D	Formano i lati di un triangolo equilatero e si succedono in senso orario
+
+2	Una terna di vettori si dice pura, quando:
+@A	La loro somma è zero
+B	La loro somma non è zero
+C	Formano i lati di un triangolo equilatero e si succedono in senso antiorario
+D	Formano i lati di un triangolo equilatero e si succedono in senso orario
+
+3	Una terna di vettori si dice simmetrica diretta, quando:
+A	La loro somma è zero
+B	La loro somma non è zero
+C	Formano i lati di un triangolo equilatero e si succedono in senso antiorario
+@D	Formano i lati di un triangolo equilatero e si succedono in senso orario
+
+
+4	Una terna di vettori si dice simmetrica inversa, quando:
+A	La loro somma è zero
+B	La loro somma non è zero
+@C	Formano i lati di un triangolo equilatero e si succedono in senso antiorario
+D	Formano i lati di un triangolo equilatero e si succedono in senso orario
+
+5	Un sistema trifase è un circuito elettrico formato da:
+@A	Una terna di rami in parallelo, alimentata da una terna di generatori di tensione
+B	Una n-pla di rami in parallelo, alimentata da una n-pla di generatori di tensione
+C	Una terna di generatori di tensione in parallelo
+D	Una terna di utilizzatori in parallelo
+
+6	In un sistema trifase, ogni vettore rappresentativo delle tensioni è sfasato di:
+@A	±2/3
+B	±2/3
+C	±3/2
+D	±3/2
+
+7	In un sistema trifase, tre generatori sono collegati a stella se:
+A	Sono collegati in serie
+B	Sono collegati in parallelo
+C	Hanno due morsetti in comune
+@D	Hanno un morsetto in comune
+
+8	Il centrostella è:
+A	Il morsetto in comune di tre generatori collegati a triangolo
+@B	Il morsetto in comune di tre generatori collegati a stella
+C	Il morsetto di connessione dei generatori ai carichi
+D	Un corto circuito
+
+9	Le tensioni stellate sono quelle misurate:
+@A	Tra i morsetti di uno stesso generatore
+B	Tra i morsetti di due generatori differenti
+C	Tra il morsetto di un generatore e quello di un carico
+D	Al centro stella
+
+10	In un sistema trifase simmetrico, il modulo delle tensioni di linea vale:
+A	√2 volte il modulo della tensione stellata
+B	1/√2 volte il modulo della tensione stellata
+@C	√3 volte il modulo della tensione stellata
+D	1/√3 volte il modulo della tensione stellata
+
+
+<Lezione 8
+
+1	Una terna di generatori sono colllegatio 'a stella':
+@A	Se hanno un morsetto in comune
+B	Se hanno due morsetti in comune
+C	Se alimentano un sistema trifase
+D	Se alimentano un sistema trifase equilibrato
+
+2	Una terna di generatori sono colllegatio 'a triangolo':
+A	Se hanno un morsetto in comune
+B	Se hanno due morsetti in comune
+@C	Se sono collegati in modo da formre i lati di un triangolo
+D	Se sono collegati in serie
+
+
+3	Tre generatori 'a triangolo' sono equivalenti a tre generatori 'a stella' purché forniscano:
+A	Una terna di tensioni che siano esattamente le tensioni stellate risultanti dai tre generatori 'a stella'
+@B	Una terna di tensioni che siano esattamente le tensioni concatenate risultanti dai tre generatori 'a stella'
+C	Una terna di correnti equilibrate
+D	Una terna di correnti simmetriche
+
+4	Una terna di impedenze sono colllegatio 'a stella':
+@A	Se hanno un morsetto in comune
+B	Se hanno due morsetti in comune
+C	Se sono in serie
+D	Se sono in parallelo
+
+5	Un carico costituito da tre impedenze si dice equilibrato se:
+A	Le tre impedenze sono nulle
+B	Le tre impredenza hanno solo parte immaginaria
+C	Le tre impedenze hanno solo parte reale
+@D	Le tre impedenze sono uguali tra loro
+
+6	Un carico equilibrato, alimentato da una terna di tensioni simmetriche, assorbe:
+A	Una terna di correnti equilibrata
+@B	Una terna di correnti simmetrica
+C	Una terna di correnti spuria
+D	Una terna di correnti tutte nulle
+
+7	In un sistema trifase simmetrico ed equilibrato, ls tensione fra i due centri stella:
+@A	Vale zero
+B	Dipende dal valore delle tensioni
+C	Dipende dal valore delle correnti
+D	Coincide col prodotto della corrente ed impedenza di ciascun ramo
+
+8	In un sistema trifase simmetrico ed equilibrato:
+A	Ciascuna fase trasferisce al carico una potenza nulla
+@B	Ciascuna fase trasferisce al carico 1/3 della potenza totale
+C	Solo la prima fase trasferisce potenza al carico
+D	Ciascuna fase trasferisce al carico una potenza proporzionale alla fase iniziale dei rispettivi generatori
+
+9	Il sistema equivalente monofase:
+A	Permette di studiare un qualsiasi sistema trifase
+B	Permette di studiare un qualsiasi sistema trifase simmetrico
+C	Permette di studiare un qualsiasi sistema trifase equilibrato
+@D	Permette di studiare un qualsiasi sistema trifase simmetrico ed equilibrato
+
+10	Il terorema di Millman:
+A	Si applica solo ai sistemi trifase simmetrici ed equilibrati
+B	Si applica solo ai sistemi trifase simmetrici
+C	Si applica solo ai sistemi trifase equilibrati
+@D	Si applica ad un qualsiasi sistema trifase
+
+
+<Lezione 9
+
+1	Il teorema di Boucherot permette di calcolare la potenza trifase a partire :
+A	Dalle tensioni di fase
+B	Dalle tensioni di linea
+@C	Dalle potenze monofasi
+D	Dalle potenze monofasi
+
+
+2	In un sistema trifase simmetrico ed equilibrato la potenza apparente trifase si calcola attraverso il 	prodotto:
+@A	√3 V I (con V ed I valore efficace di corrente e tensione)
+B	√2 V I (con V ed I valore efficace di corrente e tensione)
+C	V I (con V ed I valore efficace di corrente e tensione)
+D	V I cos φ (con V ed I valore efficace di corrente e tensionee φ il fattore di potenza)
+
+3	In un sistema trifase simmetrico ed equilibrato la potenza attiva trifase si calcola attraverso il prodotto:
+A	√3 V I (con V ed I valore efficace di corrente e tensione)
+B	√2 V I (con V ed I valore efficace di corrente e tensione)
+C	√3 V I sen φ (con V ed I valore efficace di corrente e tensione e φ il fattore di potenza)
+@D	√3 V I cos φ (con V ed I valore efficace di corrente e tensione e φ il fattore di potenza)
+
+4	In un sistema trifase simmetrico ed equilibrato la potenza reattiva trifase si calcola attraverso il 	prodotto:
+A	√3 V I (con V ed I valore efficace di corrente e tensione)
+B	√2 V I (con V ed I valore efficace di corrente e tensione)
+@C	√3 V I sen φ (con V ed I valore efficace di corrente e tensione e φ il fattore di potenza)
+D	√3 V I cos φ (con V ed I valore efficace di corrente e tensione e φ il fattore di potenza)
+
+5	Se il modulo di una di tre impedenze uguali collegate a stella vale 3 ohm, il modulo di una di tre 	impedenze 	collegate a triangolo equivalenti vale:
+A	3 ohm
+B	1 ohm
+@C	9 ohm
+D	27 ohm
+
+6	La fase dell'impedenza caratterizzata dalla sola reattanza capacitiva, vale:
+@A	−π/2
+B	π/2
+C	−2/3π
+D	2/3π
+
+7	La fase dell'impedenza carattaerizzata dalla sola reattanza induttiva, vale:
+A	−π/2
+@B	π/2
+C	−2/3π
+D	2/3π
+
+8	In un sistema trifase simmetrico ed equilibrato, la potenza istantanea:
+A	Varia con legge sinusoidale con frequenza pari a quella dei generatori
+B	Varia con legge sinusoidale con frequenza doppia di quella dei generatori
+C	Ha valor medio nullo nel periodo
+@D	E' costante nel tempo
+
+9	La potenza istantanea assorbita da un carico trifase equilibrato alimentato da una terna di tensioni 	simmetriche, 	si calcola attraverso il prodotto:
+A	3 E I (dove E è la tensione di fase ed I la corrente assorbita)
+@B	3 E I cos φ (dove E è la tensione di fase, I la corrente assorbita e φ il fattore di potenza)
+C	3 E I cos (ωt) (dove E è la tensione di fase ed I la corrente assorbita)
+D	3 E I cos (ωt+φ) (dove E è la tensione di fase, I la corrente assorbita e φ il fattore di potenza)
+
+10	Le componenti alternative di potenza istantanea assorbite da una terna di impedenze equilibrata 	alimentata da 	una terna di tensioni simmetriche:
+A	Hanno un valore che dipende dalle impedenze
+@B	Si annullano
+C	Hanno frequenza pari a quella dei generatori
+D	Hanno valor medio variabile nel periodo
+
+
+<Lezione 10
+
+1	In una rete trifase simmetrica, se il valore efficace delle tensioni concatenate è 400 V, quello delle tensioni 	di fase è circa:
+A	220 V
+@B	230 V
+C	680 V
+D	690 V
+
+2	In un sistema trifase simmetrico ed equilibrato, lo 'spostamento del centro stella' vale:
+@A	0
+B	230 V
+C	400 V
+D	Dipende dal carico
+
+3	In un sistema trifase simmetrico ed equilibrato, le correnti di linea costituiscono una terna:
+A	Sfasata di π/6 rispetto alla terna delle tensioni di linea
+B	Dissimmetrica
+C	Equilibrata
+@D	Simmetrica
+
+4	Modulo e fase dell'impedenza 1+1i valgono:
+A	Modulo = 1 e fase = 1
+B	Modulo = √2 e fase = √2
+C	Modulo = √2 e fase = 1
+@D	Modulo = √2 e fase= π/4
+
+5	In un sistema trifase simmetrico ed equilibrato, le correnti di lato in una terna di impedenze collegate a 	triangolo hanno:
+A	Il valore efficace pari a √2 volte quello delle correnti di linea
+B	Il valore efficace pari a 1/√2 volte quello delle correnti di linea
+C	Il valore efficace pari a √3 volte quello delle correnti di linea
+@D	Il valore efficace pari a 1/√3 volte quello delle correnti di linea
+
+6	In un sistema trifase simmetrico ed equilibrato, una terna di impedenze collegate a stella è equivalente 	ad una 	terna di impedenze equilibrate collegate a triangolo il cui valore è pari a:In un sistema trifase 	simmetrico ed 	equilibrato, una terna di impedenze collegate a stella è equivalente ad una terna di 	impedenze equilibrate 	collegate a triangolo il cui valore è pari a:
+@A	3 volte il valore dell'impedenza collegata a stella
+B	1/3 del valore dell'impedenza collegata a stella
+C	√3 volte il valore dell'impedenza collegata a stella
+D	1/√3 volte il valore dell'impedenza collegata a stella
+
+7	Un carico equilibrato puramente resistivo, se alimentato da una terna simmetrica di tensioni, il cui 	valore 	efficace è 400 V, assorbe una potenza attiva di 800 kW, ovvero una corrente:
+A	2 A
+B	2000 A
+C	2/√3 A
+@D	2000/√3 A
+
+8	Un carico equilibrato puramente induttivo, se alimentato da una terna simmetrica di tensioni, il cui 	valore 	efficace è 400 V, assorbe una potenza reattiva di 800 Var, ovvero una corrente:
+A	2 A
+B	2000 A
+@C	2/√3 A
+D	2000/√3 A
+
+
+9	La potenza apparente di un carico trifase che assorbe una potenza attiva di 4 kW e una potenza reattiva 	di 3 kVar,vale:
+A	7 MVA
+B	7 kVA
+C	25 kVA
+@D	5 kVA
+
+10	Il fattore di potenza di un carico che assorbe una potenza attiva di 40 kW e reattiva di 40 kVar vale:
+A	1
+@B	√2/2
+C	π/4 in ritardo
+D	π/4 in anticipo
+
+
+<Lezione 11
+
+1	Il valore efficace della tensione j230 vale:
+@A	230 V
+B	√2 230 V
+C	1/√2 230 V
+D	√3 230 V
+
+2	La fase della tensione j 230 vale:
+A	2/3 π
+B	4/3 π
+@C	π/2
+D	0
+
+3	La fase della tensione 230 vale:
+A	2/3 π
+B	4/3 π
+C	π/2
+@D	0
+
+4	Lo spostamento del centro stella:
+@A	E' un fasore rappresentativo di una tensione
+B	E' un fasore rappresentativo di una corrente
+C	E' una impedenza
+D	E' una potenza
+
+5	In una rete trifase squilibrata con conduttore di neutro, la corrente che circola in una specifica linea:
+A	E' uguale a quella delle altre due linee
+B	Dipende dalla terna di impedenze
+@C	Dipende dalla sola impedenza collegata alla linea stessa
+D	E' in fase con la relativa tensione di stellata
+
+6	Una rete trifase con conduttore di neutro, alimenta con tensione di fase pari a 230 V (valore efficace) una 	terna di impedenze. Se il modulo di una impedenza è 10 Ω, il valore efficace della corrente di linea 	corrispondente:
+A	Dipende comunque dalle altre due impedenze
+@B	23 A
+C	2300 A
+D	√3 23 A
+
+7	Il modulo dell'impedenza 1-j, vale:
+A	2 Ω
+B	0
+@C	√2 Ω
+D	π/4 Ω
+
+8	Il rifasamento consiste:
+A	Nel rendere il carico complessivo equilibrato
+@B	Nell'aumentare il fattore di potenza
+C	Nel diminuire il fattore di potenza
+D	Nell'aumentare l'angolo di sfasamento tra la tensione e la corrente
+
+9	Il fattore di potenza di un carico che assorbe una potenza attiva di 50 kW e una potenza apparente di 	100 kVA è:
+@A	1/2
+B	√3/2
+C	π/3
+D	π/6
+
+10	Una terna di condensatori collegati a stella è equivalente ad una terna di condensatori collegati a 	triangolo e di capacità tutte uguali e pari a 3 F, se il valore delle singole capacità è:
+A	1 F
+B	3 F
+@C	9 F
+D	12 F
+
+
+<Lezione 12
+
+1	Un condensatore la cui capacità varia nel tempo:
+A	Non è lineare
+@B	E' lineare
+C	E' dissipativo
+D	E' sinusoidale
+
+2	Un condensatore la cui capacità varia al variare della tensione:
+@A	Non è lineare
+B	E' lineare
+C	E' dissipativo
+D	E' sinusoidale
+
+3	Un induttore la cui induttanza varia al variare della corrente:
+@A	Non è lineare
+B	E' lineare
+C	E' dissipativo
+D	E' sinusoidale
+
+4	Un resistore è lineare se la sua resistenza :
+A	E' costante o varia con la corrente
+B	E' costante o varia con la tensione
+@C	E' costante o varia nel tempo
+D	Solo se è costante
+
+5	Risolvere una rete del primo ordine vuol dire risolvere:
+A	Un'equazone algebrica di primo grado
+@B	Un'equazone differenziale del primo ordine
+C	Un equazione algebrica di secondo grado
+D	Un'equazone differenziale del secondo ordine
+
+6	In un circuito costituito dalla serie di una resistenza (R) ed induttanza (L), la costante di tempo vale:
+A	-R/L
+B	-R/L
+C	-L/R
+@D	L/R
+
+
+7	L'integrale dell'equazione omogenea associata di una rete lineare, dipende:
+A	Solo dalle condizioni iniziali
+B	Solo dai generatori
+@C	Sia dal generatore che dalle condizioni iniziali
+D	Solo dall'istante iniziale
+
+8	L'integrale particolare di una rete lineare, dipende:
+A	Solo dalle condizioni iniziali
+@B	Solo dai generatori
+C	Sia dal generatore che dalle condizioni iniziali
+D	Solo dall'istante iniziale
+
+9	In un induttore, la corrente è una funzione:
+@A	Continua
+B	Non continua
+C	Costante
+D	Non costante
+
+10	La durata del transitorio in una rete lineare:
+A	Dipende solo dai generatori
+B	Dipende solo dai parametri dei bipoli conservativi
+C	Dipende solo dai parametri dei bipoli dissipativi
+@D	Dipende dalla costante di tempo
+
+
+<Lezione 13
+
+1	Il trasferimento dell'energia elettrica dai luoghi in cui viene prodotta a quelli in cui viene utilizzata 	avviene, salvo casi particolari:
+A	In corrente continua
+B	In corrente continua trifase
+@C	In corrente alternata trifase
+D	In corrente alternata monofase
+
+2	Le linee di distribuzione dell'energia elettrica includono:
+A	Solo linee in bassa tensione
+B	Solo linee in media tensione
+C	Solo linee in alta tensione
+@D	Linee in alta, media e bassa tensione
+
+3	Il subsistema di produzione include:
+A	Le linee di trasmissione
+B	Le linee di distribuzione
+C	Le cabine di trasformazione
+@D	Le centrali elettriche
+
+4	Il subsistema di trasmissione include:
+@A	Le linee di trasmissione
+B	Le linee di distribuzione
+C	Le cabine di trasformazione
+D	Le centrali elettriche
+
+5	Il trasformatore:
+A	Permette di collegare linee in corrente continua a quelle in corrente alternata
+@B	Permette di adottare i livelli di tensione a quelli più adatti alla produzione, trasmissione, distribuzione ed 	utilizzazione dell'energia elettrica
+C	Permette di adottare i livelli di frequenza a quelli più adatti alla produzione, trasmissione, distribuzione ed 	utilizzazione dell'energia elettrica
+D	Permette di trasformare forme di energia diverse in energia elettrica
+
+6	Rispetto ad una corrente continua, è più facile interrompere una corrente alternata:
+A	Solo in alta tensione
+B	Solo in bassa tensione
+@C	Per via dei naturali passaggi per lo zero
+D	Perché ha un contenuto enegetico minore
+
+7	Nel sistema elettrico Italiano, la trasmissione in corrente continua:
+@A	Necessita di stazioni di conversione
+B	Necessita di generatori in corrente continua
+C	Non può avvenire se ci sono carichi in corrente alternata
+D	Si utilizza solo per brevi distanze
+
+8	Se una linea trifase ha tensione nominale 400 V, la sua tensione massima verso terra vale circa:
+A	490 V
+@B	330 V
+C	400 V
+D	800 V
+
+9	La trasmissione in corrente alternata trifase, rispetto a quella in corrente continua:
+@A	Richiede un maggior volume di materiale conduttore ed implica maggiori perdite
+B	Richiede un minor volume di materiale conduttore ed implica minori perdite
+C	Implica una maggiore tensione massima verso terra
+D	Richiede un minor numero di conduttori attivi
+
+10	A parità di potenza dissipata, un sistema trifase, rispetto ad uno monofase, richiede:
+A	Un maggior volume di materiale conduttore
+@B	Un minor volume di materiale conduttore
+C	Una maggiore tensione massima verso terra
+D	Un minor numero di conduttori attivi
+
+
+<Lezione 14
+
+1	La fonte primaria di un impianto idroelettrico è:
+@A	L'energia idraulica
+B	L'energia termica da combustibili fossili
+C	L'energia eolica
+D	L'energia solare
+
+2	La fonte primaria di un impianto termoelettrico è:
+A	L'energia idraulica
+@B	L'energia termica da combustibili fossili
+C	L'energia eolica
+D	L'energia solare
+
+3	Gli impianti di produzione concentrata sono:
+@A	Impianti di grossa taglia, normalmente collegati alla rete di trasmissione
+B	Impianti di piccola taglia, normalmente collegati alla rete di distribuzione
+C	Impianti da fonte solare
+D	Impianti da fonte eolica
+
+4	In Italia, un valore caratteristico della tensione di esercizio di una linea di trasmissione è:
+A	20 kV
+B	380 V
+C	230 V
+@D	380 kV
+
+
+5	Un sistema di trasmissione è costituito:
+A	Da un insieme di linee collegate in serie
+B	Da una rete elettrica ai cui nodi sono collegate le utenze
+@C	Da una rete elettrica i cui lati sono linee elettriche
+D	Da generatori sincroni e trasformatori
+
+6	Un nodo di interconnessione:
+A	E' un nodo della rete in cui è collegato un carico
+B	E' un nodo in cui sono interconnesse due reti di distribuzione
+@C	E' un nodo in cui sono interconnesse due reti di trasmissione
+D	E' un nodo della rete in cui è collegato un generatore
+
+7	Una rete di distribuzione primaria può essere esercita alla tensione di:
+A	380 kV
+B	220 kV
+C	20 kV
+@D	150 kV
+
+8	Una rete di distribuzione in media tensione può essere esercita alla tensione di:
+A	380 kV
+B	220 kV
+@C	20 kV
+D	150 kV
+
+9	Le reti di distribuzione in bassa tensione sono esercite alla tensione di:
+A	200 V
+@B	400 V
+C	600 V
+D	800 V
+
+10	Un sistema di utilizzazione può essere alimentato:
+A	Solo dalle stazioni primarie
+B	Solo dalle cabine primarie
+C	Solo dalle cabine MT/BT
+@D	Dalle stazioni primarie, dalle cabine primarie, o dalle cabine MT/BT
+
+
+<Lezione 15
+
+1	Con il Decreto Legislativo n. 79:
+@A	Le reti di trasmissione e di distribuzione sono date in concessione con obblighi e diritti conseguenti
+B	Gli impianti di produzione sono dati in concessione con obblighi e diritti conseguenti
+C	Gli impianti di utilizzazione sono dati in concessione con obblighi e diritti conseguenti
+D	Si stabilisce il monopolio nelle gestione del sistema elettrico
+
+2	Il gestore delle reti di trasmissione deve:
+A	Garantire il monopolio della produzione di energia elettrica
+B	Garantire la concorrenza nel mercato libero dell'energia elettrica
+C	Gestire i contratti con i clienti
+@D	Garantire la sicurezza e l'affidabilità del servizio elettrico
+
+3	L'attuale assetto dell'energia elettrica in Italia prevede:
+@A	I Produttori
+B	I Creditori
+C	I Negoziatori
+D	Gli agenti di Borsa
+
+
+4	Nell'attuale assetto dell'energia elettrica in Italia prevede:
+A	Il monopolio ENEL nella produzione di energia elettrica
+B	Il monopolio Terna nella produzione di energia elettrica
+@C	La libera concorrenza tra i produttori
+D	Il monopolio GSE nella produzione di energia elettrica
+
+5	Nell'attuale quadro legislativo, a qualsiasi soggetto è consentito di produrre o importare:
+A	Il totale dell'energia elettrica prodotta e importata in Italia
+B	Non più del 75% del totale dell'energia elettrica prodotta e importata in Italia
+C	Non più del 60% del totale dell'energia elettrica prodotta e importata in Italia
+@D	Non più del 50% del totale dell'energia elettrica prodotta e importata in Italia
+
+6	Nell'attuale quadro legislativo, le produzioni di energia elettrica da fonti rinnovabili:
+@A	Hanno la priorità assoluta di immissione in rete
+B	Sono immesse in rete solo se profittevoli
+C	Hanno la priorità di immissione in rete solo dopo quella derivante dalla cogenerazione
+D	Possono essere immesse solo nelle reti di distribuzione
+
+7	Nell'attuale quadro legislativo, le produzioni di energia elettrica prodotta da impianti di cogenerazione:
+A	Hanno la priorità assoluta di immissione in rete
+B	Sono immesse in rete solo se profittevoli
+@C	Hanno la priorità di immissione in rete solo dopo quella derivante dalle fonti rinnovabili
+D	Possono essere immesse solo nelle reti di distribuzione
+
+8	I clienti idonei possono acquistare energia elettrica:
+A	Da qualsiasi produttore, distributore o grossista, purchè in Italia
+@B	Da qualsiasi produttore, distributore o grossista, sia in Italia sia all'estero
+C	Da qualsiasi produttore, purché in Italia
+D	Da qualsiasi grossista, purchè in Italia
+
+9	Il Gestore dei Mercati Energetici:
+A	Gestisce le offerte di vendita e di acquisto dei combustibili fossili convenzionali
+B	Gestisce le offerte di vendita e di acquisto delle infrastrutture delle reti di trasmissione
+@C	Gestisce le offerte di vendita e di acquisto dell'energia elettrica e di tutti i servizi connessi
+D	Gestisce le offerte di vendita e di acquisto delle infrastrutture delle reti di distribuzione
+
+10	Il modello di mercato adottato in Italia prevede:
+@A	La coesistenza di contratti bilaterali e Borsa dell'energia
+B	La sola possibilità di contratti bilaterali
+C	La sola presenza della Borsa dell'energia
+D	Il monopolio nella produzione dell'energia elettrica
+
+
+<Lezione 16
+
+1	Tipicamente, gli impianti elettrici si possono classificare in base:
+A	Alla corrente nominale
+@B	Alla tensione nominale
+C	Alla frequenza nominale
+D	Al valore dell'impedenza dei carichi
+
+2	Tipicamente, gli impianti elettrici si possono classificare in base:
+@A	Allo stato del neutro
+B	Al regime di funzionamento
+C	Alle condizioni di funzionamento
+D	Alla potenza dissipata nelle linee
+
+
+3	Tipicamente, gli impianti a corrente alternata possono essere classificati in due categorie:
+A	A tre o quattro conduttori
+B	A due o quattro conduttori
+C	A due o tre conduttori
+@D	Monofase o trifase
+
+4	Un impianto in corrente alternata è di I categoria se la tensione nominale è:
+A	Minore di 50 V
+@B	Maggiore di 50 V e minore di 1000 V
+C	Maggiore di 50 V
+D	Minore di 1000 V
+
+5	Un impianto in corrente alternata è di II categoria se la tensione nominale è:
+A	Minore di 50 V
+B	Maggiore di 50 V e minore di 1000 V
+@C	Maggiore di 1000 V e minore di 30000 V
+D	Maggiore di 30000 V
+
+6	Un impianto in corrente alternata è classificato di bassa tensione se appartiene alla categoria:
+A	0
+@B	I
+C	II
+D	III
+
+7	Un impianto in corrente alternata è classificato di media tensione se appartiene alla categoria:
+A	0
+B	I
+@C	II
+D	III
+
+8	In Italia, la tensione nominale tipicamente adottata per gli impianti di distribuzione in bassa tensione è:
+A	230 V
+@B	400 V
+C	600 V
+D	800 V
+
+9	Il neutro di una rete di distribuzione in bassa tensione:
+A	E' il conduttore di protezione
+B	E' un conduttore attivo della rete
+C	E' il conduttore che collega a terra il centro stella del secondario del trasformatore che alimenta la rete
+@D	E' il conduttore che fa capo al centro stella del secondario del trasformatore che alimenta la rete
+
+10	Per massa s'intende:
+@A	Una parte conduttrice di un componente elettrico che può essere toccata e che in condizioni ordinarie non è in 	tensione ma che può diventarlo in condizioni di guasto
+B	Una parte conduttrice di un componente elettrico che non può essere toccata e che in condizioni ordinarie non 	è in tensione ma che può diventarlo in condizioni di guasto
+C	Una parte isolante di un componente elettrico che può essere toccata e che in condizioni ordinarie non è in 	tensione ma che può diventarlo in condizioni di guasto
+D	Una parte isolante di un componente elettrico che non può essere toccata e che in condizioni ordinarie non è in 	tensione ma che può diventarlo in condizioni di guasto
+
+
+
+<Lezione 17
+
+1	Le condizioni di funzionamento normali sono quelle in cui:
+A	Il circuito è 'sano'
+B	Il circuito non è guasto
+@C	La frequenza e tutte le tensioni e correnti del circuito hanno valori contenuti in intervalli stabiliti ai fini del 	buon funzionamento del sistema
+D	La frequenza e tutte le tensioni e correnti del circuito hanno valori inferiori ad un valore massimo
+
+2	La sovracorrente è detta di sovraccarico se:
+A	Si stabilisce in un circuito 'guasto'
+@B	Se si stabilisce in un circuito 'sano'
+C	Se è transitoria
+D	Se è superiore ad un valore massimo
+
+3	Il cortocircuito è:
+@A	Provocato da un collegamento a bassa impedenza che viene ad instaurarsi tra punti del sistema elettrico 	caratterizzati, in condizioni normali, da valori diversi della tensione
+B	Provocato da un collegamento a bassa impedenza che viene ad instaurarsi tra punti del sistema elettrico 	caratterizzati, in condizioni normali, dallo stesso valore di tensione
+C	Provocato dalla perforazione dell'isolante
+D	Una corrente di sovraccarico
+
+4	Il cortocircuito si può instaurare:
+@A	Tra uno o più conduttori del circuito e la terra, oppure tra i conduttori del circuito
+B	Solo tra due o più conduttori del circuito
+C	Solo tra due conduttori del circuito e la terra
+D	Solo tra un conduttore del circuito e la terra
+
+5	Il cortocircuito può avere conseguenze negative a causa:
+A	Dei soli effetti elettrodinamici associati alle sovracorrenti conseguenti
+B	Dei soli effetti termici associati alle sovracorrenti conseguenti
+@C	Degli effetti sia elettrodinamici che termici associati alle sovracorrenti conseguenti
+D	Dagli effetti associati alle sovractensioni conseguenti
+
+6	Un cortocircuito trifase coinvolge:
+@A	Tutte e tre le fasi di un sistema trifase
+B	Almeno due fasi di un sistema trifase
+C	Almeno due fasi e la terra di un sistema trifase
+D	Le parti interessate da un qualsiasi cortocircuito in un sistema trifase
+
+7	Un cortocircuito monofase coinvolge:
+A	Solo un conduttore di fase del sistema trifase
+B	Solo due conduttori di fase di un sistema trifase
+C	Solo due conduttori di fase ed il neutro di un sistema trifase
+@D	Solo un conduttore di fase ed il neutro o la massa di un sistema trifase
+
+8	In un sistema TT, nel caso di cortocircuito monofase che coinvolge un conduttore di fase e la massa, la 	corrente si richiude:
+A	Attraverso il conduttore di neutro
+B	Attraverso gli altri conduttori di fase
+@C	Attraverso il centrostella del trasfomatore di cabina
+D	Attraverso il conduttore PEN
+
+9	Secondo la più generale delle classificazioni, le sovratensioni possono essere:
+A	Dovute a fulminazione diretta o per effetto dell'induzione
+@B	Di origine interne o esterne
+C	Di origine atmosferiche o per induzione
+D	Dirette o indirette
+
+10	La sovratensione indotta su una linea è causata:
+A	Da un fulmine che colpisce direttamente la linea
+@B	Da un fulmine che 'cade' nelle vicinanze della linea
+C	Dall'intervento di un interruttore di linea
+D	Da un cortocircuito che si istaura tra la linea e la terra
+
+
+<Lezione 18
+
+1	Una sovracorrente è legata:
+A	Ad un circuito 'sano'
+B	Ad un circuito 'guasto'
+@C	A scostamenti dei valori da essa assunti da quelli che garantiscono il buon funzionamento del sistema
+D	Ad un cortocircuito
+
+2	Una corrente di sovraccarico si può stabilire:
+@A	In un circuito 'sano'
+B	In un circuito 'guasto'
+C	In condizioni di funzionamento normali
+D	A seguito di un cortocircuito
+
+3	Una corrente di cortocircuito si può stabilire:
+A	In un circuito 'sano'
+@B	In un circuito 'guasto'
+C	In condizioni di funzionamento normali
+D	A seguito di un sovraccarico
+
+4	Tipicamente, la corrente di cortocircuito è data dalla soluzione:
+A	Di un circuito in corrente alternata
+B	Di un circuito in corrente continua
+@C	Di un'equazione differenziale
+D	Di un'equazione algebrica
+
+5	Tipicamente, la corrente di cortocircuito in un circuito in regime sinusoidale, è data:
+@A	Dalla somma di una componente unidirezionale ed una simmetrica
+B	Da una componente unidirezionale
+C	Da una componente simmetrica
+D	Dalla somma di una componente costante ed una alternativa
+
+6	In un circuito in regime sinusoidale, la componente simmetrica di una corrente di cortocircuito:
+A	Non c'è
+B	E' costante
+C	Si smorza dopo un tempo dipendente dai parametri del circuito
+@D	E' sinusoidale
+
+7	In un circuito in regime sinusoidale, la componente unidirezionale di una corrente di corto circuito:
+A	Non c'è
+B	E' costante
+@C	Si smorza dopo un tempo dipendente dai parametri del circuito
+D	E' sinusoidale
+
+8	Il valore di picco di una corrente di cortocircuito:
+A	E' il valore efficace della componente simmetrica della corrente di cortocircuito
+B	E' il valore massimo assunto della componente simmetrica della corrente di cortocircuito
+C	E' il valore massimo assunto della componente unidirezionale della corrente di cortocircuito
+@D	E' il valore massimo assunto della corrente di cortocircuito
+
+
+9	Il valore efficace della componente simmetrica di una corrente di cortocircuito:
+A	Si ottiene dal valore di picco moltiplicato per √2
+B	Si ottiene dal valore di picco diviso per √2
+C	Dipende dall'istante nel quale avviene il cortocircuito
+@D	Si calcola risolvendo il circuito a regime
+
+10	Il parametro p di un circuito, esprime il legame tra il valore di picco della corrente di corto circuito (ip) e 	del valore efficace della sua componente simmetrica (I), attraverso la formula:
+@A	Ip=p√2 I
+B	Ip=p/(√2 I)
+C	Ip=p/√2 I
+D	I=p√2 ip
+
+
+<Lezione 19
+
+1	Il trasformatore:
+A	E' una macchina elettrica rotante
+@B	E' una macchina elettrica statica
+C	E' una generatore elettrico
+D	E' una carico elettrico
+
+2	Il rendimento di un trasformatore:
+@A	E' molto elevato
+B	E' molto basso
+C	E' unitario per definizione
+D	Non si può definire
+
+3	Il trasformatore:
+@A	Può essere sia trifase che monofase
+B	Può essere solo trifase
+C	Può essere solo monofase
+D	Funziona solo in corrente continua
+
+4	Il trasformatore può essere impiegato per:
+A	Innalzare la tensione e la corrente
+B	Abbassare la tensione e la corrente
+@C	Innalzare la tensione ed abbassare la corrente
+D	Innalzare la potenza
+
+5	Il trasformatore si dice elevatore se:
+A	La corrente al primario è più bassa della corrente al secondario
+B	La tensione al primario è più alta della tensione al secondario
+@C	La tensione al secondario è più alta della tensione al primario
+D	La corrente al secondario è più alta della corrente al primario
+
+6	Il trasformatore si dice abbassatore se:
+A	La corrente al primario è più alta della corrente al secondario
+@B	La tensione al primario è più alta della tensione al secondario
+C	La tensione al secondario è più alta della tensione al primario
+D	La corrente al secondario è più bassa della corrente al primario
+
+7	Nel caso si utilizzi la convenzione dell'utilizzatore, il parametro 'a' del trasformatore permette di 	descrivere il legame esistente tra le tensioni al primario (v1) e secondario (v2), attraverso la relazione:
+A	V1=v2/a
+B	A=v2/v1
+C	V2=a v1
+@D	V1 = a v2
+
+
+8	In un trasformatore, il trasferimento della potenza elettrica, dal primario al secondario, avviene:
+A	Per mezzo di un avvolgimento
+@B	Per mezzo di una coppia di avvolgimenti mutuamente accoppiati
+C	Per mezzo di una coppia di avvolgimenti non mutuamente accoppiati
+D	Per mezzo di una coppia di avvolgimenti i cui campi elettromagnetici non intergiscono
+
+9	Il coefficiente di mutua induzione, tiene conto:
+A	Del flusso disperso
+B	Del flusso determinato dalla corrente che circola nel secondario
+C	Del campo elettromagnetico prodotto dalla corrente che attaversa un avvolgimento
+@D	Dell'interazione reciproca dei campi elettromagnetici generati dalle correnti che attraversano due avvolgimenti
+
+10	Il flusso di dispersione:
+A	Implica che il trasformatore è abbassatore
+@B	Tiene conto del fatto che il flusso medio nei due avvolgimenti non sono uguali
+C	Si definisce solo per l'avvolgimento secondario
+D	Si definisce solo per l'avvolgimento primario
+
+
+<Lezione 20
+
+1	La rappresentazione circuitale di un trasformatore monofase è:
+A	Un bipolo
+B	Due bipoli
+@C	Un doppio bipolo
+D	Due doppi bipoli
+
+2	Nel caso di un trasformatore con avvolgimenti privi di perdite, le relazioni caratteristiche del 	trasformatore dipendono:
+A	Solo dai coefficienti di auto induttanza
+B	Solo dal coefficiente di mutua induttanza
+@C	Sia dai coefficienti di auto induttanza che da quelli di mutua induttanza
+D	Dall'induttanza dell'avvolgimento
+
+3	Se i coefficienti di auto induzione di un trasformatore sono L1 ed L2, e quello di mutua è M, nel caso di 	accoppiamento perfetto si ha che:
+A	M=L1 L2
+B	M=L1/L2
+@C	M2=L1 L2
+D	M2=L1/L2
+
+4	Il trasformatore ideale:
+A	E' il trasformatore con accoppiamento perfetto
+B	E' il trasformatore con le resistenze degli avvolgimenti nulli
+C	E' il trasformatore con accoppiamento perfetto e con le resistenze degli avvolgimenti nulle
+@D	E' il trasformatore perfettamente trasparente per le potenze
+
+5	Nel caso del trasformatore ideale, con i coefficienti di auto induzione L1 ed L2, e quello di mutua è M, 	corrente e tensione primarie e secondarie dipendono dal solo parametro 'a' dato da:
+A	A=L1L2/M
+B	A=L1/L2
+@C	A=L1/M=M/L2
+D	A=L2/M=M/L1
+
+6	Nel caso di trasformatore ideale, vale la relazione:
+A	V1/I1 =- V2/I2
+B	V1/I1 =V2/I2
+@C	V1/I1 =-a2 V2/I2
+D	V1/I1 =a2 V2/I2
+
+7	Se una resistenza di 5Ω è collegata al secondario di un trasformatore ideale (sia a=2), al primario è vista 	una resistenza di::
+A	10Ω
+@B	20Ω
+C	2,5Ω
+D	7Ω
+
+8	Se una impedenza Ze è collegata al secondario di un trasformatore ideale, al primario è vista una 	impedenza il cui valore è:
+A	aZe
+B	a/Ze
+C	Ze/a
+@D	a2Ze
+
+9	Nel caso di accoppiamento perfetto ma trasformatore non ideale, dette V1 e V2 le tensioni ai morsetti del 	primario e secondario, si ha:
+@A	V1/V2=a
+B	V2/V1=a
+C	V1=V2a2
+D	V1/V2=a2
+
+10	Nel trasformatore con accoppiamento non perfetto si ha:
+A	M>L1L2
+B	M>L1/L2
+@C	M2>L1L2
+D	M2>L1/L2
+
+
+<Lezione 21
+
+1	Nel circuito tipicamente adottatto nel caso di trasformatore ad accoppiamento 'non perfetto', si tiene 	conto:
+A	Delle resistenze degli avvolgimenti
+@B	Delle induttanze di dispersione
+C	Delle resistenze di dispersione
+D	Della riluttanza del nucleo
+
+2	Da un punto di vista costruttivo, un trasformatore è costituito:
+A	Da un nucleo di materiale conduttore e dagli avvolgimenti di materiale ferromagnetico
+B	Da un nucleo di materiale isolante e dagli avvolgimenti di materiale ferromagnetico
+@C	Da un nucleo di materiale ferromagnetico e dagli avvolgimenti di materiale conduttore
+D	Da un nucleo e avvolgimenti fatti di materiale ferromagnetico
+
+3	Il flusso presente nel nucleo di un trasformatore reale, può essere calcolato come:
+A	Dal prodotto della riluttanza del nucleo e della forza magnetomotrice totale
+B	Dal rapporto della riluttanza del nucleo e della forza magnetomotrice totale
+@C	Dal rapporto della forza magnetomotrice totale e della riluttanza del nucleo
+D	Dal rapporto della tensione e della corrente che circola al primario
+
+4	La forza magnetomotrice di un avvolgimento si calcola come:
+@A	Il prodotto del numero di spire e della corrente che circola nell'avvolgimento
+B	Il rapporto del numero di spire e della corrente che circola nell'avvolgimento
+C	Il rapporto della corrente che circola nell'avvolgimento e del numero di spire
+D	Il rapporto del numero di spire del primario e secondario
+
+5	La riluttanza del nucleo:
+@A	Rappresenta l'ostacolo imposto dal nucleo al flusso
+B	Rappresenta l'ostacolo imposto dal nucleo alla forza magnetomotrice
+C	Rappresenta l'ostacolo imposto dall'avvolgimento alla corrente
+D	Rappresenta l'ostacolo imposto dal nucleo alla corrente
+
+6	Negli elementi dissipativi di un trasformatore reale è incluso:
+A	Il flusso disperso
+B	L'induttanza di dispersione
+C	La riluttanza
+@D	La resistenza degli avvolgimenti
+
+7	In un trasformatore reale, l'isteresi magnetica:
+@A	E' un fenomeno dissipativo
+B	E' un fenomeno conservativo
+C	Tiene conto del flusso disperso
+D	Tiene conto dell'accopiamento non perfetto
+
+8	In un trasformatore reale, il fenomeno delle correnti parassite:
+@A	E' dissipativo
+B	E' conservativo
+C	Tiene conto del flusso disperso
+D	Tiene conto dell'accopiamento non perfetto
+
+9	In un trasformatore reale, si tiene conto delle perdite per effetto Joule negli avvolgimenti attraverso:
+A	Le reattanze induttive
+B	Le riluttanze
+@C	Le resistenze
+D	Le induttanze
+
+10	In un trasformatore reale, la corrente magnetizzante:
+@A	E' in fase con il flusso
+B	E' in quadratura con in flusso
+C	E' in fase con la tensione al primario
+D	E' in quadratura con la tensione al primario
+
+
+<Lezione 22
+
+1	Il funzionamento a vuoto di un trasformatore si determina quando:
+A	Ai morsetti del primario si applica la tensione nominale
+B	Ai morsetti del primario è applicata una tensione tale che al secondario circoli la corrente nominale
+@C	Ai morsetti del secondario è collegato un bipolo circuito aperto
+D	Ai morsetti del secondario è collegato un bipolo cortocircuito
+
+2	Il funzionamento in cortocircuito di un trasformatore si determina quando:
+A	Ai morsetti del primario si applica la tensione nominale
+B	Ai morsetti del primario è applicata una tensione tale che al secondario circoli la corrente nominale
+C	Ai morsetti del secondario è collegato un bipolo circuito aperto
+@D	Ai morsetti del secondario è collegato un bipolo cortocircuito
+
+3	La tensione di cortocircuito è:
+A	La tensione che si applica ai morsetti del primario affinché al secondario si abbia la tensione nominale
+B	La tensione che si applica ai morsetti del primario affinché al secondario circoli la sola corrente di 	magnetizzazione
+@C	La tensione che si applica ai morsetti del primario affinché al secondario circoli la corrente nominale
+D	La tensione che si applica ai morsetti del primario quando al secondario è collegato il bipolo cortocircuito
+
+4	Nel funzionamento a vuoto di un trasformatore, il rapporto tra la tensione al primarioe quella al 	secondario è pari:
+@A	Al rapporto fra il numero di spire al primario ed il numero di spire al secondario
+B	Al rapporto fra il numero di spire al secondario ed il numero di spire al primaio
+C	Al rapporto fra il numero di spire al primario ed il numero di spire al secondario, cambiato di segno
+D	Al rapporto fra il numero di spire al secondario ed il numero di spire al primaio, cambiato di segno
+
+5	Nel funzionamento a vuoto di un trasformatore, il rapporto tra la corrente che circola al secondario e 	quella che circola al primario è pari:
+A	Al rapporto fra il numero di spire al primario ed il numero di spire al secondario
+@B	0
+C	Al rapporto fra il numero di spire al primario ed il numero di spire al secondario, cambiato di segno
+D	Al rapporto fra il numero di spire al secondario ed il numero di spire al primaio, cambiato di segno
+
+6	Nel funzionamento in cortocircuito di un trasformatore, il rapporto tra la corrente che circola al secondario e 	quella che circola al primario è pari:
+A	Al rapporto fra il numero di spire al primario ed il numero di spire al secondario
+B	0
+@C	Al rapporto fra il numero di spire al primario ed il numero di spire al secondario, cambiato di segno
+D	Al rapporto fra il numero di spire al secondario ed il numero di spire al primaio, cambiato di segno
+
+7	Nel funzionamento a vuoto di un trasformatore, la corrente che circola al secondario:
+A	Dipende dal carico
+@B	E' 0
+C	E' pari alla corrente che circola al primario divisa per il rapporto di trasformazione, cambiato di segno
+D	E' pari alla corrente che circola al primario moltiplicata per il rapporto di trasformazione, cambiato di segno
+
+8	Nel funzionamento in cortocircuito di un trasformatore, la tensione al secondario:
+A	Dipende dal carico
+B	E' 0
+@C	E' pari alla tensione che circola al primario divisa per il rapporto di trasformazione
+D	E' pari alla tensione che circola al primario moltiplicata per il rapporto di trasformazione
+
+9	Tutti i parametri del circuito equivalente di un trasformatore possono essere determinati:
+A	Attraverso la prova di cortocircuito
+B	Attraverso la prova a vuoto
+@C	Attraverso le prove di cortocircuito e a vuoto
+D	Misurando la caduta di tensione tra i morsetti al primario e secondario
+
+10	La caduta di tensione ai capi del circuito equivalente del trasformatore 'riportato al primario' si calcola 	come:
+A	Il prodotto delle tensioni risultante ai capi del doppio bipolo equivalente
+B	Il prodotto dei moduli delle tensioni risultante ai capi del doppio bipolo equivalente
+C	La differenza delle tensioni risultante ai capi del doppio bipolo equivalente
+@D	La differenza dei moduli delle tensioni risultante ai capi del doppio bipolo equivalente
+
+
+<Lezione 23
+
+1	Costruttivamente, un trasformatore trifase può essere costituito:
+@A	Dai nuclei di tre trasformatori monofase
+B	Dal nucleo di un trasformatore monofase
+C	Da un nucleo a quattro colonne
+D	Da un nucleo a sei colonne
+
+2	Costruttivamente, un trasformatore trifase a nucleo unico, può essere costituito:
+A	Dai nuclei di tre trasformatori monofase
+B	Dal nucleo di un trasformatore monofase
+C	Da un nucleo a quattro colonne
+@D	Da un nucleo a tre colonne
+
+3	Un trasformatore può avere un nucleo a cinque colonne:
+A	Solo nel caso di avvolgimenti collegati a stella
+B	Solo nel caso di avvolgimenti collegati a triangolo
+@C	Nel caso trifase
+D	Nel caso pentafase
+
+4	La sigla Dy di un trasformatore trifase indica:
+A	Che l'avvolgimento primario è collegato a stella e l'avvolgimento secondario a triangolo
+@B	Che l'avvolgimento primario è collegato a triangolo e l'avvolgimento secondario a stella
+C	Che entrambi gli avvolgimenti sono collegati a stella
+D	Che entrambi gli avvolgimenti sono collegati a trangolo
+
+5	Un trasformatore con avvolgimento primario a stella e secondario a triangolo si indica con la sigla:
+@A	Yd
+B	YD
+C	Dy
+D	DY
+
+6	La lettera 'n' nella sigla di un trasformatore trifase indica che:
+A	Il nucleo è a tre colonne
+B	Il nucleo è a cinque colonne
+@C	Che il neutro è accessibile
+D	Che gli avvolgimenti sono collegati a triangolo
+
+7	Se un trasformatore è del gruppo 11, vuol dire che le tensioni omonime primarie e secondarie sono 	sfasate di:
+A	11x60°
+B	60°/11
+C	30°/11
+@D	11x30°
+
+8	La sigla ONAN per un trasformatore indica che:
+A	L'olio all'interno del cassone è a circolazione forzata e l'aria all'esterno è a circolazione forzata
+B	L'olio all'interno del cassone è a circolazione naturale e l'aria all'esterno è a circolazione forzata
+@C	L'olio all'interno del cassone è a circolazione naturale e l'aria all'esterno è a circolazione naturale
+D	L'olio all'interno del cassone è a circolazione forzata e l'aria all'esterno è a circolazione naturale
+
+9	La sigla ONAF per un trasformatore indica che:
+A	L'olio all'interno del cassone è a circolazione forzata e l'aria all'esterno è a circolazione forzata
+@B	L'olio all'interno del cassone è a circolazione naturale e l'aria all'esterno è a circolazione forzata
+C	L'olio all'interno del cassone è a circolazione naturale e l'aria all'esterno è a circolazione naturale
+D	L'olio all'interno del cassone è a circolazione forzata e l'aria all'esterno è a circolazione naturale
+
+10	Il riscaldamento del trasformatore è causato:
+A	Solo dalla corrente che circola negli avvolgimenti
+B	Dalla corrente che circola negli avvolgimenti e dalle correnti parassite nel nucleo
+@C	Dalla corrente che circola negli avvolgimenti, dalle correnti parassite nel nucleo e dall'isteresi
+D	Dal flusso disperso
+
+
+<Lezione 24
+
+1	Tra i dati di targa di un trasformatore è incluso:
+A	Il flusso disperso
+B	Il nuero di spire
+@C	La tensione nominale
+D	La Resistenza degli avvolgimenti
+
+2	Tra i dati di targa di un trasformatore è incluso:
+A	Il flusso disperso
+B	Il nuero di spire
+@C	La frequenza
+D	La temperatura
+
+
+3	Tra i dati di targa di un trasformatore è incluso:
+A	Il flusso disperso
+B	Il nuero di spire
+C	Il modulo dell'impedenza di cortocircuito
+@D	La tensione di cortocircuito
+
+4	Se un trasformatore ha tensione di cortocircuito percentuale del 6% e tensione nominale 600 V, la 	tensione di cortocircuito vale:
+@A	36 V
+B	360 V
+C	300 V
+D	50 V
+
+5	SI consideri un trasformatore con primario collegato a stella e tensione nominale 400 V. La tensione su 	ciascun 	avvolgimento del primario vale:
+A	400 V
+B	380 V
+@C	230 V
+D	200 V
+
+6	SI consideri un trasformatore con primario collegato a triangolo e tensione nominale 400 V. La tensione 	su ciascun avvolgimento del primario vale:
+@A	400 V
+B	380 V
+C	230 V
+D	200 V
+
+7	La corrente nominale di un trasformatore trifase di potenza nominale 0.4 kVA e tensione nominale 400 V 	vale:
+@A	1/√3 A
+B	√3 A
+C	1A
+D	1/3 A
+
+8	Il rapporto tra potenza percentuale di cortocircuito e tensione percentuale di cortocircuito coincide con:
+A	La frequenza
+B	Il rapporto del numero di spire
+C	Il coseno dell'angolo di sfasamento tra la tensione e la corrente assorbite nella prova a vuoto
+@D	Il coseno dell'angolo di sfasamento tra la tensione e la corrente assorbite in cortocircuito
+
+9	Le perdite in un trasformatore sono composte:
+A	Dalle perdite negli avvolgimenti di primario e secondario
+B	Dalle perdite negli avvolgimenti di primario
+C	Dalle perdite negli avvolgimenti di secondario
+@D	Dalle perdite negli avvolgimenti e nel nucleo
+
+10	Il trasformatore a perdite ridotte ha un costo:
+A	Minore del costo del trasformatore a perdite normali
+B	Maggiore del costo del trasformatore a perdite normali
+@C	Che dipende dalle perdite
+D	Che dipende dal tempo di utilizzo
+
+
+
+<Lezione 25
+
+1	Nel caso di collegamento degli avvolgimenti a triangolo, la tensione su ciascuna avvolgimento di un 	trasformatore è quella:
+A	Stellata
+@B	Concatenata
+C	Monofase
+D	Trifase
+
+2	Nel caso di collegamento degli avvolgimenti a stella, la tensione su ciascuna avvolgimento di un 	trasformatore è quella:
+@A	Stellata
+B	Concatenata
+C	Monofase
+D	Trifase
+
+3	Un trasformatore Dy è alimentato lato alta tensione da una terna di tensioni simmetriche; se, l'ampiezza 	delle concatenate è 400 V, su ciascun avvolgimento primario la tensione vale:
+A	Dipende dal rapporto di trasformazione
+B	Circa 230 V
+@C	Circa 400 V
+D	Circa 690 V
+
+4	Un trasformatore Yy è alimentato lato alta tensione da una terna di tensioni simmetriche; se, l'ampiezza 	delle concatenate è 400 V, su ciascun avvolgimento primario la tensione vale:
+A	Dipende dal rapporto di trasformazione
+#B	Circa 230 V
+C	Circa 400 V
+D	Circa 690 V
+
+5	Le perdite nell'avvolgimento di un trasformatore dipende:
+A	Dalle tensioni sugli avvolgimenti
+B	Dal flusso
+C	Dalla riluttanza del nucleo
+@D	Dalle correnti che circolano negli avvolgimenti
+
+6	Nella prova di corto circuito, la corrente che circola negli avvolgimenti primario e secondario:
+@A	E' quella nominale
+B	E' una percentuale della corrente nominale
+C	E' più grande della corrente nominale
+D	Dipende dal carico
+
+7	Il rendimento di un trasformatore si calcola dividendo:
+A	La potenza assorbita per la potenza fornita al carico
+B	La potenza assorbita per la somma delle perdite nel trasformatore
+C	La potenza fornita al carico per la somma delle perdite nel trasformatore
+@D	La potenza fornita al carico per la potenza assorbita
+
+8	La componente attiva e quella di magnetizzazione della corrente assorbita a vuoto da un trasformatore:
+A	Sono in fase
+B	Sono sfasate di un angolo che dipende dal trasformatore
+C	Sono sfasate di un angolo che dipende dalla resistenza degli avvolgimenti
+@D	Sono in quadratura
+
+9	Un valore tipico per la tensione di cortocircuito percentuale di un trasformatore è:
+A	1%
+B	1%
+@C	0%
+D	0.01%
+
+10	Con buona approssimazione, la caduta di tensione ai capi di un trasformatore dipende:
+A	Solo dalla corrente assorbita dal carico
+B	Solo dal cos
+@C	Dalla corrente assorbita dal carico e dal cos
+D	Solo dal rendimento
+
+<Lezione 26
+1	Le linee elettriche aeree possono essere:
+A	Solo con conduttore nudo
+B	Solo in cavo
+@C	Sia in cavo che con conduttore nudo
+D	Solo per applicazioni nel subsistema delle trasmissione
+
+2	Le linee elettriche in cavo possono essere:
+A	Solo per applicazioni interrate
+B	Solo per applicazioni nel subsistema di distribuzione
+C	Solo per applicazioni nel subsistema di trasmissione
+@D	Sia aeree che interrate
+
+3	Le linee elettriche con conduttori nudi includono:
+@A	Gli isolatori
+B	I trasformatori
+C	Le guaine
+D	Gli schermi
+
+4	I sostegni delle linee elettriche aeree servono:
+A	A isolare elettricamente i conduttori dal suolo
+B	A collegare la linea ai trasformatori
+C	A collegare la linea aerea con quella in cavo
+@D	A sostenere isolatori e conduttori
+
+5	Il traliccio è un tipo di sostegno adottato tipicamente per:
+A	Le linee di distribuzione
+@B	Le linee di trasmissione
+C	I collegamenti sottomarini
+D	Le linee in cavo interrato
+
+6	Gli elementi basilari di un cavo per linee elettriche sono:
+A	Sostegni, isolatori e conduttori
+B	Conduttori, isolatori e guaine di protezione
+@C	Conduttori, isolanti e guaine di protezione
+D	Conduttori, isolatori e schermi
+
+7	Gli schermi metallici nelle linee in cavo:
+A	Sono di materiale isolante
+B	Sono di materiale plastico
+@C	Sono di materiale semiconduttore o metallico
+D	Hanno la funzione di protezione meccanica
+
+8	Una linea di calsse I può essere esercita:
+@A	Solo in bassa tensione
+B	Sia in bassa che in media tensione
+C	Sia in bassa che in media o alta tensione
+D	Solo in media tensione
+
+9	Una linea di calsse III è esercita a tensioni:
+A	Inferiori a 1 kV
+B	Inferiori a 15 kV
+C	Inferiori a 30 kV
+@D	Superiori a 30 kV
+
+10	Una linea elettrica reale ha rendimento:
+A	Nullo
+B	Unitario
+@C	Inferiore a uno
+D	Superiore a uno
+
+
+<Lezione 27
+
+1	L'induttanza di servizio di una linea porta in conto gli effetti:
+A	Capacitivi delle linee a conduttore singolo
+B	Capacitivi delle linee a conduttori multipli
+C	Induttivi delle linee a conduttore singolo
+@D	Induttivi delle linee a conduttori multipli
+
+2	Se ls è l'induttanza di servizio di una linea elettrica esercita in regime sinusoidale (pulsazione:
+A	1/(ωls)
+B	ω/ls
+@C	ωls
+D	ls/ω
+
+3	L'unità di misura dell'induttanza di servizio è:
+A	Ω/km
+B	S/km
+C	F/km
+@D	H/km
+
+4	L'unità di misura della reattanza di servizio è:
+@A	Ω/km
+B	S/km
+C	F/km
+D	H/km
+
+5	La capacità di servizio di una linea porta in conto gli effetti:
+A	Capacitivi delle linee a conduttore singolo
+@B	Capacitivi delle linee a conduttori multipli
+C	Induttivi delle linee a conduttore singolo
+D	Induttivi delle linee a conduttori multipli
+
+6	Se cs è la capacità di servizio di una linea elettrica esercita in regime sinusoidale (pulsazione:
+A	1/(ωcs)
+B	ω/cs
+@C	ωcs
+D	cs/ω
+
+7	L'unità di misura della capacità di servizio è:
+A	Ω/km
+B	S/km
+@C	F/km
+D	H/km
+
+8	L'unità di misura della suscettanza di servizio è:
+A	Ω/km
+@B	S/km
+C	F/km
+D	H/km
+
+
+9	L'effetto corona è causa di:
+@A	Corrente di dispersione
+B	Caduta di tensione
+C	Perdite per effetto Joule
+D	Cortocircuito
+
+10	La resistenza di una linea tiene conto:
+A	Degli accoppiamenti capacitivi
+B	Degli accoppiamenti induttivi
+@C	Delle perdite per effetto Joule
+D	Dell'effetto corona
+
+
+<Lezione 28
+
+1	Il modello della linea permette di valutare il legame fra:
+A	Le costanti primarie della linea
+@B	Le tensioni alla partenza e all'arrivo della linea
+C	La frequenza e la tensione di linea
+D	La frequenza e la corrente di linea
+
+2	Un elemento infinitesimo di una linea monofase può essere rappresentato:
+@A	Attraverso i parametri primari
+B	Attraverso i parametri secondari
+C	Attraverso i parametri di servizio
+D	Attraverso i parametri geometrici
+
+3	Un elemento infinitesimo di una linea trifase può essere rappresentato:
+A	Attraverso i parametri primari
+B	Attraverso i parametri secondari
+@C	Attraverso i parametri di servizio
+D	Attraverso i parametri geometrici
+
+4	La resistenza di una linea tiene conto:
+A	Della potenza dissipata per effetto corona
+@B	Della potenza dissipata per effetto Joule
+C	Della caduta di tensione dovuta agli accoppiamenti capacitivi
+D	Della caduta di tensione dovuta agli accoppiamenti induttivi
+
+5	La conduttanza, tipicamente, si considera solo nelle linee:
+A	Di distribuzione
+B	Di distribuzione in cavo
+C	In cavo
+@D	Di trasmissione
+
+6	Una linea può essere rappresentata:
+A	Da un bipolo
+@B	Da un doppio bipolo
+C	Da una resistenza
+D	Da una conduttanza
+
+7	Nella rappresentazione delle linee, il circuito a 'T', rispetto a quello a ':
+A	Che si trascurano le conduttanze
+B	Che si trascurano le perdite
+@C	Che si introduce un nodo
+D	Che si introduce una non linearità
+
+
+8	Per linea 'corta' si intende una linea di lunghezza:
+A	Non superiore a 400 m
+B	Non superiore a 4 km
+C	Non superiore a 40 km
+@D	Non superiore a 400 km
+
+9	Una linea corta si rappresenta con un circuito costituito:
+A	Da una impedenza trasversale
+B	Da una impedenza longitudinale
+C	Da una ammettenza longitudinale
+@D	Da una impedenza longitudinale e una ammettenza trasversale
+
+10	Una linea corta in bassa tensione si rappresenta con un circuito costituito:
+A	Da una impedenza trasversale
+@B	Da una impedenza longitudinale
+C	Da una ammettenza longitudinale
+D	Da una impedenza longitudinale e una ammettenza trasversale
+
+
+<Lezione 29
+
+1	Le linee elettriche aeree con conduttore nudo, includono:
+@A	Gli isolatori
+B	I condensatori
+C	Gli induttori
+D	I resistori
+
+2	Nelle linee elettriche aeree con conduttore nudo, i conduttori:
+A	Non sono isolati
+@B	Sono isolati dall'aria interposta tra i conduttori
+C	Sono isolati da materiali conduttori
+D	Sono isolati da materiali isolanti plastici
+
+3	Uno dei materiali più utilizzati come conduttore nelle linee con conduttore nudo è:
+A	Il PVC
+B	L'oro
+@C	Il rame
+D	L'acciaio
+
+4	L'alluminio:
+A	E' utilizzato come isolatore
+B	E' utilizzato come sostegno
+C	E' utilizzato come isolante
+@D	E' utilizzato come conduttore
+
+5	Gli isolatori servono a:
+A	Collegare elettricamente il conduttore al sostegno
+@B	Collegare meccanicamente il conduttore al sostegno
+C	Isolare il sostegno dal suolo
+D	Isolare i conduttori tra loro
+
+6	Gli isolatori rigidi sono impiegati:
+A	In alta tensione
+@B	In media e bassa tensione
+C	In media e alta tensione
+D	In altissima tensione
+
+
+7	Uno dei materiali maggiorente utilizzati per gli isolatori è:
+A	Il rame
+B	L'alluminio
+C	Il PVC
+@D	La porcellana
+
+8	Uno dei materiali utilizzati per i sostegni è:
+A	Il rame
+B	L'alluminio
+@C	L'acciaio
+D	La porcellana
+
+9	I condotti a sbarra sono utilizzati per lo più in:
+@A	Impianti industriali di elevata potenza
+B	Impianti industriali eserciti in alta tensione
+C	Impianti residenziali
+D	Impianti realizzati in ambienti a rischio incendio
+
+10	Una tipologia di condotto a sbarra diffusamente utilizzata è:
+A	La sbarra
+B	La monosbarra
+@C	La blindosbarra
+D	La ferrosbarra
+
+
+<Lezione 30
+
+1	Le proprietà determinanti nella scelta del materiale conduttore per linee elettriche sono:
+A	Solo elettriche
+B	Solo meccaniche
+@C	Sia meccaniche che elettriche
+D	Sia meccaniche che magnetiche
+
+2	Una proprietà meccanica importante per i conduttori delle linee elettriche aeree è:
+@A	La resistenza alla trazione
+B	La resistenza alla compressione
+C	La resistenza alla traslazione
+D	La resistenza alla rotazione
+
+3	Una proprietà elettrica determinante nella scelta del materiale conduttore per linee elettriche è:
+A	L'induttanza
+B	La capacità
+@C	La resistività
+D	La resistenza
+
+4	La resistività di un materiale dipende:
+A	Dall'altezza della linea
+B	Dalla lunghezza della linea
+C	Dalla sezione della linea
+@D	Dalla temperatura
+
+5	Nel rame e nell'alluminio, la resistività:
+A	Decresce al crescere della temperatura
+@B	Cresce al crescere della temperatura
+C	Non dipende dalla temperatura
+D	E' nulla a 0°C
+
+
+6	I materiali conduttori:
+A	Hanno una resistività superiore a quella degli isolanti
+B	Hanno una conducibilità inferiore a quella degli isolanti
+@C	Hanno una resistività inferiore a quella degli isolanti
+D	Hanno resistività nulla
+
+7	L'alluminio è:
+@A	Più leggero del rame
+B	Più pesante del rame
+C	Più costoso del rame
+D	Più resistente alla trazione del rame
+
+8	Il rame è:
+A	Più leggero dell'alluminio
+@B	Migliore conduttore rispetto all'alluminio
+C	Peggiore conduttore rispetto all'alluminio
+D	Meno costoso dell'alluminio
+
+9	Tra le leghe di rame utilizzato nelle applicazioni elettriche, particolare importanza ha:
+A	L'ergal
+B	L'aldrey
+@C	L'ottone
+D	L'acciaio
+
+10	Nei conduttori alluminio-acciaio:
+A	L'alluminio ha la funzione di resistenza meccanica, l'acciaio di conducibilità elettrica
+B	L'alluminio ha la funzione di isolante elettrico, l'acciaio di resistenza meccanica
+@C	L'alluminio ha la funzione di conducibilità elettrica, l'acciaio di resistenza meccanica
+D	L'alluminio ha la funzione di conducibilità elettrica, l'acciaio di isolante elettrico
+
+
+<Lezione 31
+
+1	Le linee elettriche in cavo possono essere in posa:
+A	Solo sottomarina
+B	Solo sotterranea
+C	Solo aerea
+@D	Sottomarina, sotterranea, aerea
+
+2	Con il termine cavo si intende:
+@A	L'insieme costituito dal conduttore, isolante, guaina, semiconduttore ed armatura
+B	L'insieme costituito dai soli conduttore e isolante
+C	Il solo conduttore
+D	Il solo isolante
+
+3	Un cavo, nella sua realizzazione più semplice, è costituito:
+A	Dal solo conduttore
+B	Dal solo isolante
+@C	Dall'isolante e dal conduttore
+D	Dalla sola armatura
+
+4	L'anima di un cavo è costituita:
+@A	Dal cavo e dal suo isolante
+B	Dal conduttore
+C	Dall'isolante
+D	Dalla guaina protettiva
+
+
+5	L'armatura di una cavo, se presente, serve a:
+A	Favorire il flusso di cariche
+B	Isolare il conduttore
+@C	Proteggere il cavo
+D	Rendere uniforme il campo elettrico
+
+6	La schermatura di una cavo, se presente, serve a:
+A	Favorire il flusso di cariche
+B	Isolare il conduttore
+C	Proteggere il cavo
+@D	Rendere uniforme il campo elettrico
+
+7	I materiali più utilizzati come conduttore sono:
+A	Il PVC e l'EPR
+B	La gomma butilica e il PE
+C	Il piombo e l'acciaio
+@D	Il rame e l'alluminio
+
+8	Gli isolanti estrusi sono materiali che si presentano:
+A	A strati
+@B	Compatti e omogenei
+C	Gassosi
+D	Liquidi
+
+9	I materiali più largamente impiegati per le guaine sono:
+@A	Il piombo, il policloroprene e il PVC
+B	Il rame e l'alluminio
+C	L'acciaio
+D	Il PE reticolato
+
+10	Il 'cavo a 0,6/1 kV' ha:
+A	Ha una tensione nominale di isolamento tra un conduttore isolato e la terra di 1 kV e tra due conduttori
+	di 0,6 kV
+@B	Ha una tensione nominale di isolamento tra un conduttore isolato e la terra di 0,6 kV e tra due conduttori
+	di 1 kV
+C	Ha una tensione nominale di isolamento tra un conduttore isolato e tra due conduttori di 1 kV
+D	Ha una tensione nominale di isolamento tra un conduttore isolato e tra due conduttori di 0,6 kV
+
+
+<Lezione 32
+
+1	I conduttori di un cavo dissipano calore per effetto:
+A	Volta
+B	Ohm
+@C	Joule
+D	Ampere
+
+2	In un cavo il calore viene prodotto principalmente:
+A	Nell'isolante
+@B	Nel conduttore di potenza
+C	Nel semiconduttore
+D	Nel materiale riempitivo
+
+
+3	Nel caso dei cavi, la legge di Arrhenius:
+A	Descrive la durata di vita utile di un cavo come funzione della temperatura massima sopportabile dal 	conduttore in cortocircuito
+B	Descrive la durata di vita utile di un cavo come funzione della temperatura massima sopportabile 	continuativamente dal conduttore in condizioni di funzionamento normale
+@C	Descrive la durata di vita utile di un cavo come funzione della temperatura massima sopportabile 	continuativamente dall'isolante in condizioni di funzionamento normale
+D	Descrive la durata di vita utile di un cavo come funzione della temperatura massima sopportabile dall'isolante 	in cortocircuito
+
+4	La temperatura massima di esercizio del PVC è di:
+A	7 °C
+@B	70 °C
+C	700 °C
+D	7000 °C
+
+5	La portata di un cavo è:
+A	La minima corrente che può circolare continuativamente nel conduttore, senza che venga superata il valore 	massimo della temperatura di esercizio
+@B	La massima corrente che può circolare continuativamente nel conduttore, senza che venga superata il valore 	massimo della temperatura di esercizio
+C	La minima corrente che può circolare continuativamente nel conduttore, senza che venga superata il valore 	minimo della temperatura di esercizio
+D	La massima corrente che può circolare continuativamente nel conduttore, senza che venga superata il valore 	minimo della temperatura di esercizio
+
+6	La portata di un cavo si misura in:
+@A	A
+B	Mm²
+C	W
+D	VA
+
+7	Il tipo di posa influenza:
+@A	La portata del cavo
+B	La tensione di esercizio del cavo
+C	La tensione di esercizio del conduttore
+D	La temperatura massima sopportabile dall'isolante
+
+8	Nel caso di cortocircuito, la corrente:
+A	Assume valori elevati per tempi lunghi
+B	Assume valori piccoli per tempi brevi
+C	Assume valori piccoli per tempi lunghi
+@D	Assume valori elevati per tempi brevi
+
+9	La resistività del materiale conduttore dipende:
+A	Dalla tensione di esercizio
+B	Dalla portata del cavo
+@C	Dalla temperatura del conduttore
+D	Dalla temperatura ambiente
+
+10	La temperatura massima ammissibile in cortocircuito:
+A	Coincide con la temperatura massima d'esercizio
+B	E' più piccola della temperatura massima d'esercizio
+@C	E' più grande della temperatura massima d'esercizio
+D	E' il doppio della corrente massima d'esercizio
+
+
+
+<Lezione 33
+
+1	La designazione di un cavo è:
+A	La sezione del conduttore
+B	La sezione del cavo
+C	La tensione nominale del cavo
+@D	Una sigla alfanumerica apposta sul cavo
+
+2	La designazione di un cavo rappresenta:
+@A	Le caratteristiche funzionali e costruttive del cavo
+B	Le caratteristiche funzionali e costruttive del solo conduttore del cavo
+C	Le caratteristiche funzionali e costruttive del solo isolante del cavo
+D	Il tipo di posa del cavo
+
+3	La designazione di un cavo include informazioni circa:
+A	La portata del cavo
+@B	La sezione del cavo
+C	Il tipo di posa
+D	La potenza massima del cavo
+
+4	I cavi armonizzati:
+A	Sono cavi dedicati alla bassa tensione
+B	Sono cavi dedicati alla media tensione
+@C	Sono cavi designati in accordo alle direttive CE
+D	Sono cavi designati in accordo alle direttive IEC
+
+5	Nella designazione dei cavi, il conduttore realizzato in rame è tipicamente indicato:
+A	Con la sigla R
+B	Con la sigla Cu
+C	Con la sigla A
+@D	Con nessuna sigla
+
+6	Nella designazione di un cavo armonizzato la sigla nxS indica che:
+@A	Il cavo è costituito da n conduttori ciascuno di sezione S
+B	Il cavo è costituito da n conduttori, tra cui il conduttore di protezione, ciascuno di sezione S
+C	Il cavo è costituito da un conduttore in rame di sezione S
+D	Il cavo è costituito da un conduttore in alluminio di sezione S
+
+7	Nella designazione di un cavo armonizzato la sigla nGS indica che:
+A	Il cavo è costituito da n conduttori ciascuno di sezione S
+@B	Il cavo è costituito da n conduttori, tra cui il conduttore di protezione, ciascuno di sezione S
+C	Il cavo è costituito da un conduttore in rame di sezione S
+D	Il cavo è costituito da un conduttore in alluminio di sezione S
+
+8	Nella designazione di un cavo, è indicata la sezione in:
+A	m2
+@B	mm2
+C	Mm
+D	Cm
+
+9	Nella scelta di un cavo, la portata desiderata influenza la scelta:
+A	Della tensione di designazione
+@B	Della sezione del cavo
+C	Del tipo di posa
+D	Della distanza tra i conduttori
+
+
+10	Gli effetti nocivi dei prodotti della combustione di guaine ed isolanti incudono:
+A	L'umidità
+@B	I fumi
+C	La dilatazione del cavo
+D	Il cortocircuito
+
+
+<Lezione 34
+
+1	Gli apparecchi di manovra hanno la capacità:
+A	Solo di interrompere le correnti
+B	Solo di aprire i circuiti
+C	Solo di chiudere i circuiti
+@D	Di stabilire e interrompere correnti
+
+2	L'interruzione della corrente si realizza:
+A	Con la manovra di chiusura
+@B	Con la manovra di apertura
+C	Con la manovra di sezionamento
+D	Con lo stabilirsi dell'arco
+
+3	Lo stabilirsi della corrente si realizza:
+@A	Con la manovra di chiusura
+B	Con la manovra di apertura
+C	Con la manovra di sezionamento
+D	Con lo stabilirsi dell'arco
+
+4	La manovra di chiusura può avvenire:
+A	Solo in condizioni di circuito sano
+B	Solo in condizioni di circuito guasto
+@C	Sia in condizioni di circuito sano che guasto
+D	Solo in condizioni di funzionamento anormale
+
+5	La manovra di apertura può avvenire:
+A	Solo in condizioni di circuito sano
+B	Solo in condizioni di circuito guasto
+@C	Sia in condizioni di circuito sano che guasto
+D	Solo in condizioni di funzionamento anormale
+
+6	L'interruttore può interrompere correnti:
+A	Solo in condizioni di circuito sano
+B	Solo in condizioni di circuito guasto
+@C	Sia in condizioni di circuito sano che guasto
+D	Solo in condizioni di funzionamento anormale
+
+7	L'interruttore di manovra può interrompere correnti:
+A	Solo in condizioni di circuito sano
+@B	Solo in condizioni di circuito guasto
+C	Sia in condizioni di circuito sano che guasto
+D	Solo in condizioni di funzionamento anormale
+
+8	Il fusibile è maggiormente utilizzato per:
+@A	Interrompere correnti di cortocircuito e sovraccarico
+B	Interrompere correnti in condizioni normali di funzionamento
+C	Stabilire correnti di cortocircuito e sovraccarico
+D	Stabilire correnti in condizioni normali di funzionamento
+
+
+9	L'arco elettrico si instaura:
+A	All'atto della chiusura dei contatti
+B	All'atto dello stabilimento della corrente
+@C	All'atto dell'apertura dei contatti
+D	All'atto dell'interruzione della corrente
+
+10	La caratteristica dell'arco riporta:
+A	I valori della resistenza dell'arco offerta alla corrente che lo percorre
+B	I valori della resistenza dell'arco dovuta alla tensione applicata ai suoi capi
+@C	I valori della tensione necessari a sostenere l'arco al variare della corrente che lo percorre
+D	I valori della corrente necessari a sostenere l'arco al variare della tensione applicata ai suoi capi
+
+
+<Lezione 35
+
+1	La caratteristica statica dell'arco è derivata:
+A	Per correnti sia alternate che continue
+@B	Solo per correnti continue
+C	Solo per correnti alternate
+D	Solo per correnti di cortocircuito
+
+2	La caratteristica statica dell'arco fornisce:
+@A	Il valore della tensione da applicare ai capi dell'interruttore affinché sostenga l'arco al variare della corrente
+B	Il valore della corrente che circola attraverso l'arco per un'assegnata tensione applicata ai capi dell'interruttore
+C	Il valore della corrente che circola attraverso l'arco per un'assegnata resistenza del circuito di alimentazione
+D	Il valore della corrente che circola attraverso l'arco per un'assegnata resistenza del carico
+
+3	La tensione d'arco, nel caso di stazionarietà, dipende:
+A	Dalla frequenza e dalla corrente d'arco
+B	Solo dalla lunghezza d'arco
+C	Solo dalla corrente d'arco
+@D	Dalla corrente d'arco e dalla lunghezza d'arco
+
+4	In condizioni di stazionarietà, per un'assegata lunghezza d'arco, la tensione d'arco:
+@A	Aumenta al diminuire della corrente d'arco
+B	Aumenta all'aumentare della corrente d'arco
+C	E' indipendente dalla corrente d'arco
+D	Aumenta al diminuire della frequenza
+
+5	In condizioni di stazionarietà, per un'assegata corrente d'arco, la tensione d'arco:
+A	Aumenta al diminuire della lunghezza d'arco
+@B	Aumenta all'aumentare della lunghezza d'arco
+C	E' indipendente dalla lunghezza d'arco
+D	Aumenta al diminuire della frequenza
+
+6	La caratteristica dinamica dell'arco è derivata:
+@A	Per correnti sia alternate che continue
+B	Solo per correnti continue
+C	Solo per correnti alternate
+D	Solo per correnti di cortocircuito
+
+7	Nel casodi una tensione sinusoidale, la corrente d'arco ha un andamento nel tempo:
+A	Variabile secondo una legge sinusoidale
+@B	Variabile
+C	Costante
+D	Costante e pari a zero
+
+
+8	Il processo di interruzione è il processo che si conclude:
+A	Con la manovra di apertura
+@B	Con l'estizione definitiva dell'arco
+C	Al primo passaggio della corrente per lo zero
+D	All'istaurarsi dell'arco
+
+9	Il processo dell'interruzione in un circuito a regime stazionario si studia:
+A	Per mezzo della legge di Arrhenius
+B	Per mezzo della legge di Joule
+C	Risolvendo il circuito in regime stazionario
+@D	Risolvendo il circuito in regime transitorio
+
+10	Nell'interruzione di una corrente continua,si può assumere che la corrente si porta a zero se:
+@A	La caratteristica d'arco ha sempre valori di tensione superiori alla tensione del generatore
+B	La caratteristica d'arco ha sempre valori di tensione inferiori alla tensione del generatore
+C	La caratteristica d'arco ha sempre valori inferiori alla retta di carico
+D	La caratteristica d'arco ha sempre valori inferiori alla corrente di cortocircuito
+
+
+<Lezione 36
+
+1	Durante il processo d'interruzione in corrente continua, la tensione ai capi dell'interruttore:
+A	E' nulla
+B	E' costante
+@C	Dipende dal circuito in cui è inserito l'interruttore
+D	Dipende dall'istante nel quale avviene la manovra di apertura
+
+2	Nel caso di corrente di cortocircuito, prima che intervenza l'apertura dell'interruttore, la corrente segue 	un andamento:
+@A	Che dipende solo dal circuito
+B	Che dipende solo dall'interruttore
+C	Che dipende sia dall'interruttore che dal circuito
+D	Che dipende solo dal generatore
+
+3	L'energia d'arco è data:
+@A	Dall'integrale nel tempo del prodotto della corrente per la tensione
+B	Dall'integrale nel tempo del rapporto della corrente e della tensione
+C	Dall'integrale nel tempo della corrente
+D	Dall'integrale nel tempo della tensione
+
+4	Il tempo d'arco:
+A	E' la somma dei tempi individuati dall'istante nel quale la corrente si annulla definitivamente e quello in cui 	comincia la manovra di apertura
+@B	E' la differenza dei tempi individuati dall'istante nel quale la corrente si annulla definitivamente e quello in cui 	comincia la manovra di apertura
+C	E' l'istante nel quale la corrente si annulla definitivamente
+D	E' l'istante nel quale termina la manovra di apertura
+
+5	L'energia d'arco include:
+@A	La differenza tra l'energia fornita dall'alimentazione e quella dissipata per effetto Joule
+B	La somma tra l'energia fornita dall'alimentazione e quella dissipata per effetto Joule
+C	La differenza tra l'energia fornita dall'alimentazione e quella meccanica necessaria alla manovra di apertura
+D	La somma tra l'energia fornita dall'alimentazione e quella meccanica necessaria alla manovra di apertura
+
+
+6	L'energia d'arco include:
+A	Un termine proporzionale all'energia elettrostatica immagazzinata nel circuito all'atto della chiusura dei contatti
+B	Un termine proporzionale all'energia elettromagnetica immagazzinata nel circuito all'atto della chiusura dei 	contatti
+C	Un termine proporzionale all'energia elettrostatica immagazzinata nel circuito all'atto dell'apertura dei contatti
+@D	Un termine proporzionale all'energia elettromagnetica immagazzinata nel circuito all'atto dell'apertura dei 	contatti
+
+7	Nel caso della corrente alternata:
+A	La corrente che attraversa l'arco si annulla definitivamente al primo semiperiodo
+@B	La corrente che attraversa l'arco si annulla naturalmente ogni semiperiodo
+C	La corrente che attraversa l'arco è costante
+D	La corrente che attraversa l'arco è identicamente nulla
+
+8	L'obiettivo del processo di interruzione in corrente alternata:
+A	E' di evitare lo spegnimento naturale dell'arco
+B	E' di permettere lo spegnimento naturale dell'arco
+C	E' di permettere che, dopo lo spegnimento naturale dell'arco, questo si riadeschi
+@D	E' di evitare che, dopo lo spegnimento naturale dell'arco, questo si riadeschi
+
+9	Il ripristino della rigidità dielettrica:
+A	Favorisce il riadesco dell'arco
+B	Contribuisce ad evitare il riadesco dell'arco
+@C	Favorisce il passaggio naturale per lo zero della corrente
+D	Contribuisce alla ionizzazione del mezzo interposto fra i contatti dell'interruttore
+
+10	Il riadesco dell'arco in corrente alternata (f=50 Hz):
+@A	E' favorito da distanze minori tra i contatti dell'interruttore
+B	E' favorito da distanze maggiori tra i contatti dell'interruttore
+C	E' favorito da tempi maggiori fra due passaggi successivi per lo zero della corrente
+D	E' favorito da tempi minori fra due passaggi successivi per lo zero della corrente
+
+
+<Lezione 37
+
+1	L'interrutore:
+A	Interrompe e stabilisce correnti solo in circuiti sani
+B	Interrompe e stabilisce correnti solo in circuiti guasti
+C	Interrompe e stabilisce correnti solo in circuiti in condizioni di funzionamento normali
+@D	Interrompe e stabilisce correnti in circuiti sani e in circuiti guasti
+
+2	L'interruttore:
+A	E' un apparecchio utilizzatore
+@B	E' un apparecchio di manovra
+C	E' un apparecchio utilizzatore
+D	E' un apparecchio generatore
+
+3	L'interruttore è un apparecchio capace di portare correnti:
+A	Solo in un circuito sano
+@B	In un circuito sano e, per una durata determinata, in un circuito guasto
+C	In un circuito sano e, per una durata indefinita, in un circuito guasto
+D	Solo in un circuito guasto
+
+4	Alla manovra di apertura di un interruttore consegue:
+A	Lo stabilirsi della corrente
+B	La chiusura della corrente
+C	L'aprirsi della corrente
+@D	L'interruzione della corrente
+
+
+5	Alla manovra di chiusura di un interruttore consegue:
+@A	Lo stabilirsi della corrente
+B	La chiusura della corrente
+C	L'aprirsi della corrente
+D	L'interruzione della corrente
+
+6	Il potere di apertura di un interruttore è il:
+A	Valore di picco della componente simmetrica della corrente di corto circuito
+@B	Valore di efficacie della componente simmetrica della corrente di corto circuito
+C	Valore di picco della componente unidirezionale della corrente di corto circuito
+D	Valore di picco della corrente di corto circuito
+
+7	Il potere di chiusura di un interruttore è il:
+A	Valore di picco della componente simmetrica della corrente di corto circuito
+B	Valore di efficacie della componente simmetrica della corrente di corto circuito
+C	Valore di picco della componente unidirezionale della corrente di corto circuito
+@D	Valore di picco della corrente di corto circuito
+
+8	Il tempo di interruzione di un interruttore è:
+A	Il tempo d'arco
+B	Il tempo d'apertura
+@C	La somma del tempo d'arco e tempo d'apertura
+D	L'intervallo di tempo tra il comando di chiusura ed il congiungimento dei contatti
+
+9	Il tempo di chiusura di un interruttore è:
+A	Il tempo d'arco
+B	Il tempo d'apertura
+C	La somma del tempo d'arco e tempo d'apertura
+@D	L'intervallo di tempo tra il comando di chiusura ed il congiungimento dei contatti
+
+10	Un interruttore a bassa resistenza d'arco richiede:
+@A	Un materiale dielettrico di elevate prestazioni
+B	Un materiale dielettrico di non elevate prestazioni
+C	Un materiale conduttore di elevate prestazioni
+D	Un materiale conduttore di non elevate prestazioni
+
+
+<Lezione 38
+
+1	Negli interruttori in aria a pressione atmosferica, l'arco si sposta sulla coppia di corna per effetto:
+A	Di un 'soffio' magnetico
+B	Di un getto di aria compressa
+C	Di un effetto elettromagnetico
+@D	Di un effetto termico
+
+2	Negli interruttori in aria a pressione atmosferica è necessario:
+@A	Aumentare la tensione d'arco
+B	Diminuire la tensione d'arco
+C	Aumentare il numero di poli
+D	Aumentare il numero di contatti
+
+3	Gli interruttori in aria a pressione atmosferica trovano applicazione:
+A	Principalmente in III categoria
+B	Principalmente in II categoria
+@C	Principalmente in I categoria
+D	In II e III categoria
+
+
+4	Negli interruttori in olio, l'arco si forma:
+@A	Nell'olio
+B	Nell'aria a pressione atmosferica
+C	Sotto vuoto
+D	Nell'esafloruro di zolfo
+
+5	Gli interruttori in olio trovano applicazione:
+A	Esclusivamente in III categoria
+B	Esclusivamente in II categoria
+C	Esclusivamente in I categoria
+@D	In II e III categoria
+
+6	Negli interruttori ad aria compressa, l'arco:
+A	Si forma nell'olio
+B	Si forma nell'esafloruro di zolfo
+@C	E' investito da un getto di aria compressa
+D	E' sottoposto ad un campo elettromagnetico
+
+7	Gli interruttori ad aria compressa trovano applicazioni principalemente:
+A	Negli impianti civili
+B	Negli impianti di I categoria
+C	Negli impianti realizzati in luoghi dal clima mite
+@D	Negli impianti realizzati in luoghi dal clima rigido
+
+8	L'esafluoruro di zolfo ha una rigidità dielettrica:
+A	Pari a quella dell'aria
+B	Pari ad un terzo di quella dell'aria
+@C	Pari a tre volte quella dell'aria
+D	Nulla
+
+9	Gli interruttori in esafloruro di zolfo trovano applicazioni principalemente:
+A	In I categoria
+B	In II categoria
+@C	In III categoria
+D	In impianti civili
+
+10	Gli interruttori sottovuoto trovano applicazioni principalemente:
+A	In impianti di I categoria
+@B	In impianti di II categoria
+C	In impianti di III categoria
+D	In impianti civili
+
+
+<Lezione 39
+
+1	I sezinatori sono utilizzati per:
+A	Interrompere e stabilire correnti in circuiti sani
+@B	Interrompere e stabilire correnti in circuiti sani, ma di entità trascurabile
+C	Interrompere e stabilire correnti in circuiti guasti
+D	Interrompere e stabilire sovracorrenti, ma solo di sovraccarico
+
+2	I sezinatori sono utilizzati per:
+A	Portare correnti solo in un circuito sano
+B	Portare correnti in un circuito sano e in un circuito guasto
+@C	Portare correnti in un circuito sano e, per una durata determinata, in un circuito guasto
+D	Portare correnti in un circuito sano ma solo per una durata determinata
+
+
+3	L'apertura di un sezionatore:
+@A	E' preceduta dall'apertura di un interruttore
+B	E' seguita dall'apertura di un interruttore
+C	E' preceduta dalla chiusura di un interruttore
+D	E' seguita dalla chiusura di un interruttore
+
+4	La chiusura di un sezionatore:
+A	E' preceduta dall'apertura di un interruttore
+B	E' seguita dall'apertura di un interruttore
+@C	E' preceduta dalla chiusura di un interruttore
+D	E' seguita dalla chiusura di un interruttore
+
+5	Il principale motivo che giustifica l'utilizzo di un sezionatore sono:
+@A	Operazioni di manutenzione
+B	Interruzione di correnti di guasto
+C	Interruzioni di correnti di normale funzionamento
+D	Protezione dalle sovratensioni
+
+6	Un sezionatore, nella posizione di aperto:
+A	Deve comunque garantire il passaggio di una qualsiasi corrente
+B	Deve comunque garantire il passaggio di una corrente, ma solo di normale funzionamento
+C	Deve comunque garantire il passaggio di una corrente di normale funzionamento e, per una durata determinata, 	anche di cortocircuito
+@D	Deve garantire adeguate distanze di isolamento
+
+7	Il sezionatore di terra:
+A	Interviene in caso di sovratensione
+B	Interviene in caso di correnti di elevato valore
+C	Interviene in caso di correnti di guasto di elevato valore
+@D	Interviene per collegare a terra una linea
+
+8	Il sezionatore a coltelli:
+@A	E' utilizzato in sistemi di I, II e III categoria
+B	E' utilizzato solo in sistemi di I categoria
+C	E' utilizzato solo in sistemi di II categoria
+D	E' utilizzato solo in sistemi di III categoria
+
+9	Nei sezionatori a rotazione:
+A	I contatti metallici sono sostenuti da due colonne
+B	I contatti metallici sono sostenuti da tre colonne
+C	I contatti metallici sono sostenuti da quattro colonne
+@D	I contatti metallici sono sostenuti da due o tre colonne
+
+10	Il sezionatori a pantografo:
+A	E' utilizzato in sistemi di I, II e III categoria
+B	E' utilizzato solo in sistemi di I categoria
+C	E' utilizzato solo in sistemi di II categoria
+@D	E' utilizzato solo in sistemi di III categoria
+
+
+<Lezione 40
+
+1	Gli interruttori di manovra sono apparecchi di manovra capaci:
+A	Interrompere correnti in circuiti sani, ma non quelle di sovraccarico
+@B	Interrompere correnti in circuiti sani, incluse quelle di sovraccarico
+C	Interrompere correnti in circuiti sani, ma solo di lieve entità
+D	Interrompere correnti di cortocircuito
+
+
+2	Gli interruttori di manovra sono apparecchi di manovra capaci:
+A	Stabilire correnti solo in condizioni normali
+B	Stabilire correnti solo di lieve entità
+C	Stabilire correnti solo in condizioni anormali
+@D	Stabilire correnti in condizioni normali ed anormali
+
+3	La sigla tipicamente utilizzata per gli interruttori di manovra/sezionatori è:
+A	MS
+B	IS
+@C	IMS
+D	ISM
+
+4	Gli interruttori di manovra/sezionatori sono in grado di:
+@A	Garantire la distanza minima di isolamento, quando aperti
+B	Garantire la distanza minima di isolamento, quando chiusi
+C	Sostituire un contattore
+D	Sostituire un fusibile
+
+5	Il potere d'interruzione di un interruttore di manovra è:
+@A	Il valore efficacie della corrente che in condizioni normali è in grado di interrompere
+B	Il valore medio della corrente che in condizioni normali è in grado di interrompere
+C	Il valore efficacie della corrente di cortocircuito che è in grado di interrompere
+D	Il valore di picco della corrente di cortocircuito che è in grado di interrompere
+
+6	Negli interruttori di manovra-sezionatori in aria a pressione atmosferica, l'arco si estingue:
+A	In una camera d'estinzione sotto vuto
+B	In una camera d'estinzione in olio
+C	In una camera d'estinzione in SF6
+@D	In aria
+
+7	I contattori sono apparecchi di manovra capaci:
+A	Interrompere correnti in circuiti sani, ma non quelle di sovraccarico
+@B	Interrompere correnti in circuiti sani, incluse specificate correnti di sovraccarico
+C	Interrompere correnti in circuiti sani, ma solo di lieve entità
+D	Interrompere correnti di cortocircuito
+
+8	I contattori sono apparecchi di manovra capaci:
+@A	Stabilire correnti solo in condizioni normali, incluse specificate correnti di sovraccarico
+B	Stabilire correnti solo di lieve entità
+C	Stabilire correnti solo in condizioni anormali
+D	Stabilire correnti in condizioni normali ed anormali
+
+9	I contattori vengono impiegati prevalentemente:
+A	Per il controllo dei consumi di energia elettrica
+B	Per le manovre di comando nei sistemi controllo
+@C	Per il comando di dispositivi utilizzatori dell'energia elettrica
+D	Per il comando di dispositivi di generazione dell'energia elettrica
+
+10	Nei contattori elettromagnetici la forza per la chiusura/apertura dei contatti è fornita:
+@A	Da un elettromagnete
+B	Da un magnete
+C	Da un induttore
+D	Da un condensatore
+
+
+
+<Lezione 41
+
+1	Il fusibile è un apparecchio in grado di interrompere:
+@A	Le correnti di sovraccarico e di cortocircuito
+B	Solo le correnti di sovraccarico
+C	Solo le correnti di cortocircuito
+D	Solo correnti di normale funzionamento
+
+2	Il fusibile è un apparecchio:
+A	In grado di stabilire correnti di sovraccarico e di cortocircuito
+B	In grado di stabilire solo correnti di sovraccarico
+C	In grado di stabilire solo correnti di cortocircuito
+@D	Non è in grado di stabilire correnti
+
+3	Il fusibile è un apparecchio in grado di interrompere correnti:
+A	Solo in circuiti guasti
+@B	Sia in circuiti sani che guasti
+C	Solo in circuiti in corrente continua
+D	Solo in circuiti in corrente alternata
+
+4	Il fusibile è un apparecchio di manovra impiegato:
+A	Solo nei sistemi di I categoria
+B	Solo nei sistemi di II categoria
+C	Solo nei sistemi di III categoria
+@D	Nei sistemi di I, II e III categoria
+
+5	L'elemento fusibile:
+A	E' la parte del fusibile che collega il fusibile al circuito
+B	E' la parte del fusibile che segnala l'intervento del fusibile
+@C	E' la parte del fusibile che fonde e garantisce l'interruzione della corrente
+D	E' la parte del fusibile che garantisce l'estinzione dell'arco dell'arco
+
+6	In un fusibile,la sabbia:
+A	E' la parte del fusibile che collega il fusibile al circuito
+B	E' la parte del fusibile che segnala l'intervento del fusibile
+C	E' la parte del fusibile che fonde e garantisce l'interruzione della corrente
+@D	E' la parte del fusibile che garantisce l'estinzione dell'arco
+
+7	La fase del pre-arco è:
+A	Il periodo che va dall'inizio della sovracorrente all'istante in cui l'arco generalizzato si estingue
+@B	Il periodo che va dall'inizio della sovracorrente all'istante in cui cominciano a scoccare i primi archi
+C	Il periodo che va dall'inizio della fusione all'istante in cui cominciano a scoccare i primi archi
+D	Il periodo che va dall'inizio della fusione all'istante in cui fonde l'elemento fusibile
+
+8	Il tempo d'interruzione di un fusibie:
+@A	E' la somma del tempo di pre-arco e il tempo d'arco
+B	E' la somma del tempo di pre-arco, del tempo d'arco e del tempo di post-arco
+C	Coincide con il tempo d'arco
+D	E' la somma del tempo d'arco e del tempo di post-arco
+
+9	Un tipico fusibile è quello detto:
+A	Limitatore
+B	Ad inserzione
+C	A cilindro
+@D	A cartuccia
+
+
+10	Un vantaggio dei fusibili è:
+A	L'azione di elevazione della resistenza
+B	L'azione limitatrice della resistenza
+C	L'azione limitatrice della tensione d'arco
+@D	L'azione limitatrice della corrente
+
+
+<Lezione 42
+
+1	La tensione nominale di un fusibile:
+A	E' la tensione più alta che il fusibile può interrompere
+B	E' la tensione alla quale il fusibile può portare corrente
+@C	E' la tensione più alta alla quale il fusibile può essere utilizzato
+D	E' la tensione più bassa alla quale il fusibile può essere utilizzato
+
+2	La corrente nominale di un fusibile:
+A	E' la corrente più alta che il fusibile può interrompere
+@B	E' la corrente che il fusibile può portare in modo continuativo
+C	E' la corrente più alta per quale il fusibile può essere utilizzato
+D	E' la corrente più bassa per quale il fusibile può essere utilizzato
+
+3	Il tempo di funzionamento di un fusibile:
+A	Dipende solo dalla tensione di esercizio
+B	Dipende dalla tensione nominale e dalla tensione di esercizio
+C	Dipende solo dalla corrente di cortocircuito
+@D	Dipende dalla corrente di cortocircuito e dalla corrente nominale
+
+4	Il tempo di pre-arco di un fusibile:
+A	Dipende solo dalla tensione di esercizio
+B	Dipende dalla tensione nominale e dalla tensione di esercizio
+C	Dipende solo dalla corrente di cortocircuito
+@D	Dipende dalla corrente di cortocircuito e dalla corrente nominale
+
+5	Per correnti di corctocircuito il cui valore efficace è molto basso il tempo di funzionamento:
+A	E' molto più grande del tempo di pre-arco
+B	E' molto più piccolo del tempo di pre-arco
+@C	E' praticamente coincidente col tempo di pre-arco
+D	E' praticamente coincidente col tempo di post-arco
+
+6	Il tempo di funzionamento di un fusibile, avente una specificata corrente nominale:
+A	Cresce al crescere del valore efficace della corrente di cortocircuito
+@B	Cresce al diminuire del valore efficace della corrente di cortocircuito
+C	Cresce al crescere del valore di medio della corrente di cortocircuito
+D	Cresce al diminuire del valore medio della corrente di cortocircuito
+
+7	In funzione della tensione, i fusibili si classificano in:
+@A	Fusibili per tensioni inferiori e superiori a 1000V
+B	Fusibili per tensioni inferiori e superiori a 100V
+C	Fusibili per tensioni inferiori e superiori a 230V
+D	Fusibili per tensioni inferiori e superiori a 400V
+
+8	Un fusibile per tensioni inferiori ai 1000 V, si utilizzano:
+@A	Nei sistemi di I categoria
+B	Nei sistemi di I e II categoria
+C	Nei sistemi di II categoria
+D	Nei sistemi di II e III categoria
+
+
+9	Un vantaggio del fusibile è:
+A	Che deve essere sostituito ad ogni intervento
+B	L'elevato numero di interventi durante la sua vita utile
+@C	Il basso costo
+D	Che evita l'impiego dei sezionatori
+
+10	Uno svantaggio del fusibile è:
+@A	Che deve essere sostituito ad ogni intervento
+B	L'elevato numero di interventi durante la sua vita utile
+C	Il basso costo
+D	Che necessita dell'impiego di un apparecchio per l'interruzione delle correnti di cortocircuito
+
+
+<Lezione 43
+
+1	Il relè è il componente del sistema elettrico capace di:
+A	Aprire il circuito
+B	Percepire la presenza di una condizione anormale di funzionamento e di aprire il circuito
+@C	Percepire la presenza di una condizione anormale di funzionamento e di comandare l'apparecchio di manovra 	all'apertura
+D	Percepire la presenza di una condizione anormale di funzionamento e di comandare l'apparecchio di manovra 	alla chiusura
+
+2	Il relè è il componente del sistema elettrico sensibile:
+A	Solo alla corrente
+B	Solo alla tensione
+C	Solo alla tempreatura
+@D	Sia alla tensione che alla corrente
+
+3	La sigla 'I>' indica:
+@A	Un relè di massima corrente
+B	Un relè di minima corrente
+C	Un relè di massima tensione
+D	Un relè di minima tensione
+
+4	La sigla 'U<' indica:
+A	Un relè di massima corrente
+B	Un relè di minima corrente
+C	Un relè di massima tensione
+@D	Un relè di minima tensione
+
+5	I relè possono essere:
+@A	Ad azione ritardata o istantanea
+B	Solo ad azione ritardata
+C	Solo ad azione anticipata
+D	Solo ad azione istantanea
+
+6	Nei relè a tempo ritardato, il ritardo:
+A	E' un tempo fisso
+B	E' un tempo indipendente dalla grandezza controllata
+C	E' un tempo dipendente dalla grandezza controllata
+@D	Può essere un tempo dipendente o indipendente dalla grandezza controllata
+
+7	I relè elettromagnetici:
+A	Sono relè sensibili alla temperatura
+@B	Sono relè istantanei
+C	Sono relè ritardati a tempo indipendente
+D	Sono relè ritardati a tempo dipendente
+
+
+8	Nei relè termici, il tempo di ritardo:
+A	E' praticamente nullo
+B	E' indipendente dalla grandezza controllata
+@C	E' inversamente proporzionale alla grandezza controllata
+D	E' direttamente proporzionale alla grandezza controllata
+
+9	I relè a lamina bimetallica:
+@A	Possono essere ad azione diretta o indiretta
+B	Sono solo ad azione diretta
+C	Sono solo ad azione indiretta
+D	Possono essere ad azione induttiva o capacitiva
+
+10	I relè statici a microprocessori:
+A	Sono realizzati per mezzo di trasformatori
+B	Sono realizzati per mezzo di condensatori
+C	Sono progettati con calcolatori
+@D	Sono realizzati per mezzo di microprocessori
+
+
+<Lezione 44
+
+1	Un sistema di protezione:
+@A	Percepisce la presenza di una condizione di funzionamento anormale ed interviene al fine di contenerne le 	conseguenze
+B	Percepisce solo la presenza di una condizione di funzionamento anormale ma non è in grado di interviene al 	fine di contenerne le conseguenze
+C	Non percepisce la presenza di una condizione di funzionamento anormale ma è in grado di interviene al fine di 	contenerne le conseguenze
+D	Inibisce alle persone l'accesso a luoghi in tensione
+
+2	Un sistema di protezione contro le sovracorrenti interviene:
+A	Solo in caso di sovraccarico
+B	Solo in caso di cortocircuito
+@C	Solo in caso di sovracorrenti
+D	Sia in caso di sovratensioni che sovracorrenti
+
+3	Un sistema di protezione contro le sovratensioni interviene:
+A	In caso di buchi di tensione
+@B	In caso di sovratensioni
+C	In caso di sovracorrenti
+D	Sia in caso di sovratensioni che sovracorrenti
+
+4	Tra le principali proprietà che deve possedere un sistema di protezione, è inclusa:
+A	La continuità d'esercizio
+B	L'economicità
+C	L'avvio rapido
+@D	La selettività
+
+5	La selettività di un sistema di protezione garantisce che:
+A	Al ristabilirsi della condizione di funzionamento normale, il sistema di protezione permette l'alimentazione 	della sola parte di impianto in cui si è verifico il guasto
+B	Si ristabilisca la condizione di funzionamento normale
+C	Al verificarsi di una condizione di funzionamento anormale, il sistema di protezione mette fuori servizio 	l'intero impianto
+@D	Al verificarsi di una condizione di funzionamento anormale, il sistema di protezione mette fuori servizio solo il 	componente o la parte di impianto in cui si verifica la suddetta condizione
+
+
+6	Una rete a struttura radiale semplice:
+A	E' caratterizzata da un flusso bidirezionale dell'energia elettrica
+@B	E' caratterizzata da un flusso unidirezionale dell'energia elettrica
+C	E' caratterizzata da una struttura circolare
+D	E' caratterizzata da una struttura sferica
+
+7	Un vantaggio della struttura di rete radiale semplice è:
+@A	Minori costi
+B	Maggiori costi
+C	Maggiore continuità di servizio
+D	Maggiore flessibilità d'esercizio
+
+8	Un vantaggio della struttura di rete ad anello:
+A	Minori costi
+B	Maggiori costi
+C	Minore continuità di servizio
+@D	Maggiore flessibilità d'esercizio
+
+9	Nelle reti di media tensione con centrostella isolato, la corrente di cortocircuito monofase:
+A	E' maggiore delle correnti di cortocircuito bifase e trifase
+B	E' maggiore della corrente di cortocircuito bifase ma minore della corrente di cortocircuito trifase
+@C	E' piccola ed inferiore alle correnti di cortocircuito bifase e trifase
+D	E' di uguale entità delle correnti di cortocircuito dei casi polifase
+
+10	Il sistema di protezione contro il sovraccarico di linee di media tensione include:
+A	Solo l'interruttore
+B	Solo il relè di massima corrente
+@C	Il relè di massima corrente e l'interruttore
+D	Il sezionatore
+
+
+<Lezione 45
+
+1	La struttura di rete adottata negli impianti di bassa tensione, è tipicamente:
+A	Radiale complessa
+@B	Radiale semplice
+C	Ad anello
+D	Radiale con richiusura
+
+2	In bassa tensione, i tipici sistemi di protezione contro le sovracorrenti sono:
+A	Interruttore automatico con relè termico
+B	Interruttore automatico con relè magnetico
+@C	Interruttore automatico con relè magnetico-termico
+D	Interruttore di manovra con relè magnetico-termico
+
+3	Negli impianti di bassa tensione, il fusibile è utilizzato:
+A	Per interrompere correnti di normale funzionamento
+@B	Come sistema di protezione contro le sovracorrenti
+C	Come sistema di protezione contro le sovratensioni
+D	Per scaricare a terra le sovratensioni
+
+4	Il tipo di fusibile utilizzato negli impianti di bassa tensione è, tipicamente, del tipo:
+A	A cassetta
+B	A cascata
+C	Selettivo
+@D	A cartuccia
+
+
+5	Nel funzionamento nella parte termica, l'interruttore automatico magneto-termico ha un tempo 	d'intervento:
+A	Direttamente proporzionale alla corrente
+@B	Inversamente proporzionale alla corrente
+C	Indipendente dal valore della corrente
+D	Direttamente proporzionale alla tensione
+
+6	L'interruttore automatico magneto-termico svolge le funzioni di:
+@A	Apparecchio di manovra e relè
+B	Solo apparecchio di manovra
+C	Solo relè
+D	Apparecchio di manovra, sezionatore e relè
+
+7	L'interruttore automatico magneto-termico è:
+A	Solo un apparecchio di manovra
+B	Solo un relè
+@C	Un sistema di protezione
+D	Un sistema di misura e manovra
+
+8	Nell'interruttore automatico magneto-termico, il relè svolge la funzione di:
+A	Comandare la chiusura dell'interruttore
+B	Comandare l'apertura l'interruttore su richiesta dell'operatore
+@C	Comandare l'apertura dell'interruttore in conseguenza di una sovracorrente
+D	Comandare la chiusura dell'interruttore in conseguenza di una sovracorrente
+
+9	Negli impianti di bassa tensione, la seletttività può essere:
+A	Solo voltmetrica
+B	Solo amperometrica
+C	Ampoerometrica o voltmetrica
+@D	Apmperometrica o cronometrica
+
+10	Un sistema di protezione contro le sovratensioni è:
+A	Il sezionatore
+@B	Lo scaricatore
+C	L'isolatore
+D	Il traliccio
+
+
+<Lezione 46
+
+1	Le cabine elettriche sono destinate:
+A	Solo alla trasformazione dell'energia
+B	Solo alla conversione dell'energia
+C	Solo allo smistamento dell'energia
+@D	Alla trasformazione, smistamento, conversione o regolazione dell'energia
+
+2	Le cabine MT/BT sono destinate:
+@A	Solo alla trasformazione dell'energia
+B	Solo alla conversione dell'energia
+C	Solo allo smistamento dell'energia
+D	Alla trasformazione, smistamento, conversione o regolazione dell'energia
+
+3	In una cabina MT/BT il componente che permette il passaggio dalla media tensione alla bassa tensione è:
+A	Il montante di media e bassa tensione
+@B	Il trasformatore
+C	Il quadro generale di bassa tensione
+D	L'interruttore automatico
+
+
+4	La Norma CEI 0-16 definisce:
+A	I criteri di allacciamento alla rete di bassa tensione, per utenti passivi ed attivi
+@B	I criteri di allacciamento alla rete di media e alta tensione, per utenti passivi ed attivi
+C	I criteri di allacciamento alla rete di media e bassa tensione, per utenti passivi ed attivi
+D	I criteri di allacciamento alla rete di media e bassa tensione, per utenti con potenza nominale superiore a 100 	MW
+
+5	Tipicamente, le linee di bassa tensione in partenza da una cabina sono protette contro le sovracorrenti 	da:
+A	Scaricatori
+B	Sezionatori
+@C	Interruttori automatici
+D	Interruttori di manovra
+
+6	La consegna dell'energia elettrica da parte di un distributore può avvenire:
+@A	Sia in bassa che in media tensione
+B	Solo in bassa tensione
+C	Solo in media tensione
+D	Solo in alta tensione
+
+7	Nel caso il punto di consegna del distributore sia in media tensione, il trasformatore:
+A	Fa parte dell'impianto del distributore
+@B	Fa parte dell'impianto dell'utilizzatore
+C	Non è presente
+D	Interviene solo in caso di emergenza
+
+8	Nel caso di cabina del distributore, l'impianto dell'utilizzatore è del tipo:
+A	TN-S
+B	TN-C
+C	IT
+@D	TT
+
+9	Il Quadro Generale Bassa Tensione include:
+@A	L'insieme dei montanti con i relativi sistemi di protezione, sbarre e partenze linee con i relativi sistemi di 	protezione, tutti eserciti in bassa tension
+B	L'insieme dei montanti con i relativi sistemi di protezione, sbarre e partenze linee con i relativi sistemi di 	protezione, tutti eserciti in media tensioe
+C	Il sistema di protezione in media tensione
+D	Il sistema di protezione del trasformatore
+
+10	La corrente nominale del quadro è:
+A	Il valore massimo tra la corrente nominale in entrata e la corrente nominale in uscita
+@B	Il valore minimo tra la corrente nominale in entrata e la corrente nominale in uscita
+C	La somma della corrente nominale in entrata e della corrente nominale in uscita
+D	La differenza tra la corrente nominale in entrata e la corrente nominale in uscita
+
+
+<Lezione 47
+
+1	Nell'infortunio elettrico, lo stato di shock è conseguente:
+A	All'effetto del campo magnetico sul corpo umano
+B	All'effetto del campo elettrico sul corpo umano
+C	All'effetto del riscaldamento dovuto all'effetto Joule
+@D	Al passaggio di corrente nel corpo umano
+
+2	Tra gli effetti della corrente sul corpo umano, è inclusa:
+@A	La tetanizzazione
+B	L'iperventilazione
+C	L'ipercapnia
+D	L'ipossia
+
+3	La fibrillazione ventricolare:
+@A	Può essere arrestata con una scarica elettrica violenta, opportunamente dosata
+B	Può essere arrestata con la respirazione bocca a bocca
+C	Può essere arrestata con il massaggio cardiaco
+D	E' irreversibile
+
+4	In caso di infortunio elettrico, il massaggio cardiaco e la respirazione bocca a bocca:
+A	Se tempestivi, arrestano la tetanizzazione
+B	Se tempestivi, evitano le ustioni
+C	Se tempestivi arrestano la fibrillazione ventricolare
+@D	Se tempestivi prolungano l'intervallo di tempo entro il quale l'utilizzo del defibrillatore è efficace
+
+5	Una delle maggiori difficoltà nello studio degli effetti della corrente sul corpo umano è:
+A	La determinazione della massima corrente capace di innescare la fibrillazione
+@B	La determinazione della minima corrente capace di innescare la fibrillazione
+C	La determinazione della minima corrente sopportabile
+D	La determinazione della massima corrente sopportabile
+
+6	In riferimento all'infortunio elettrico, il fattore di percorso si riferisce:
+A	Alla tipologia di impianto con cui la persona viene a contatto
+B	Al percorso della corrente nel circuito elettrico a contatto con la persona
+@C	Al percorso della corrente all'interno del corpo umano
+D	Al tipo di guasto cui è soggetto la corrente che percorre il corpo umano
+
+7	In alta tensione, l'infortunio elettrico è causato, soprattutto:
+A	Dalla fibrillazione ventricolare
+B	Dalla tetanizzazione
+@C	Dalle ustioni
+D	Dal soffocamento
+
+8	Le curve di pericolosità rappresentano:
+A	I tempi di esposizione in funzione delle correnti che sono causa della sola folgorazione
+@B	I tempi di esposizione in funzione delle correnti che sono causa di effetti sul corpo umano
+C	I tempi di esposizione in funzione delle correnti che sono causa della sola tetanizzazione
+D	I tempi di esposizione in funzione delle correnti che sono causa della sola fibrillazione
+
+9	Si definisce soglia di percezione:
+A	Il valore minimo di tensione che causa una sensazione alla persona attraverso cui fluisce la corrente
+B	Il valore massimo di tensione che causa una sensazione alla persona attraverso cui fluisce la corrente
+C	Il valore massimo di corrente che causa una sensazione alla persona attraverso cui fluisce la corrente
+@D	Il valore minimo di corrente che causa una sensazione alla persona attraverso cui fluisce la corre
+
+10	Si definisce soglia di rilascio:
+A	Il valore minimo di tensione a cui una persona può lasciare gli elettrodi con i quali è in contatto
+B	Il valore massimo di tensione a cui una persona può lasciare gli elettrodi con i quali è in contatto
+@C	Il valore massimo di corrente a cui una persona può lasciare gli elettrodi con i quali è in contatto
+D	Il valore minimo di tensione a cui una persona può lasciare gli elettrodi con i quali è in contatto
+
+
+<Lezione 48
+
+1	Il corpo umano corrisponde, in termini circuitali:
+A	A un induttore
+B	A un condensatore
+C	A un'impedenza induttiva
+@D	A un'impedenza capacitiva
+
+
+2	La resistenza interna del corpo umano dipende:
+@A	Principalmente dal percorso della corrente
+B	Solo dal valore della tensione
+C	Principalmente dal valore della corrente
+D	Solo dal valore della corrente
+
+3	Alla frequenza di 50 Hz, Il corpo umano corrisponde, in termini circuitali:
+@A	A una rete di resistenze
+B	A una rete di capacità
+C	A una rete di induttanze
+D	A un cortocircuito
+
+4	Le curve di sicurezza sono grafici:
+A	Tempo/corrente
+@B	Tempo/Tensione
+C	Corrente/Tensione
+D	Tensione/corrente
+
+5	In bassa tensione le curve di sicurezza vengono riferiti al percorso:
+@A	A minor resistenza
+B	A maggior resistenza
+C	A minor tensione
+D	A maggior tensione
+
+6	Nel punto di appoggio sul terreno, alla resistenza del corpo umano si aggiunge una resistenza che 	dipende:
+A	Dalla corrente
+B	Dalla tensione
+@C	Dalle caratteristiche di resistività del terreno
+D	Dalle caratteristiche fisiche (altezza e peso)
+
+7	Nella determinazione delle curve di sicurezza per condizioni ordinarie, il valore della resistenza (corpo + 	aggiuntiva) vale:
+A	1 Ω
+B	10 Ω
+C	100 Ω
+@D	1000 Ω
+
+8	Nella determinazione delle curve di sicurezza per condizioni ordinarie, il valore della resistenza (corpo + 	aggiuntiva) vale:
+A	12 Ω
+B	20Ω
+@C	200 Ω
+D	2000 Ω
+
+9	La tensione di contatto a vuoto è la tensione che si manifesta:
+@A	Durante un guasto a terra tra le masse ed il terreno quando queste masse non vengono toccate
+B	Durante un guasto a terra tra le masse ed il terreno quando queste masse non vengono collegate a terra
+C	Durante il normale funzionamento tra le masse ed il terreno quando queste masse non vengono toccate
+D	Durante il normale funzionamento tra le masse ed il terreno
+
+10	La tensione di passo è la tensione che si presenta tra i due piedi di una persona:
+A	Disposti ad 1 cm di distanza l'uno dall'altro
+@B	Disposti ad 1 m di distanza l'uno dall'altro
+C	Disposti ad 1 km di distanza l'uno dall'altro
+D	Disposti parallelamente tra essi
+
+
+
+<Lezione 49
+
+1	In un sistema trifase con neutro isolato, in condizioni di funzionamento normale, se le capacità verso 	terra delle tre fasi sono uguali, il centro stella degli avvolgimenti del trasformatore:
+A	Può ritenersi allo stesso potenziale di una delle tre fasi
+@B	Può ritenersi allo stesso potenziale della terra
+C	Assume valori di potenziale dipendenti dalla tensione concatenata del sistema
+D	Assume valori di potenziale dipendenti dalla tensione di fase del sistema
+
+2	In un sistema trifase con neutro francamente a terra, il centro stella degli avvolgimenti del 	trasformatore:
+A	E' al potenziale di terra solo in condizioni di funzionamento normali
+B	E' al potenziale di terra solo in condizioni di funzionamento anormali
+@C	E' al potenziale di terra sia in condizioni di funzionamento normali che anormali
+D	Assume valori di potenziale dipendenti dalla tensione nominale del sistema
+
+3	Nel caso di un sistema trifase con neutro isolato, quando si verifica un guasto a terra di una fase, le altre 	due si portano:
+A	Al potenziale di terra
+B	Ad un potenziale maggiore del potenziale di terra
+@C	Ad una tensione verso terra maggiore di quella di normale funzionamento
+D	Ad una tensione verso terra minore di quella di normale funzionamento
+
+4	Nel caso di un sistema trifase con neutro isolato, quando si verifica un guasto franco a terra di una fase, 	le altre due si portano:
+A	Al potenziale di terra
+B	Ad un potenziale maggiore del potenziale di terra
+@C	Ad una tensione verso terra pari a quella concatenata
+D	Ad una tensione verso terra pari a quella di fase
+
+5	Un guasto di una fase a terra si dice franco quando:
+@A	Si può rappresentare da un bipolo cortocircuito
+B	Si può rappresentare da un bipolo circuito aperto
+C	Si può rappresentare da un bipolo capacitivo
+D	Si può rappresentare da un bipolo induttivo
+
+6	In caso di guasto di una fase a terra, il collegamento a terra del centro stella degli avvolgimenti di un 	trasformatore, determina una corrente di guasto:
+@A	Più elevata del caso in cui il centro stella è isolato
+B	Più piccola del caso in cui il centro stella è isolato
+C	Nulla
+D	Indipendente dall'impedenza di guasto
+
+7	Negli impianti di I categoria, il neutro è esercito a terra in quanto, in caso di guasto:
+@A	Il valore elevato della corrente determina che il guasto può essere eliminato con sicurezza e tempestività
+B	Il valore elevato della corrente determina che il guasto si autoestingue
+C	Il valore piccolo della corrente determina che il guasto si autoestingue
+D	Il valore piccolo della corrente determina una situazione di non pericolosità
+
+8	La bobina di Petersen è una moodalità di esercizio del neutro tipicamente adottato nei sistemi di:
+A	Categoria 0
+B	Categoria I
+@C	Categoria II
+D	Categoria III
+
+9	Il sistema TT indica che:
+@A	Le masse sono collegate a terra e il neutro è collegato a terra
+B	Le masse sono isolate e il neutro è collegato a terra
+C	Il neutro è isolato e le masse collegate a terra
+D	Le masse ed il neutro sono isolate
+
+10	Nei sistemi TN-C, il conduttore PEN svolge le funzioni di:
+A	Conduttore di fase e di neutro
+@B	Conduttore di neutro e di protezione
+C	Solo conduttore di protezione
+D	Solo conduttore di neutro
+
+
+<Lezione 50
+
+1	Per impianto di terra si intende:
+A	Ll sistema limitato localmente costituito dai conduttori di potenza
+@B	Ll sistema limitato localmente costituito da dispersori in contatto con il terreno
+C	Ll sistema limitato localmente costituito dai conduttori di neutro
+D	Ll sistema limitato localmente costituito dai conduttori di potenza ed il trasformatore
+
+2	Per dispersore si intende:
+A	Un isolatore posto in contatto elettrico con il terreno
+@B	Un conduttore posto in contatto elettrico con il terreno
+C	Un isolatore posto in contatto elettrico con una massa
+D	Un conduttore posto in contatto elettrico con una massa
+
+3	La massa:
+A	E' una parte conduttrice di un componente elettrico che può essere toccata e che in condizioni ordinarie è in 	tensione
+B	E' una parte isolante di un componente elettrico che può essere toccata e che in condizioni ordinarie è in 	tensione
+C	E' una parte isolante di un componente elettrico che può essere toccata e che in condizioni ordinarie non è in 	tensione, ma che può diventarlo in condizioni di guasto
+@D	E' una parte conduttrice di un componente elettrico che può essere toccata e che in condizioni ordinarie non è 	in tensione, ma che può diventarlo in condizioni di guasto
+
+4	Il conduttore di terra:
+@A	Collega una parte dell'impianto che deve essere messo a terra ad un dispersore oppure collega tra loro più 	dispersori
+B	Collega una parte dell'impianto che deve essere messo a terra ai conduttori di potenza
+C	Collega una parte dell'impianto che deve essere messo a terra ail conduttore di neutro
+D	Collega le masse tra loro
+
+5	L'impianto di terra degli impianti utilizzatori di bassa tensione sono oggetto della Norma:
+A	CEI 8-64
+@B	CEI 64-8
+C	CEI 6-8
+D	CEI 6-4
+
+6	L'impianto di terra di cabina relativo ai sistemi di II categoria deve avere, tra l'altro:
+@A	Sufficiente resistenza meccanica e resistenza alla corrosione
+B	Grande estensione
+C	Piccola estensione
+D	Grande profondità
+
+7	L'impianto di terra degli impianti utilizzatori di bassa tensione includono:
+A	Il conduttore di fase
+B	Il conduttore di neutro
+C	Il conduttore di potenza
+@D	Il conduttore di protezione
+
+
+8	Negli impianti di terra degli impianti utilizzatori di bassa tensione il conduttore di terra è collegato:
+A	Alle masse
+B	Alle masse estranee
+@C	Al collettore principale di terra
+D	Al conduttore di neutro
+
+9	Il dispersore può essere:
+A	Solo intenzionale
+@B	Intenzionale o di fatto
+C	Intenzionale o reale
+D	Solo reale
+
+10	La resistenza di terra:
+A	Coincide con la resistività del terreno a contatto col dispersore
+@B	E' la resistenza tra il dispersore e la terra di riferimento
+C	E' la resistenza tra le masse e la terra di riferimento
+D	E' la resistenza tra le masse estranee e la terra di riferimento
+
+
+<Lezione 51
+
+1	Si parla di contatto diretto quando:
+@A	Il contatto avviene con una parte del circuito normalmente in tensione
+B	Il contatto avviene con una parte del circuito normalmente non in tensione ma che può trovarsi in tensione in 	caso di guasto
+C	Il contatto avviene con una parte del circuito non in tensione
+D	Il contatto avviene con una parte isolante
+
+2	Si parla di contatto indiretto quando:
+A	Il contatto avviene con una parte del circuito normalmente in tensione
+@B	Il contatto avviene con una parte del circuito normalmente non in tensione ma che può trovarsi in tensione in 	caso di guasto
+C	Il contatto avviene con una parte del circuito non in tensione
+D	Il contatto avviene con una parte isolante
+
+3	Si dice massa:
+A	Una parte isolante, facente parte dell'impianto elettrico, che può essere toccata e che non è in tensione in 	condizioni ordinarie di isolamento
+@B	Una parte conduttrice, facente parte dell'impianto elettrico, che può essere toccata e che non è in tensione in 	condizioni ordinarie di isolamento
+C	Una parte conduttrice, facente parte dell'impianto elettrico, che può essere toccata e che è in tensione in 	condizioni ordinarie di isolamento
+D	Una parte conduttrice non facente parte dell'impianto elettrico in grado di introdurre un potenziale, 	generalmente il potenziale di terra
+
+4	Si dice massa estranea:
+A	Una parte isolante, facente parte dell'impianto elettrico, che può essere toccata e che non è in tensione in 	condizioni ordinarie di isolamento
+B	Una parte conduttrice, facente parte dell'impianto elettrico, che può essere toccata e che non è in tensione in 	condizioni ordinarie di isolamento
+C	Una parte conduttrice, facente parte dell'impianto elettrico, che può essere toccata e che è in tensione in 	condizioni ordinarie di isolamento
+@D	Una parte conduttrice non facente parte dell'impianto elettrico in grado di introdurre un potenziale, 	generalmente il potenziale di terra
+
+5	Una massa:
+A	E' realizzata in materiale isolante
+B	E' in tensione in condizioni di funzionamento normale
+C	Non può andare in tensione in caso di guasto
+@D	Può andare in tensione in caso di un cedimento dell'isolamento principale
+
+6	Si configura un contatto indiretto ogni qualvolta la persona è soggetta:
+A	Alla tensione di fase
+B	Ad una tensione per il tramite di una parte normalmente in tensione
+@C	Ad una tensione per il tramite di una massa
+D	Ad una tensione per il tramite di una massa estranea
+
+7	Normalmente, nei sistemi TT la protezione contro i contatti indiretti si realizza con:
+@A	L'interruzione automatica dell'alimentazione in caso di guasto a massa
+B	L'interruzione manuale dell'alimentazione in caso di guasto a massa
+C	Separazione galvanica
+D	Realizzazione degli impianti in luoghi non conduttori
+
+8	Nei sistemi TT, la tensione totale di terra è:
+A	La tensione misurata tra la carcassa e la terra in caso di dispersione della corrente di guasto attraverso la 	persona
+@B	La tensione misurata tra la carcassa e la terra in caso di dispersione della corrente di guasto attraverso i 	dispersori
+C	La tensione misurata tra la fase e la terra in caso di dispersione della corrente di guasto attraverso i dispersori
+D	La tensione misurata tra il neutro e la terra in caso di dispersione della corrente di guasto attraverso i dispersori
+
+9	Nei sistemi TT, la tensione di contatto è:
+A	La tensione misurata tra la carcassa e la terra in caso di dispersione della corrente di guasto attraverso i 	dispersori
+B	La tensione misurata tra il neutro e la terra in caso di dispersione della corrente di guasto attraverso i dispersori
+@C	La tensione alla quale è soggetto il corpo umano in contatto con la carcassa durante un guasto d'isolamento
+D	La tensione misurata tra la fase e la terra in caso di dispersione della corrente di guasto attraverso i dispersori
+
+10	Per corrente differenziale si intende:
+@A	La somma vettoriale delle correnti che circolano nei conduttori attivi del circuito, compreso il conduttore di 	neutro
+B	La somma algebrica delle correnti che circolano nei conduttori attivi del circuito, compreso il conduttore di 	neutro
+C	La somma vettoriale delle correnti che circolano nei conduttori attivi del circuito, escluso il conduttore di 	neutro
+D	La somma vettoriale delle correnti che circolano nei conduttori attivi del circuito interessati dal guasto
+
+
+<Lezione 52
+
+1	I sistemi TN sono:
+A	Sistemi di azionamento adottati negli impianti elettrici utilizzatori
+@B	Sistemi di protezione adottati negli impianti elettrici utilizzatori
+C	Sistemi di protezione adottati contro le sovracorrenti
+D	Sistemi di protezione adottati contro le sovratensioni
+
+2	La sigla TN, indica che:
+A	Il centrostella degli avvolgimenti è collegato a terra e le masse a terra
+B	Il centrostella degli avvolgimenti è collegato al neutro e le masse a terra
+@C	Il centrostella degli avvolgimenti è collegato a terra e le masse a al conduttore di protezione
+D	Il centrostella degli avvolgimenti è isolato e le masse sono collegate a terra
+
+3	Negi sistemi TN-S, l'anello di guasto è costituito da:
+@A	Avvolgimento del trasformatore, conduttore di fase, massa, conduttore di neutro
+B	Avvolgimento del trasformatore, conduttore di fase, massa, conduttore di neutro e terra
+C	Avvolgimento del trasformatore, conduttore di fase, massa e terra
+D	Conduttore di neutro, massa e terra
+
+
+4	Nei sistrmi di protezione TN-S, il conduttore di protezione:
+@A	Collega le masse al conduttore di neutro
+B	Collega le masse ai dispersori
+C	Collega il conduttore di fase al conduttore di neutro
+D	Collega il conduttore di neutro a terra
+
+5	Nei sistemi TN-S, la protezione contro i contatti indiretti è garantita:
+A	Dall'interruttore differenziale
+B	Dagli scaricatori
+C	Dagli isolatori
+@D	Dai dispositivi di protezione contro le sovracorrenti
+
+6	Nei sistemi TN-S in condizioni ordinarie, l'ntervento del dispositivo di protezione deve intervenire:
+A	Entro 4 minuti
+@B	Entro 0.4 secondi
+C	Entro 4 secondi
+D	Entro 40 secondi
+
+7	Nei sistemi TN-S in condizioni particolari, l'ntervento del dispositivo di protezione deve intervenire:
+A	Entro 2 minuti
+@B	Entro 0.2 secondi
+C	Entro 2 secondi
+D	Entro 20 secondi
+
+8	I sistemi IT sono:
+A	Sistemi di azionamento adottati negli impianti elettrici utilizzatori
+@B	Sistemi di protezione adottati negli impianti elettrici utilizzatori
+C	Sistemi di protezione adottati contro le sovracorrenti
+D	Sistemi di protezione adottati contro le sovratensioni
+
+9	La sigla IT, indica che:
+A	Il centrostella degli avvolgimenti è collegato a terra e le masse a terra
+@B	Il centrostella degli avvolgimenti è isolato e le masse a terra
+C	Il centrostella degli avvolgimenti è collegato a terra e le masse a al conduttore di protezione
+D	Il centrostella degli avvolgimenti è isolato e le masse sono isolate
+
+10	Nei sistemi di bassissima tensione in corrente alternata, la tensione di alimentazione degli utilizzatori 	non è superiore alla tensione di contatto limite, essendo:
+A	Non superiore a 12 V
+@B	Non superiore a 120 V
+C	Non superiore a 230 V
+D	Non superiore a 1000 V
+
+
+<Lezione 53
+
+1	Il contatto diretto si configura:
+A	Quando una persona entra in contatto con masse del circuito elettrico
+B	Quando una persona entra in contatto con parti isolanti del circuito elettrico
+@C	Quando una persona entra in contatto con parti attive del circuito elettrico
+D	Quando una persona entra in contatto con parti inattive del circuito elettrico
+
+2	Per parte attiva di un circuito si intende:
+A	Ogni parte conduttrice in tensione nel servizio ordinario, compreso il conduttore di neutro ed il conduttore PEN
+@B	Ogni parte conduttrice in tensione nel servizio ordinario, compreso il conduttore di neutro, ma escluso il 	conduttore PEN
+C	Ogni parte conduttrice in tensione nel servizio ordinario, compreso il conduttore PEN, ma escluso il conduttore 	di neutro
+D	Ogni massa del circuito
+
+3	Le misure di protezione contro i contatti diretti in bassa tensione possono essere:
+A	A terra o a massa
+B	Dipendenti o indipendenti
+C	Complessive o relative
+@D	Totali o parziali
+
+4	Nella protezione contro i contatti diretti, le misure totali vengono applicate:
+A	In luoghi particolari
+B	In luoghi chiusi
+C	In luoghi aperti
+@D	In luoghi ordinari
+
+5	Nella protezione contro i contatti diretti, le misure di protezione parziali sono adibite alla protezione:
+A	Delle persone in luoghi ordinari
+B	Delle persone in luoghi pericolosi
+C	Delle persone elettricamente profane
+@D	Delle persone elettricamente addestrate
+
+6	Le misure di protezione totali sono costituite da:
+@A	Isolamento, involucri e barriere
+B	Isolatori
+C	Separatori
+D	Sezionatori
+
+7	Nella protezione contro i contatti diretti:
+A	Il materiale isolante deve ricoprire completamente le masse
+@B	Il materiale isolante deve ricoprire completamente le parti attive
+C	Il materiale isolante deve ricoprire completamente le parti isolanti
+D	Il materiale isolante deve ricoprire completamente gli apparecchi di manovra
+
+8	L'involucro di un apparecchio è un elemento che assicura:
+A	La protezione contro i contatti indiretti in ogni direzione
+B	La protezione contro i contatti indiretti solo nella direzione perpendicolare all'apparecchio
+C	La protezione contro i contatti diretti solo nella direzione perpendicolare all'apparecchio
+@D	La protezione contro i contatti diretti in ogni direzione
+
+9	La prima e seconda cifra del grado IP indicano, rispettivamente, il grado di protezione contro:
+@A	La penetrazione di corpi estranei e contro i liquidi
+B	L'accesso umano e condizioni ambientali
+C	Gli urti e le pressioni
+D	L'umidità e l'irraggiamento
+
+10	Negli interruttori differenziali ad alta sensibilità, la corrente nominale differenziale d'intervento è:
+@A	Non superiore a 30 mA
+B	Non inferiore a 30 mA
+C	Non superiore a 30 A
+D	Non inferiore a 30 A
+
+
+<Lezione 54
+
+1	La Norma CEI dedicata alle protezioni contro le sovratensioni dovute a flminazioni è:
+A	La Norma CEI 64-8
+@B	La Norma CEI 81-10
+C	La Norma CEI 81-64
+D	La Norma CEI 64-81
+
+
+2	La Norma CEI 81-10 stabilisce le protezioni in base al rischio di danno:
+A	Solo alle persone
+B	Solo alle strutture
+@C	Sia alle persone che alle strutture
+D	Solo alle persone addestrate
+
+3	Le sovratensioni possono essere classificate in sovratensioni:
+@A	Di origine interna ed esterna
+B	Di origine atmosferica e temporalesca
+C	Di origine superiore ed inferiore
+D	Di breve durata e di lunga durata
+
+4	Le sovratensioni di origine esterna possono essere determinate da:
+@A	Fulminazioni
+B	Manovra di apparecchi di manovra
+C	Apertura di un sezionatore
+D	Chiusura di un sezionatore
+
+5	Le sovratensioni di origine interna possono essere determinate da:
+A	Fulminazioni
+@B	Manovra di apparecchi di manovra
+C	Apertura di un sezionatore
+D	Chiusura di un sezionatore
+
+6	I Sistemi di protezione contro le sovratensioni possono essere classificati in:
+A	Induttivi e capacitivi
+B	Resistivi ed induttivi
+C	Precedenti e conseguenti
+@D	Preventivi e repressivi
+
+7	Gli scaricatori sono:
+@A	Dispositivi di protezione contro sovratensioni di tipo impulsivo
+B	Dispositivi di protezione contro sovracorrenti di tipo impulsivo
+C	Dispositivi di protezione contro il cortocircuito
+D	Apparecchi di manovra
+
+8	Negli impianti elettrici utilizzatori in bassa tensione di piccola estensione gli scaricatori sono installati 	all'ingresso della linea elettrica nell'edificio con i modi di connessione suggeriti:
+A	Dalla norma CEI 81-10
+@B	Dalla norma CEI 64-8
+C	Dalla norma CEI 64-81
+D	Dalla pratica comune
+
+9	Il sistema di protezione completo di una struttura contro le sovratensioni è costituito:
+A	Da un impianto di protezione sequenziale
+B	Da un impianto di protezione primario e da uno secondario
+@C	Da un impianto di protezione esterno e da uno interno
+D	Da un impianto di protezione contro le sovracorrenti
+
+10	Per decidere se è necessario o meno installare un sistema di protezione contro i fulmini per una struttura 	si valutano i seguenti tipi di rischio:
+A	Perdita di vite umane; perdita di servizi pubblici essenziali
+B	Perdita di vite umane; perdita di servizi pubblici essenziali; perdita di patrimonio culturale insostituibile
+@C	Perdita di vite umane; perdita di servizi pubblici essenziali; perdita di patrimonio culturale insostituibile; 	perdita di valore puramente economico
+D	Perdita di valore puramente economico

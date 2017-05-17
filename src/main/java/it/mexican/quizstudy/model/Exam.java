@@ -19,6 +19,9 @@ public class Exam
 	@Column(name="description", unique = true, nullable = false)
 	private String description;
 
+	@Column(name="code", unique = true)
+	private String codice;
+
 	public int getId()
 	{
 		return id;
@@ -37,5 +40,15 @@ public class Exam
 	public void setDescription(String description)
 	{
 		this.description = description;
+	}
+
+	public String getCodice()
+	{
+		return codice;
+	}
+
+	public void setCodice(String codice)
+	{
+		this.codice = codice;
 	}
 }

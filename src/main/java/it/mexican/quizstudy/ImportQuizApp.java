@@ -35,13 +35,13 @@ public class ImportQuizApp
 
         entityManager.getTransaction().begin();
 
-        File quizFile = new File("src/main/resources/quiz.txt");
+        File quizFile = new File("src/main/resources/quiz-aziendale.txt");
         if(!quizFile.exists()){
             return;
         }
 
         Exam exam = new Exam();
-        exam.setDescription("Impianti Elettrici");
+        exam.setDescription("Gestione Aziendale");
         entityManager.persist(exam);
 
         Scanner scanner = new Scanner(quizFile);

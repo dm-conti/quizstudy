@@ -1,0 +1,2362 @@
+<Lezione 1
+
+1	In caso di cessione di un'azienda:
+A	L'acquirente subentra automaticamente, sempre e in tutti i contratti dell'imprenditore venditore
+@B	L'acquirente subentra automaticamente nei contratti, tranne se le parti hanno stabilito diversamente o tali 	contratti hanno carattere personale
+C	I crediti non si trasferiscono all'imprenditore acquirente
+D	Gli effetti del trasferimento dei crediti sui terzi avviene all'atto dell'acquisto, indipendentemente dalla 	trascrizione del trasferimento nel registro delle imprese
+
+2	Secondo il Codice Civile l'azienda è:
+A	Un complesso di beni e servizi
+B	Un insieme di rapporti giuridici
+C	Non sono considerati l'insieme di contratti, crediti e debiti esistenti
+@D	Oltre ad essere un complesso di beni l'azienda è un insieme di rapporti giuridici (contratti, crediti e debiti)
+
+3	In caso di cessione di un'azienda, i debiti:
+@A	Passano all'acquirente mediante accollo cumulativo e non liberatorio, tranne nel caso in cui il creditore ceduto 	non ha espressamente liberato il debitore originario
+B	Passano tutti all'acquirente tranne quelli di importo superiore ai 100.000 euro per i quali vige la regola 	dell'accollo cumulativo e non liberatorio
+C	Passano all'acquirente, liberando il debitore originario
+D	Passano tutti all'acquirente tranne quelli derivanti da rapporti di lavoro dipendente per i quali vige la regola 	dell'accollo cumulativo e non liberatorio
+
+4	Un'attività economica è un'impresa se:
+A	E' di durata occasionale, è autonoma, c'è coordinazione tra i fattori produttivi, ha finalità economiche
+@B	Non ha durata occasionale, gode di massima autonomia, c'è coordinazione tra i fattori impiegati, ha finalità 	economiche
+C	Non ha durata occasionale, è autonoma, c'è coordinazione tra tutti i fattori produttivi, non ha finalità 	economiche
+D	Non ha durata occasionale, non gode di autonomia organizzativa, c'è coordinazione tra tutti i fattori produttivi, 	ha finalità economiche
+
+5	Gli obiettivi dell'impresa sono funzionali:
+A	Esclusivamente alla soddisfazione dei bisogni dei clienti
+B	Esclusivamente alla soddisfazione del soggetto economico
+@C	Alla soddisfazione dei bisogni umani ed in particolare del soggetto economico
+D	Esclusivamente alla soddisfazione degli stakeholder
+
+6	L'impresa è definita come:
+A	Un sistema aperto
+B	Un sistema interattivo
+@C	Un sistema interattivo e permanentemente aperto
+D	Un sistema interattivo e occasionalmente apero
+
+7	I principali momenti di un'impresa sono:
+A	Decisione, esecuzione, monitoraggio e valutazione
+@B	Decisione, esecuzione, controllo e correzione mediante feedback
+C	Decisione, controllo, analisi degli scostamente, correzione
+D	Decisione, esecuzione, analisi delle performance e analisi degli scostamenti
+
+
+8	I requisiti fondamentali dell'imprenditore sono:
+A	Esercizio di un'attività economica, produzione di beni e servizi destinati al proprio consumo, organizzazione 	dell'attività economica
+B	Esercizio di un'attività economica, produzione di beni e servizi destinati al mercato, esercizio dell'attività 	abituale
+@C	Esercizio di un'attività economica, produzione di beni e servizi destinati al mercato, coordinazione dei mezzi 	impiegati, esercizio abituale dell'attività economica
+D	Esercizio di un'attività economica, produzione di beni e servizi destinati al mercato, organizzazione dell'attività 	economica, esercizio anche occasionale dell'attività economica
+
+9	Principale differenza tra imprenditore e manager:
+@A	L'imprenditore rischia investendo mezzi propri, i manager si occupano del perseguimento degli obiettivi
+B	I manager investono mezzi propri
+C	Non vi sono differenze
+D	L'imprenditore si occupa del perseguimento degli obiettivi
+
+10	I manager sono nominati:
+A	Dagli stakeholder
+B	Dai dipendenti
+@C	Dall'imprenditore
+D	Dagli stakeholder e dall'imprenditore
+
+
+<Lezione 2
+
+1	I costi si classificano in base:
+A	Alla durata
+B	Alla quantità
+@C	Alla durata e alla quantità
+D	Alla qualità
+
+2	I costi fissi:
+@A	Corrispondono all'esborso di denaro che deve sostenere l'impresa per acquisire i fattori produttivi fissi, ossia 	quei fattori il cui utilizzo non varia al variare della quantità prodotta
+B	Corrispondono all'esborso di denaro che deve sostenere l'impresa per acquisire i fattori produttivi variabili
+C	Corrispondono all'esborso di denaro che deve sostenere l'impresa per acquisire i fattori produttivi variabili, 	ossia quei fattori il cui utilizzo non varia al variare della quantità prodotta
+D	Sono i costi che l'impresa deve sostenere per il pagamento di tutti i fornitori e degli interessi bancari
+
+
+3	Una funzione ha rendimenti di scala crescenti se:
+A	Aumentando la quantità di input necessari, si ha un decremento più che proporzionale della quantità di output 	realizzato
+@B	Aumentando la quantità di input necessari, si ha un incremento più che proporzionale della quantità di output 	realizzato
+C	Aumentando la quantità di input necessari, la quantità di output realizzato resta costante
+D	Aumentando la quantità di input necessari, l'impresa riduce i relativi costi di acquisizione
+
+4	Le cause all'origine di rendimenti di scala sono:
+A	Specializzazione della produzione
+B	Scala di produzione
+C	Qualità dell'impianto di produzione
+@D	Specializzazione, scala di produzione ed efficienza dei fattori produttivi
+
+5	Il costo marginale è:
+@A	Il costo che si sostiene per produrre una unità addizionale di prodotto
+B	Il costo per unità di prodotto
+C	Il costo che l'impresa lo sostiene indipendentemente dalla quantità prodotta
+D	La somma tra costo fisso e costo variabile
+
+6	I ricavi sono:
+A	Il valore monetario della produzione di un'impresa
+B	La differenza tra l'utile realizzato e i costi sostenuti
+@C	Il beneficio che scaturisce dalla vendita del risultato della produzione
+D	Il valore di un'impresa
+
+7	L'impresa può aumentare il profitto:
+A	Esclusivamente aumentando il prezzo di vendita
+B	Esclusivamente riducendo il costo dei fattori produttivi
+@C	Aumentandoil prezzo di vendita e/o riducendo il costo dei fattori produttivi
+D	Ottimizzando l'utilizzo dei fattori produttivi
+
+8	L'analisi di break-even point ha l'obiettivo di:
+@A	Individuare la quantità da produrre affinchè i ricavi eguaglino i costi
+B	Individuare la quantità da produrre affinchè l'impresa generi un profitto
+C	Calcolare i costi totali che l'impresa può sostenere
+D	Definire il prezzo di vendita dei prodotti
+
+9	Nel lungo periodo (3-5 anni), l'impresa si pone tipicamente:
+A	Obiettivi di consolidamento
+@B	Obiettivi di sviluppo
+C	Obiettivi di internazionalizzazione
+D	Obiettivi di trasformazione
+
+10	L'altezza e l'inclinazione delle curve di costo e ricavo sono:
+A	Uguali per tutte le imprese
+B	Uguali per tutte le imprese che operano nello stesso settore
+C	Uguali per tutte le imprese che producono lo stesso prodotto
+@D	Variabili in base a vari fattori
+
+
+<Lezione 3
+
+1	Nel settore terziario rientrano attività:
+A	Ad alto valore aggiunto, quali i servizi bancari, il trasporto, telecomunicazioni
+@B	Ad alto valore aggiunto, quali ricerca scientifica e tecnologica, servizi informatici
+C	A medio valore aggiunto, quali turismo e telecomunicazioni
+D	Ad alto valore aggiunto, quali commercio, servizi domestici, telecomunicazioni
+
+2	In base alla raccomandazionen° 361 del 6 maggio 2003 della Commissione Europe, sono considerate 	piccole 	imprese quelle con:
+@A	Fino a 50 addetti e un fatturato non superiore a 5 milioni di euro e che non sia posseduta per oltre 1/3 da una 	grande impresa
+B	Fino a 50 addetti e un fatturato non superiore a 5 milioni di euro
+C	Fino a 20 addetti e un fatturato non superiore a 5 milioni di euro
+D	Fino a 250 addetti e un fatturato non superiore a 10 milioni di euro
+
+3	In base alla raccomandazionen° 361 del 6 maggio 2003 della Commissione Europe, sono considerate 	medie 	imprese quelle con:
+A	Fino a 250 addetti e un fatturato non superiore a 20 milioni di euro
+B	Fino a 50 addetti e un fatturato non superiore a 10 milioni di euro
+C	Fino a 250 addetti e nessun limite in termini di fatturato
+@D	Fino a 250 addetti e un fatturato non superiore a 10 milioni di euro
+
+
+4	Dal punto di vista qualitativo, le piccole imprese si distinguono dalle grandi imprese perché:
+A	Vi è coincidenza tra controllo e proprietà
+@B	Vi è coincidenza tra controllo e proprietà, accentramento del potere decisionale, sovrapposizione tra ruoli 	tecnici e gestionali, e scarsa formalizzazione dei ruoli e dei processi
+C	Il manager a capo dell'impresa e il proprietario sono la stessa persona e l'imprenditore è allo stesso tempo 	proprietario e controllore
+D	Non vi sono differenze qualitative
+
+5	Le imprese che producono per modello:
+A	Realizzano il prodotto in base a quanto richiesto dal committente
+B	Possono realizzare solo poche varianti del prodotto
+@C	Si rivolgono a uno o più segmenti di mercato
+D	Si rivolgono ad un solo segmento di mercato
+
+6	Un segmento di mercato è:
+A	L'insieme dei potenziali acquirenti caratterizzati da diversi comportamenti di acquisto
+@B	L'insieme dei potenziali acquirenti di un determinato bene o servizio accumunati da uno stesso comportamente 	di acquisto
+C	L'insieme dei committenti di un'impresa
+D	Ogni singolo potenziale acquirente di un'impresa
+
+7	I soggetti giuridici possono essere costituiti da:
+@A	Persone fisiche (operanti individualmente o collettivamente) o da persone giuridiche
+B	Solo persone giuridiche
+C	Solo persone fisiche operanti collettivamente
+D	Solo persone fisiche operanti sia individualmente che collettivamente
+
+8	Nelle società di persone, i soci sono tenuti a rispondere delle obbligazioni assunte verso terzi 	nell'esercizio dell'impresa.:
+A	Illimitatamente con i propri patrimoni personali
+@B	Illimitatamente e solidalmente
+C	Solidalmente, ma non illimitatamente
+D	Solo con una parte dei propri patrimoni come indicato nell'atto costitutivo della società
+
+9	Nelle società a responsabilità limitata, il collegio sindacale è obbligatorio se:
+@A	Il capitale sociale supera i 10.000 euro
+B	Il capitale sociale supera i 100.000 euro
+C	Il capitale sociale supera i 50.000 euro
+D	Il capitale sociale non viene interamente conferito all'atto della costituzione
+
+10	Nelle società di capitale:
+A	Vi è l'obbligo di versare un capitale sociale minimo esclusivamente nelle Società per azioni
+B	Non vi è obbligo di conferire un capitale minimo alla società
+C	Il valore minimo di capitale sociale da versare è scelto in piena autonomia dai soci
+@D	Vi è un capitale sociale minimo da conferire alla società che varia in base alla forma giuridica adottata
+
+
+<Lezione 4
+
+1	L'ambiente esterno con cui si relaziona l'impresa può essere suddiviso in:
+@A	Ambiente generico e specifico
+B	Ambiente generale e specializzato
+C	Ambiente specifico e di settore
+D	Ambiente esterno e interno
+
+2	I sub-sistemi interagenti con l'impresa sono:
+A	Sistema competitivo
+B	Macro e Microambiente
+@C	Macroambiente, microambiente, sistema competitivo, sistema degli interlocutori sociali
+D	Insieme degli stakeholder
+
+3	Il prezzo misura:
+A	Il valore che un in individuo è disposto a cedere per poter godere di un bene utile
+B	Il valore che un in individuo è disposto a cedere per poter godere di un bene scarso
+C	Il valore che un in individuo è disposto a cedere per poter godere di un bene scarso e/o utile
+@D	Il valore che un in individuo è disposto a cedere per poter godere di un bene contemporaneamente scarso e 	utile
+
+4	Gli stakeholder sono:
+@A	Tutti i portatori di interessi interni ed esterni all'impresa
+B	I portatori di interessi interni all'impresa
+C	I portatori di interessi esterni all'impresa
+D	Tutti i portatori di interessi interni e/o esterni all'impresa
+
+5	Le variabili che determinano la configurazione di una determinata forma di mercato sono:
+A	Omogeneità del prodotto e trasparenza informativa
+@B	Omogeneità del prodotto, possibilità delle imprese di modificare la quantità del prodotto disponibile sul 	mercato, grado di mobilità dei fattori produttivi, Trasparenza del mercato
+C	Omogeneità del prodotto, presenza di barriere all'entrata, grado di mobilità dei fattori produttivi, Trasparenza 	del mercato
+D	Omogeneità del prodotto, possibilità di influenzare le scelte depresenza di barriere all'entrata, grado di mobilità 	dei fattori produttivi, Trasparenza del mercato
+
+6	Le principali forme di mercato sono:
+A	Concorrenza perfetta, oligopolio, monopolio
+@B	Concorrenza perfetta, oligopolio, monopolio, concorrenza monopolistica
+C	Concorrenza perfetta, monopolio, concorrenza monopolista
+D	Concorrenza perfetta, oligopolio, monopolio, concorrezna oligopilista
+
+7	Nella concorrenza perfetta:
+@A	Vi è un'elevata omogeneità dei prodotti
+B	I prodotti sono fortemente differenziati
+C	Bassa mobilità dei fattori produttivi
+D	Scarsa trasparenza informativa
+
+8	Nell'oligopolio:
+A	Bassa trasparenza informativa
+B	Impossibile influenzare le scelte degli altri produttori
+@C	Alte barriere all'ingresso e all'uscita
+D	Omogeneità dei prodotti
+
+9	Nel monopolio:
+A	Vi è una forte differenziazione dei prodotti
+B	Forte mobilità dei fattori produttivi
+@C	Il monopolista produce tutta la quantità da vendere
+D	Elevata trasparenza informativa
+
+10	Nella concorrenza monopolistica:
+A	Alta mobilità dei fattori produttivi
+B	Prodotti differenziati
+C	Bassa trasparenza informativa
+@D	Prodotti omogenei
+
+
+
+<Lezione 5
+
+1	I fattori a fecondità semplice:
+@A	Esauriscono la propria utilità economica in un unico ciclo produttivo e il recupero della ricchezza investita 	avviene attraverso i ricavi della vendita del prodotto ottenuto con la sua utilizzazione
+B	Esauriscono la propria utilità economica in un più cicli produttivi
+C	Sono le risorse immateriali
+D	Sono impiegati nella produzione dei semilavorati
+
+2	Le risorse immateriali:
+A	Perdono valore nel corso del tempo
+@B	Possono acquistare valore nel corso del tempo
+C	Si deprezzano
+D	Il loro valore decresce in base all'utilizzo
+
+3	Secondo la Resource-based view, una risorsa crea un vantaggio competitivo quando:
+A	Genera valore aggiunto ed è rara
+B	Genera valore aggiunto, è rara e riproducibile
+C	Genera valore aggiunto ed è inimitabile
+@D	Genera valore aggiunto, è rara e inimitabile
+
+
+4	L'obsolescenza è:
+A	La riduzione della capacità produttiva di un bene
+B	Una misura del progresso tecnologico
+@C	La perdita di valore di un bene causata dal progresso tecnologico
+D	Una tecnica per valutare l'impatto ldel progresso tecnologico sul valore di un bene
+
+5	Obsolescenza programmata è:
+A	Una metodologia per misurare la validità di un prodotto/servizio
+@B	Una strategia che mira a definire la durata di un prodotto in modo da renderne la vita utile limitata a un periodo 	prefissato
+C	Una strategia per programmare il numero ottimale di prodotti che un macchinario deve realizzare per 	recuperare l'investimento realizzato
+D	Una tecnica per valutare l'efficacia e l'efficienza di un impianto
+
+6	L'obsolescenza interessa:
+A	Solo i macchinari
+B	Le strutture organizzative e quelle operative
+@C	Le strutture organizzative, operative e i prodotti
+D	Solo i beni a fecondità ripetuta
+
+7	L'economicità è:
+@A	La capacità dell'impresa di perdurare nel tempo massimizzando l'utilità delle risorse impiegate
+B	La capacità dell'impresa di ridurre i costi di produzione
+C	La capacità dell'impresa di ridurre i prezzi di vendita
+D	La capacità dell'impresa di remunerare le risorse materiali
+
+8	Un'impresa è efficiente quando:
+A	Riduce gli sprechi nell'utilizzo dei fattori produttivi
+@B	Riduce l'impiego degli input a parità di output realizzato
+C	Riduce gli scarti di lavorazione
+D	Migliora i processi produttivi
+
+9	L'efficienza tecnica o produttiva misura:
+@A	Il modo in cui i fattori sono utilizzati nel processo produttivo e la capacità di produrre più unità fisiche di 	output dato un certo ammontare di input e una certa tecnologia o viceversa
+B	La capacità di migliorare i processi produttivi
+C	La capacità di impiegare i fattori produttivi
+D	La capacità di combinare le risorse dell'impresa
+
+10	Un'impresa è efficace quando:
+A	Raggiunge l'equilibrio economico
+B	Riduce i costi di produzione
+C	E' leader nel mercato in cui opera
+@D	Ha raggiunto con successo gli obiettivi prefissati e ha soddisfatto le richieste del mercato
+
+
+<Lezione 6
+
+1	Il vantaggio competitivo è:
+@A	E' la capacità di un'impresa di raggiungere performance superiori rispetto ai concorrenti
+B	E' la capacità dell'impresa di produrre a costi più bassi rispetto ai concorrenti
+C	E' la capacità dell'impresa di ridurre la minaccia di nuovi potenziali entranti
+D	Dipende dalla capacità dell'impresa di riuscire ad operare in un settore attrattivo
+
+2	Le diverse tipologie di relazioni che un'impresa instaura con gli attori dell'ambiente competitivo 	dipendono:
+A	Dall'oggetto della relazione
+@B	Dalla ripetitività della relazione e dal grado di conflittualità
+C	Dalla tipologia degli attori coinvolti
+D	Dal numero di attori coinvolti
+
+3	Il settore è:
+A	Insieme di tutti gli attori che appartengono alla stessa filiera produttiva
+B	Insieme di imprese che producono beni o servizi percepiti dalla domanda come complementari
+C	Insieme di imprese in diretta concorrenza tra loro
+@D	Insieme di imprese che producono beni o servizi in concorrenza diretta tra loro, ossia percepiti dalla domanda 	come sostituti (parziali o completi)
+
+4	Il settore è attrattivo:
+A	Quando consente all'impresa di raggiungere una posizione di leader
+B	Quando consente alle imprese di guadare un'elevata quota di mercato
+@C	Quando consente alle imprese di conseguire una redditività elevata e difendibile nel tempo
+D	Quando consente alle imprese di conseguire una redditività elevata nel breve periodo
+
+5	Secondo il modello della conconcorrenza allargata:
+@A	In ogni settore la concorrenza non coinvolge solo le imprese appartenenti allo stesso settore (i concorrenti), ma 	è allargata ai clienti, fornitori, potenziali entranti, prodotti sostituti
+B	E' necessario considerare tutti gli stakeholder dell'impresa
+C	L'attrattività di un settore dipende esclusivamente dalle caratterstiche della domanda
+D	L'attrattività di un settore dipende esclusivamente dalle caratterstichedel prodotto offerto
+
+6	Le barriere strategiche dipendono da:
+A	Dalla configurazione delle cinque forze competitive
+B	Definizioni di leggi speciali
+C	Caratteristiche del settore considerato
+@D	Comportamenti attuati delle imprese già insediate rispetto a quelle potenzialmente entranti con l'obiettivo di 	scoraggiarne l'entrata o di renderla particolarmente costosa
+
+7	Secondo il modello della conconcorrenza allargata:
+@A	Un'impresa dispone di fattori produttivi difficili da riconvertire per produrre in altri settori
+B	Gli impianti sono dedicati alla produzione di una sola tipologia di prodotto piuttosto che all'intera gamma 	realizzata dall'impresa
+C	I costi di produzione si riducono
+D	Solo grazie alla manodopera riduce i tempi di produzione grazie all'apprendimento
+
+
+8	Quando le barriere all'entrata sono alte e quelle in uscita basse:
+A	La redditività è bassa
+B	La redditività è bassa e rischiosa
+@C	La redditività è alta e stabile
+D	La redditività è alta e rischiosa
+
+9	Il costo una tantum è:
+A	Un costo straordinario che l'impresa paga per entrare in un settore
+@B	Un costo straordinario in cui l'impresa può incorrere per uscire dal settore
+C	Un costo straordinario che l'impresa potrebbe pagare per ridurre il potere contrattuale dei fornitori
+D	Un costo straordinario che l'impresa potrebbe pagare per ridurre il potere contrattuale degli acquirenti
+
+10	Quando le barriere all'entrata e all'uscita sono alte:
+A	La redditività è alta e stabile
+B	La redditività è bassa e rischiosa
+C	La redditività è bassa
+@D	La redditività è alta e rischiosa
+
+
+<Lezione 7
+
+1	Nel ciclo di vita del prodotto la fase di crescita si caratterizza per:
+@A	Una forte crescita delle vendite e miglioramento dei profitti
+B	Una crescita lenta del numero di prodotti venduti
+C	Un rallentamento della crescita del numero di prodotti venduti
+D	Una forte riduzione delle vendite
+
+2	Nel ciclo di vita del prodotto la fase di maturità si caratterizza per:
+A	Una forte riduzione delle vendite
+@B	Un rallentamento della crescita delle vendite dovuto al raggiungimento dell'accettazione del prodotto da parte 	della maggioranza degli acquirenti potenziali
+C	Una crescita lenta del numero di prodotti venduti
+D	Una crescita repentina delle vendite
+
+3	Il modello del ciclo di vita del prodotto:
+A	Aiuta l'impresa ha definire le caratteristiche del prodotto
+B	Supporta le imprese nel definire la quantità di prodotti da realizzare
+C	Aiuta le imprese nel definire la tipologia di investimenti da effettuare
+@D	Ha alcune importanti implicazioni per la gestione strategica dell'impresa
+
+4	Le fasi del ciclo di vita della domanda/tecnologia sono:
+A	Introduzione, sviluppo, maturità, declino
+B	Introduzione, crescita maturità, declino
+@C	Introduzione, sviluppo accelerato, rallentato, maturità, declino
+D	Introduzione, crescita veloce, maturità, declino
+
+5	La Strategic Business Area è:
+A	L'insieme dei prodotti offerti dall'impresa offerti ad un particcolare segmento di mercato
+@B	Costituita da uno specifico segmento dell'ambiente di mercato nel quale un'impresa svolge, o intende svolgere, 	la propria attività
+C	L'insieme dei consumatori caratterizzati da uno stesso comportamento di acquisto
+D	L'area che si dedica alla definizione delle strategie perseguie dall'impresa
+
+6	I risultati dell'analisi S.W.O.T. possono essere utilizzati:
+@A	Sia ex ante, sia in itinere sia ex post
+B	Solo ex post
+C	Solo in itinere
+D	Solo ex ante e ex post
+
+
+7	I risultati dell'analisi S.W.O.T. possono essere utilizzati in itinere per:
+A	Per contestualizzare i risultati finali
+B	Per misurare i risultati ottenuti
+@C	Per verificare se, in relazione ai cambiamenti intervenuti nel contesto, le linee di azione individuate siano 	ancora pertinenti e capire quali modifiche apportare al programma
+D	Per analizzare continuamente il contesto di riferimento
+
+8	L'analisi S.W.O.T. si compone di:
+A	Sei fasi
+B	Tre fasi
+@C	Cinque fasi
+D	Quattro fasi
+
+9	Una minaccia può essere definita come:
+@A	L'insieme delle azioni poste in essere dai fornitori al fine di ridurre il vantaggio competitivo dell'impresa 	considerata
+B	Una sfida posta da una tendenza o sviluppo sfavorevole in atto, tale da poter determinare, in assenza di una 	specifica azione, l'erosione della posizione dell'impresa
+C	L'insieme delle azioni poste in essere dai principali competitori al fine di ridurre il vantaggio competitivo 	dell'impresa considerata
+D	Il cambiamento delle condizioni di mercato
+
+10	In presenza di opportunità e minacce con grado elevato l'impresa si trova in un business:
+@A	Speculativo
+B	Ideale
+C	Maturo
+D	Difficile
+
+
+<Lezione 8
+
+1	La scelta di esternalizzare o mantenere all'interno dell'impresa una determinata attività dipende:
+A	Dalla congiuntura economica
+@B	Dai risultati di un'analisi di convenienza tecnico-economica
+C	Dall'esistenza di imprese specializzate
+D	Dal contesto competitivo di riferimento
+
+2	Porter individua due macrocategorie di attività:
+@A	Attività primarie e di supporto
+B	Attività primarie e secondarie
+C	Attività core e attività di supporto
+D	Attività critiche e attività esternalizzabili
+
+3	Le attività primarie si dividono in:
+@A	Logistica in entrata e in uscita, attività operative, marketing e vendita, servizi post-vendita
+B	Attività infrastrutturali, sviluppo della tecnologia, gestione delle risorse umane e approvvigionamento
+C	Logistica in entrata, logistica in uscita, attività operative, approvvigionamento, servizi post-vendita
+D	Approvvigionamento, produzione, distribuzione
+
+4	La matrice BGC permette di:
+A	Rappresentare posizionamento delle differenti aree di business di un'impresa utilizzando due variabili, 	attrattività del mercato e la redditività dell'impresa
+B	Rappresentare posizionamento delle differenti aree di business di un'impresa utilizzando due variabili, quota di 	mercato e redditività dell'impresa
+@C	Rappresentare posizionamento delle differenti aree di business di un'impresa utilizzando due variabili, 	attrattività del mercato e la forza competitiva dell'impresa
+D	Rappresentare posizionamento delle differenti aree di business di un'impresa utilizzando due variabili, 	redditività e numero di prodotti realizzati per ciascuna area di business
+
+
+5	Le attività c.d. Star sono:
+A	Generatrici di elevata quantità di liquidità
+B	Nella fase iniziale e richiedono elevati investimenti
+C	Generatrici di profitti ridotti o perdite
+@D	Più utilizzatrici che generatrici di liquidità
+
+6	Le aree di affari c.d. Question mark sono:
+A	Generatrici di profitti ridotti o perdite
+B	Generatrici di elevata quantità di liquidità
+@C	Nella fase iniziale e richiedono elevati investimenti
+D	Più utilizzatrici che generatrici di liquidità
+
+7	La scelta di mantenere in portafoglio prodotti Dog dipende:
+A	Dall'esigenza dell'impresa di non modificare gli impianti di produzioni
+B	Dal fatto che spesso le imprese sono vincolate a realizzare prodotti in perdita per offrire una gamma più 	completa ai clienti
+@C	Dall'esigenza dell'impresa di non ridurre il numero di prodotti realizzati per non ridurre il numero di dipendenti
+D	Dal bisogno di mantenere un portafoglio prodotti diversificato e bilanciato
+
+8	L'impresa deve mirare a:
+@A	Avere in portafoglio un certo numero di Question Mark, qualche Star e un buon numero di Cash cow
+B	Avere solo Cash cow
+C	Ridurre il numero di Question mark e Star ed aumentare i prodotti c.d. Cash cow
+D	Aumentare il numero di Star e Cash cow
+
+9	L'integrazione verticale ascendente implica che:
+A	L'impresa sviluppa nuovi prodotti per nuovi mercati
+@B	L'impresa controlla e realizza attività antecedenti quelle già svolte (e.g. produzione di componenti o materie 	prime)
+C	L'impresa controlla e realizza attività successive rispetto quelle già svolte (e.g. distribuzione, servizi post-	vendita)
+D	L'impresa svolge attività affini a quelle già precedentemente svolte
+
+10	La diversificazione concentrica consiste:
+A	Nell'estensione dell'attività verso aree completamente nuove
+B	Nell'integrare attività antecedenti quelle già svolte
+C	Nello sviluppo di nuovi prodotti per mercati già serviti
+@D	Nello sviluppo di nuove attività sfruttando le competenze distintive
+
+
+<Lezione 9
+
+1	La strategia è:
+A	L'insieme delle attività poste in essere per realizzare gli obiettivi di breve periodo
+@B	L'insieme delle decisioni volte a costruire e difendere un vantaggio competitivo nel lungo periodo
+C	L'insieme delle decisioni volte a costruire e difendere un vantaggio competitivo nel breve periodo
+D	Le decisioni emergenti dal basso per realizzare sia gli obiettivi di breve sia di lungo periodo
+
+2	La strategia emergente è:
+A	La strategia definita in modo esplicito dai dirigenti
+B	La strategia che realmente viene implementata
+@C	La strategia che si sviluppa spontaneamente dalle dinamiche aziendali
+D	La strategia irrealizzata
+
+3	Gli obiettivi di una strategia di successo devono essere:
+A	Specifici e di breve periodo
+B	Semplici, coerenti, di lungo periodo, difficilmente misurabili e controllabili
+C	Semplici, coerenti, di breve periodo, misurabili e controllabili
+@D	Semplici, coerenti, di lungo termine, misurabili e controllabili
+
+4	La pianificazione strategica è:
+@A	Un processo logico che permette all'impresa di affrontare in modo adeguato le sfide che il mercato propone 	sfruttando efficacemente le risorse possedute
+B	Una metodologia che permette all'impresa di individuare gli obiettivi di breve periodo da perseguire
+C	Una funzione aziendale
+D	Una metodologia adottata dalle imprese per analizzare le opportunità offerte dal mercato
+
+5	Le strategie competitive consistono:
+A	Nella definizione delle strategie a livello di corporate
+@B	Nella definizione delle modalità per competere a livello di ciascuna area strategica di affari
+C	Nella definizione della modalità di attuazione delle strategie nelle diverse funzioni aziendali
+D	Nella definizione delle aree strategiche di affari
+
+6	La pianificazione strategica è un compito:
+A	Del management
+B	Della base operativa
+@C	Dei vertici aziendali
+D	Dei consulenti esterni
+
+7	L'internazionalizzazione è una strategia:
+@A	Complessiva
+B	Competitiva
+C	Funzionale
+D	Che riguarda una o più aree di affari
+
+8	La strategia c.d. "leadership di costo" prevede:
+A	Una riduzione dei costi di produzione aumentando gli investimenti in ricerca e sviluppo e pubblicità
+B	Una focalizzazione su un ridotto segmento di mercato
+C	Unicamente una riduzione dei costi di distribuzione
+@D	Una complessiva riduzione dei costi, ma senza trascurare la qualità del prodotto/servizio
+
+9	La strategia basata sulla differenziazione richiede all'impresa di:
+A	Differenziare i propri prodotti e/o servizi creando una precisa immagine riconosciuta nel settore, senza 	considerare la questione dei costi
+@B	Differenziare i propri prodotti e/o servizi creando una precisa immagine riconosciuta nel settore, senza ignorare 	la questione dei costi
+C	Aumentare la gamma di prodotti e/o servizi offerti ai propri clienti
+D	Ridurre i prezzi di vendita in modo da differenziarsi dai propri concorrenti
+
+10	I principali rischi di una strategia di focalizzazione sono:
+@A	La scomparsa o contrazione della domanda e l'occupazione dello specifico segmento scelto da parte dei 	concorrenti che operano ad ampio raggio
+B	Cambiamento della tecnologia
+C	I concorrenti riescono ad imitare l'elemento differenziante e a produrre a costi più bassi
+D	I clienti non danno più valore alle basi di differenziazione
+
+
+<Lezione 10
+
+1	L'organizzazione aziendale si occupa di:
+A	Definire esclusivamente le modalità operative
+@B	Definire formalmente le modalità di suddivisione del lavoro al di sotto dell'Alta Direzione
+C	Definire formalmente le modalità di produzione
+D	Scegliere esclusivamente l'organigramma
+
+
+2	Gli elementi caratterizzanti l'organizzazione aziendale sono:
+A	Gli organi tra cui il lavoro è suddiviso e i ruoli di ciascun addetto
+B	Gli organi tra cui il lavoro è suddiviso e le funzioni assegnati ai diversi organi
+@C	Gli organi tra cui il lavoro è suddiviso, le funzioni assegnati ai diversi organi, le relazioni intercorrenti tra i 	diversi organi
+D	Gli organi tra cui il lavoro è suddiviso, le funzioni assegnati ai diversi organi, i ruoli di ciascun addetto
+
+3	I principali step della progettazione dell'organizzazione aziendale sono:
+@A	La definizione dei rapporti di dipendenza formale, la definizione delle unità organizzative e l'aggregazione di 	unità organizzative nella totalità dell'organizzazione, lo sviluppo dei sistemi per la comunicazione ed il 	coordinamento organizzativo
+B	La definizione dei rapporti di dipendenza formale, lo sviluppo dei sistemi per la comunicazione ed il 	coordinamento organizzativo
+C	La definizione dei ruoli degli addetti e lo sviluppo delle procedure
+D	La definizione dei rapporti di dipendenza formale, la definizione delle unità organizzative e l'aggregazione di 	unità organizzative nella totalità dell'organizzazione
+
+4	Le variabili da considerare nella progettazione dell'organizzazione aziendale sono:
+A	Dimensione orizzontale, dimensione verticale, formalizzazione delle regole e delle procedure
+B	Formalizzazione delle procedure e delle regole, definizione della distribuzione del potere decisionale
+C	Dimensione orizzontale e verticale
+@D	Dimensione orizzontale, dimensione verticale, accentramento/decentramento, formalizzazione delle regole e 	delle procedure
+
+5	I mansionari descrivono:
+@A	I ruoli, le funzioni e le responsabilità di ogni singolo addetto
+B	La struttura organizzativa
+C	I processi di lavoro da svolgere, gli organi che debbono svolgerlo ed i relativi collegamenti
+D	La distribuzione del potere all'interno dell'azienda
+
+6	Gli organi di line sono:
+A	Preposti allo svolgimento delle attività di produzione
+B	Preposti alle attività di controllo
+@C	Preposti allo svolgimento delle attività di core business
+D	Preposti allo svolgimento delle attività di supporto agli altri organi aziendali
+
+7	Le funzione aziendali sono:
+A	Un insieme di unità organizzative specializzate nella produzione
+@B	Delle unità organizzative specializzate nella esecuzione di specifici compiti dotate di addetti con competenze 	specialistiche
+C	Un insieme di unità organizzative specializzate nella programmazione e controllo
+D	Delle unità organizzative specializzate nello svolgimento di attività strategiche
+
+8	L'organigramma aziendale rappresenta:
+A	Formalmente le procedure e le regole aziendali
+@B	Formalmente il sistema organizzativo aziendale, definisce l'articolazione degli organi (compresi staff e line) e 	le loro responsabilità, descrive le relazioni gerarchiche intercorrenti
+C	Formalmente i ruoli di ciascun addetto
+D	Formalmente i processi organizzativi e produttivi
+
+9	In una struttura funzionale le attività sono raggruppate in base:
+A	Al criterio economico
+B	Al criterio finanziario
+C	All'omogeneità delle attività svolte
+@D	Al criterio della competenza specialistica
+
+
+10	Alcuni dei principali vantaggi di una struttura divisionale sono:
+A	Maggiore controllo e flessibilità
+B	Capacità di rispondere velocemente ai cambiamenti di mercato e forte coordinamento
+@C	Maggiore reattività della struttura ed una maggiore capacità di adattamento ai cambiamenti
+D	Forte coordinamento tra le divisioni
+
+<Lezione 11
+
+1	La struttura orizzontale si caratterizza per:
+@A	Flessibilità e adattamento
+B	Rigidità e tempi di risposta ai cambiamenti ambientali lunghi
+C	Numerosi livelli gerarchici
+D	Specializzazione e efficienza
+
+2	La struttura verticale è:
+A	Ideale per le micro e piccolo imprese
+@B	Ideale in contesti stabili
+C	Ideale in contesti turbolenti
+D	Ideale in ambiente altamente competitivi
+
+3	Le strutture che si ispirano all'approccio meccanicistico:
+A	Presentano pochi livelli gerarchici
+B	Incoraggiano l'autonomia degli individui
+C	Prevedono un controllo debole
+@D	Presentano una forte centralizzazione dei processi decisionali
+
+4	Le strutture che si ispirano all'approccio organicistico:
+@A	Fanno uno scarso ricorso alla burocrazia e alle regole
+B	Presentano una forte centralizzazione dei processi decisionali
+C	Prevedono una limitata gamma di retribuzioni collegate alle posizioni organizzative piuttosto che sul risultato
+D	Limitano l'autonomia dei dipendenti
+
+5	Le imprese si trovano a dovere effettuare dei cambiamenti nella loro struttura organizzativa per motivi 	riconducibili a:
+A	Bisogno di soddisfare le richieste dei clienti
+B	Processi di innovazione
+@C	Razionalizzazione interna e adattamento ai cambiamenti ambientali
+D	Necessità di modificare i processi produttivi
+
+6	Le fasi del ciclo di vita considerato sono:
+A	Nascita, crescita, formalizzazione, gestione dell'innovazione, diversificazione per crescita
+B	Nascita, consolidamento, gestione dell'innovazione, diversificazione per crescita
+C	Nascita, consolidamento, formalizzazione, gestione dello sviluppo, diversificazione per crescita
+@D	Nascita, consolidamento, formalizzazione, gestione dell'innovazione, diversificazione per crescita
+
+7	Nella fase di consolidamento:
+@A	Si avviano i processi di delega
+B	Assenza di delega
+C	Formalizzazione delle deleghe previste
+D	Definizione delle responsabilità dei manager
+
+8	Nella fase di formalizzazione vi è:
+A	Assenza di struttura organizzativa
+B	Struttura di tipo semplice
+@C	Struttura di tipo funzionale
+D	Struttura divisionale
+
+
+9	La definizione dei mansionari avviene nella fase di:
+A	Nascita
+@B	Formalizzazione
+C	Consolidamento
+D	Gestione dell'innovazione
+
+10	Una delle leve più abilmente utilizzate da Adolf Dassler capace di portare la compagnia al successo è:
+A	Gestione dell'innovazione
+B	Sviluppo nuovi prodotti
+C	Ricerca dell'efficienza
+@D	Pubblicità attraverso le celebrità delle sport
+
+
+<Lezione 12
+
+1	L'organizzazione per aree funzionale nasce con l'obiettivo di:
+A	Favorire principalmente i rapporti orizzontali
+@B	Favorire principalmente il coordinamento
+C	Ridurre esclusivamente i costi di produzione
+D	Favorire esclusivamente lo sviluppo di capacità individuali
+
+2	Secondo l'approccio per funzioni, lo stock di competenze acquisibili da un individuo è:
+A	Funzione sia del suo livello di istruzione e della sua esperienza, sia del livello di formazione
+B	Funzione del livello di formazione previsto
+C	Funzione del solo livello di competenze possedute dai colleghi di lavoro
+@D	Funzione sia del suo livello di istruzione e della sua esperienza, sia del livello di competenze degli individui 	che interagiscono con lui
+
+3	Le funzioni aziendali possono essere definite:
+A	Unità organizzative generalmente specializzate nell'esecuzione di determinate attività, disomogenee tra loro, 	dove operano addetti con competenze generaliste rispetto all'area funzionale a cui appartengono
+B	Unità organizzative generalmente specializzate nell'esecuzione di determinate attività, omogenee tra loro, dove 	operano addetti con competenze generaliste rispetto all'area funzionale a cui appartengono
+@C	Unità organizzative generalmente specializzate nell'esecuzione di determinate attività, omogenee tra loro, dove 	operano addetti con competenze specialistiche rispetto all'area funzionale a cui appartengono
+D	Unità organizzative generalmente specializzate nell'esecuzione di determinate attività, disomogenee tra loro, 	dove operano addetti con competenze specialistiche rispetto all'area funzionale a cui appartengono
+
+4	L'attività del management va osservata sotto due aspetti:
+@A	Oggettivo e soggettivo
+B	Economico e tecnico
+C	Commerciale e gestionale
+D	Specialistico e generalista
+
+5	Per valutare il valore del management è importante osservare la gestione organizzata, cioè:
+A	La capacità di generare valore
+B	Come l'impresa è gestita in modo sistemico
+C	La capacità di gestire l'organizzazione
+@D	Come l'elemento umano agisce sull'elemento materiale attraverso operazioni di attivazione del capitale che 	trasformano quest'ultimo in senso qualitativo e quantitativo
+
+6	Il sottosistema della gestione riguarda:
+A	Il funzionamento dell'impresa
+@B	Il perseguimento degli obiettivi
+C	Esclusivamente  le risorse umane
+D	Esclusivamente la gestione dei fattori produttivi
+
+
+7	Nell'approccio sistemico per aree funzionale è necessario tener conto:
+@A	Delle interazioni esistenti tra le funzioni e al suo interno
+B	Della presenza delle funzioni integrativeù
+C	Del sistema di management adottato
+D	Dell'aspetto soggettivo del management
+
+8	Le aree funzionali caratteristiche:
+@A	Sono le funzioni che caratterizzano un'impresa nel tempo e la differenziano
+ 	dalle altre
+B	Sono le funzioni definite irrinunciabili per lo svolgimento delle attività finalizzate alla creazione di ricchezza
+C	Sono le funzioni che svolgono un ruolo di assistenza e supporto alle altre funzioni
+D	Sono le funzioni accessorie
+
+9	Le aree funzionali integrative sono:
+@A	Sono le funzioni definite irrinunciabili per lo svolgimento delle attività finalizzate alla creazione di ricchezza
+B	Sono le funzioni che facilitano la condivisione della conoscenza
+C	Sono le funzioni che svolgono un ruolo di assistenza e supporto alle altre funzioni
+D	Sono le funzioni che caratterizzano un'impresa nel tempo e la differenziano dalle altre
+
+10	Le aree funzionali di controllo:
+A	Sono le funzioni definite irrinunciabili per lo svolgimento delle attività finalizzate alla creazione di ricchezza
+B	Sono le funzioni che caratterizzano un'impresa nel tempo e la differenziano dalle altre
+C	Sono le funzioni accessorie
+@D	Svolgono un ruolo di assistenza e supporto alle altre funzioni
+
+
+<Lezione 13
+
+1	Le imprese che adottano un orientamento al mercato:
+@A	Cercano la massima flessibilità ed elasticità facendosi guidare dalle esigenze dei propri clienti nelle scelte 	produttive
+B	Concentrano la loro attenzione sulle funzioni di progettazione e produzione
+C	Mirano a realizzare grossi ricavi per coprire gli elevati costi sostenuti per l'acquisto degli impianti
+D	Sono caratterizzate da un'elevata rigidità produttiva
+
+2	La ricerca di base:
+A	Consiste nell'applicazione di una tecnologia fino alla messa sul mercato del relativo prodotto
+B	Non richiede la collaborazione con altri enti di ricerca
+@C	E' di tipo esplorativo ed è finalizzata allo sviluppo della conoscenza
+D	Consiste nell'applicazione delle conoscenze sviluppate
+
+3	La ricerca applicata:
+A	Consiste nell'applicazione di una tecnologia fino alla messa sul mercato del relativo prodotto
+B	E' praticata esclusivamente dalle grandi imprese
+C	E' di tipo esplorativo ed è finalizzata allo sviluppo della conoscenza
+@D	E' finalizzata all'applicazione della conoscenza sviluppata per lo sviluppo di nuovi prodotti e/o processi
+
+4	L'analisi delle attività svolte dalla funzione produzione può avvenire attraverso diverse prospettive:
+A	Tecnico, economico e commerciale
+B	Tecnico, commerciale e gestionale
+C	Tecnico, commerciale e economico
+@D	Tecnico, economico e gestionale
+
+
+5	Il metodo delle scorte separate:
+A	E' una metodologia utilizzata per acquistare dai fornitori lotti di dimensione costanti e ad intervalli di tempo 	costanti
+@B	E' una metodologia utilizzata per acquistare dai fornitori lotti di dimensione costanti, ma ad intervalli di tempo 	variabili
+C	E' una metodologia utilizzata per acquistare dai fornitori lotti di dimensione variabili e ad intervalli di tempo 	variabili
+D	E' una metodologia utilizzata per acquistare dai fornitori lotti di dimensione variabili ma ad intervalli di tempo 	costanti
+
+6	Il metodo del ciclo di ordinazione:
+A	E' una metodologia utilizzata per acquistare dai fornitori lotti di dimensione costanti e ad intervalli di tempo 	costanti
+B	E' una metodologia utilizzata per acquistare dai fornitori lotti di dimensione costanti, ma ad intervalli di tempo 	variabili
+C	E' una metodologia utilizzata per acquistare dai fornitori lotti di dimensione variabili e ad intervalli di tempo 	variabili
+@D	E' una metodologia utilizzata per acquistare dai fornitori lotti di dimensione variabili ma ad intervalli di tempo 	costanti
+
+7	La finanza tradizionale:
+A	Seleziona e controlla gli investimenti per ottimizzare l'impiego delle risorse finanziarie
+@B	Si occupa del reperimento in modo tempestivo, appropriato e conveniente delle risorse finanziarie necessarie a 	coprire il fabbisogno finanziario
+C	Gestisce in modo sistemico ed integrate le risorse finanziarie dell'impresa
+D	Definisce esclusivamente il portafoglio investimenti dell'impresa
+
+8	La finanza allargata:
+A	Si occupa del reperimento in modo tempestivo, appropriato e conveniente delle risorse finanziarie necessarie a 	coprire il fabbisogno finanziario
+B	Gestisce in modo sistemico ed integrate le risorse finanziarie dell'impresa
+@C	Seleziona e controlla gli investimenti per ottimizzare l'impiego delle risorse finanziarie
+D	Si occupa esclusivamente della valutazione del fabbisogno finanziario
+
+9	La funzione organizzazione si occupa:
+A	Della gestione delle risorse umane
+B	Della se<Lezione delle risorse umane
+C	Di stabilire e mantenere le relazioni con i sindacati
+@D	Della tenuta degli organigrammi, della redazione dei mansionari e della collocazione del personale da inserire 	nelle posizioni vacanti o carenti
+
+10	La funzione amministrazione si occupa:
+A	Dell'amministrazione delle risorse finanziarie
+@B	Della valutazione dei costi aziendali, della redazione del budget e dell'analisi degli scostamenti
+C	Dell'amministrazione delle risorse umane
+D	Della scelta della combinazione produttiva ottima in base ai costi da dover sostener
+
+
+<Lezione 14
+
+1	L'aspetto gestionale:
+A	Riguarda la valutazione circa la convenienza economica del processo produttivo da realizzare
+@B	Riguarda le scelte riguardanti la gestione efficace ed efficiente delle risorse da utilizzare nei processi produttivi
+C	Riguarda le scelte delle quantità fisiche di input da utilizzare
+D	Riguarda le valutazioni tecniche ed economiche che un'impresa effettua prima di scegliere il processo 	produttivo
+
+
+2	Dal dimensionamento della capacità produttiva dipende:
+@A	La predisposizione delle strutture materiali (e.g. impianti, capannoni) e delle risorse umane necessarie e la 	programmazione del loro utilizzo nel tempo
+B	Il tipo di prodotto da realizzare
+C	La tipologia di processo produttivo da implementare
+D	La tipologia di input da acquistare
+
+3	Le previsioni della domanda sono generalmente basate su:
+A	La capacità del management di realizzare efficaci analisi di mercato
+B	Collaborazioni con clienti finali
+@C	Andamenti passati per estrapolare tendenze future
+D	Considerazione delle fluttuazioni stagionali della domanda
+
+4	Le scelte di make or buy dipendono principalmente dalle motivazioni riconducibili ai seguenti fattori:
+A	Insufficienza della struttura produttiva a rispondere alla variabilità di mercato e convenienza economica
+B	Indisponibilità della tecnologia necessaria e convenienza economica
+C	Insufficienza della struttura produttiva a rispondere alla variabilità di mercato e indisponibilità della tecnologia 	necessaria
+@D	Insufficienza della struttura produttiva a rispondere alla variabilità di mercato, indisponibilità della tecnologia 	necessaria e convenienza economica
+
+5	Il decentramento di specialità:
+A	Si realizza in seguito ad un aumento della domanda e l'impresa non è in grado di rispondere salvo che non 	realizzi ulteriori investimenti
+B	Si realizza quando l'impresa vuole ridurre i costi di produzione
+@C	Si realizza quando l'impresa non è in grado di effettuare lavorazioni nel rispetto di determinati standard 	qualitativi
+D	E' posto in essere dalle imprese che ricercano esclusivamente una maggiore flessibilità produttiva
+
+6	Le produzioni su progetto:
+A	Si caratterizzano per la presenza di un processo produttivo ad intermittenza
+@B	Si caratterizzano per l'unicità del prodotto e la realizzazione artigianale
+C	Si caratterizzano per produzioni su larga scale
+D	Si caratterizzano per la presenza di prodotti fortemente differenziati all'interno di ciascun lotto
+
+7	Le produzioni su commessa:
+@A	Consentono la personalizzazione dei prodotti
+B	Prevedono la realizzazione di grandi quantità
+C	Prevedono una produzione artigianale
+D	Si caratterizzano per la presenza di prodotti fortemente differenziati all'interno di ciascun lotto
+
+8	Le produzioni in linea:
+A	Si caratterizzano per l'unicità del prodotto e la realizzazione artigianale
+B	Consentono la personalizzazione dei prodotti
+C	Si caratterizzano per la presenza di prodotti fortemente differenziati all'interno di ciascun lotto
+@D	Prevedono produzioni su larga scala di prodotti indifferenziati e l'assenza di interruzioni per set-up
+
+9	L'approccio just-in-time:
+A	Favorisce la produzione di scorte di prodotto
+@B	Permette di realizzare il prodotto solo quando richiesto dal cliente finale
+C	Prevede un approccio di tipo push
+D	Prevede la definizione dei tempi giusti di produzione
+
+10	Nella logica pull:
+A	La produzione è basata sulle previsioni della domanda
+B	L'assemblaggio è basato sulla domanda effettiva
+@C	La produzione e l'approvvigionamento sono trainati dalla domanda
+D	La produzione è programmata sulla base delle esigenze del management
+
+
+<Lezione 15
+
+1	Le imprese che adottano un orientamento al mercato:
+A	Mirano a realizzare grossi ricavi per coprire gli elevati costi sostenuti per l'acquisto degli impianti
+B	Concentrano la loro attenzione sulle funzioni di progettazione e produzione
+@C	Cercano la massima flessibilità ed elasticità facendosi guidare dalle esigenze dei propri clienti nelle scelte 	produttive
+D	Sono caratterizzate da un'elevata rigidità produttiva
+
+2	Le imprese che adottano un orientamento al prodotto:
+@A	E' tipico delle imprese che concentrano la loro attenzione sulle funzioni di progettazione e produzione in 	quanto operano in un mercato caratterizzato da una eccedenza di domanda rispetto all'offerta
+B	Cercano la massima flessibilità ed elasticità facendosi guidare dalle esigenze dei propri clienti nelle scelte 	produttive
+C	La considerazione del mercato avviene non solo in un momento successivo rispetto alla fase di produzione 	(gestione delle attività di vendita) ma anche nella fase di progettazione del prodotto
+D	Mirano a realizzare grossi ricavi per coprire gli elevati costi sostenuti per l'acquisto degli impianti
+
+3	Le imprese che adottano un orientamento alla vendita::
+A	La considerazione del mercato avviene non solo in un momento successivo rispetto alla fase di produzione 	(gestione delle attività di vendita) ma anche nella fase di progettazione del prodotto
+@B	Mirano a realizzare grossi ricavi per coprire gli elevati costi sostenuti per l'acquisto degli impianti
+C	E' tipico delle imprese che concentrano la loro attenzione sulle funzioni di progettazione e produzione in 	quanto operano in un mercato caratterizzato da una eccedenza di domanda rispetto all'offerta
+D	Cercano la massima flessibilità ed elasticità facendosi guidare dalle esigenze dei propri clienti nelle scelte 	produttive
+
+4	Si parla di marketing strategico:
+A	Quando ci si riferisce alla definizione delle modalità operative della funzione commerciale
+B	Quando ci si riferisce all'insieme delle attività volte alla raccolte delle informazioni
+C	Quando ci si riferisce all'insieme delle attività volte alla realizzazione dell'analisi degli scostamenti
+@D	Quando ci si riferisce all'individuazione delle politiche e delle linee di sviluppo del mercato e delle modalità 	con cui l'impresa vuole presentarsi per raggiungere i propri obiettivi di lungo periodo
+
+5	Il Marketing analitico riguarda:
+A	La definizione delle modalità operative della funzione commerciale
+B	L'insieme delle attività volte alla realizzazione dell'analisi degli scostamenti
+@C	L'insieme delle analisi di mercato che l'impresa realizza per raccogliere informazioni necessarie alla definzione 	della propria strategia commerciale
+D	L'individuazione delle politiche e delle linee di sviluppo del mercato e delle modalità con cui l'impresa vuole 	presentarsi per raggiungere i propri obiettivi di lungo periodo
+
+6	Le ricerche di mercato si basano su:
+A	Risultati dell'analisi della catena del valore
+@B	Fonti primarie e secondarie
+C	Esclusivamente fonti primarie
+D	Esclusivamente fonti secondarie
+
+7	L'analisi degli scostamenti deve partire da:
+A	Analisi delle metodologie e strumenti adottati per il raggiungimento degli obiettivi prefissati
+B	Rimozione delle cause determinanti gli scostamenti
+C	Analisi delle modalità operative adottate
+@D	Valutazione delle ipotesi di partenza circa il mercato-obiettivo
+
+8	Segmentare significa:
+@A	Individuare un gruppo di consumatori omogeneo definito in base a delle variabili
+B	Definire le caratteristiche del prodotto
+C	Dividere l'offerta dell'impresa in base ai clienti serviti
+D	Definire le modalità distributive
+
+9	I canali di distribuzione indiretti di tipo corto si caratterizzano:
+A	Assenza di intermediari
+B	Presenza di un solo intermediario
+@C	Presenza di un grossista e un dettagliante
+D	Presenza esclusiva del grossista
+
+10	La modalità di definizione del prezzo basata sulla domanda considera:
+A	Il solo costo di produzione dell'output
+@B	Il massimo prezzo accettabile dai consumatori
+C	Il costo di produzione e distribuzione dell'output
+D	Il prezzo medio praticato dai concorrenti
+
+
+<Lezione 16
+
+1	La funzione Ricerca e Sviluppo si occupa:
+@A	Della generazione ed elaborazione di nuove idee, nonché del loro sviluppo per la realizzazione di nuovi 	prodotti e/o processi produttivi
+B	Esclusivamente della scelta dei prodotti da sviluppare e/o migliorare
+C	Esclusivamente della scelta dei progetti di R&S da avviare
+D	Non si occupa dello sviluppo di nuovi prodotti e/o processi
+
+2	I risultati di uno studio condotto su 116 imprese dimostrano che:
+A	In media i miglioramenti incrementali di un prodotto già esistente richiedono circa 3 mesi
+B	In media i miglioramenti incrementali di un prodotto già esistente richiedono circa 6 mesi
+@C	In media i miglioramenti incrementali di un prodotto già esistente richiedono circa 9 mesi
+D	In media i miglioramenti incrementali di un prodotto già esistente richiedono circa 19 mesi
+
+3	I risultati di uno studio condotto su 116 imprese dimostrano che:
+@A	Lo sviluppo di prodotti completamente nuovi o di nuove tecnologie tempi di circa 53 mesi
+B	Lo sviluppo di prodotti completamente nuovi o di nuove tecnologie tempi di circa 35 mesi
+C	Lo sviluppo di prodotti completamente nuovi o di nuove tecnologie tempi di circa 43 mesi
+D	Lo sviluppo di prodotti completamente nuovi o di nuove tecnologie tempi di circa 5,3 mesi
+
+4	I risultati di uno studio condotto su 116 imprese dimostrano che:
+A	La durata del ciclo di sviluppo è correlata al numero di componenti del prodotto nuovo sviluppato
+@B	La durata del ciclo di sviluppo è correlata al grado di innovatività del progetto
+C	La durata del ciclo di sviluppo è correlata alla complessità del progetto
+D	La durata del ciclo di sviluppo è correlata al numero dei miglioramenti sviluppati
+
+5	La ricerca di base:
+@A	E' di tipo esplorativo ed è finalizzata allo sviluppo della conoscenza
+B	Non richiede la collaborazione con altri enti di ricerca
+C	Consiste nell'applicazione di una tecnologia fino alla messa sul mercato del relativo prodotto
+D	Consiste nell'applicazione delle conoscenze sviluppate
+
+6	La ricerca applicata:
+A	E' praticata esclusivamente dalle grandi imprese
+@B	E' finalizzata all'applicazione della conoscenza sviluppata per lo sviluppo di nuovi prodotti e/o processi
+C	E' di tipo esplorativo ed è finalizzata allo sviluppo della conoscenza
+D	Consiste nell'applicazione di una tecnologia fino alla messa sul mercato del relativo prodotto
+
+7	L'attività di mantenimento:
+@A	Prevede un costante studio dei progressi tecnologici compiuti da altre imprese al fine di raccogliere 	informazioni e spunti utili
+B	Consente di superare la sindrome N.I.H
+C	Permette di definire obiettivi strategici di lungo periodo
+D	E' finalizzata al'ottenimento di miglioramenti incrementali su prodotti/processi già esistenti
+
+
+8	L'attività assorbente:
+A	Permette di definire obiettivi strategici di lungo periodo
+@B	E' finalizzata al'ottenimento di miglioramenti incrementali su prodotti/processi già esistenti
+C	Prevede un costante studio dei progressi tecnologici compiuti da altre imprese al fine di raccogliere 	informazioni e spunti utili
+D	Permette di definire obiettivi strategici di breve periodo
+
+9	I progetti di ricerca strategica:
+A	Necessitano della definizione di obiettivi strategici da raggiungere in termini di nuovo prodotto o processo tali 	da consentire il raggiungimento di un vantaggio competitivo durevole
+B	Prevede un costante studio dei progressi tecnologici compiuti da altre imprese al fine di raccogliere 	informazioni e spunti utili
+C	E' finalizzata al'ottenimento di miglioramenti incrementali su prodotti/processi già esistenti
+@D	Permette di definire obiettivi strategici di breve periodo
+
+10	Gli investimenti complessivi in R&S in Italia:
+A	Sono molto simili a quelli degli altri paesi europei
+B	Ammontano a circa 268 dollari per abitante
+@C	Sono notevoli, soprattutto quelli realizzati dai privati
+D	Sono notevoli soprattutto grazie all'operato del governo
+
+
+<Lezione 17
+
+1	La creatività di un'organizzazione dipende:
+A	Esclusivamente dalla creatività degli individui che la compongono
+B	Esclusivamente dai processi sociali che plasmano il modo in cui questi individui si comportano e interagiscono
+@C	Dalla creatività degli individui che la compongono e dai processi sociali che plasmano il modo in cui questi 	individui si comportano e interagiscono
+D	Esclusivamente dalle caratteristiche personali dei dipendenti
+
+2	Le principali caratteristiche degli inventori di maggior successo sono:
+A	Sono curiosi e più interessati alle soluzioni che ai problemi; hanno una buona padronanza delle conoscenze 	fondamentali del settore in cui operano, sebbene non è l'unico campo in cui sono specializzati; mettono in 	discussione i modelli di pensiero dominanti; percepiscono la conoscenza come sapere integrato; hanno un 	approccio generalista ricercando soluzioni globali piuttosto che soluzioni particolari
+@B	Sono curiosi e più interessati ai problemi che alle soluzioni; hanno una buona padronanza delle conoscenze 	fondamentali del settore in cui operano, sebbene non è l'unico campo in cui sono specializzati; mettono in 	discussione i modelli di pensiero dominanti; percepiscono la conoscenza come sapere integrato; hanno un 	approccio generalista ricercando soluzioni globali piuttosto che soluzioni particolari
+C	Sono curiosi e più interessati ai problemi che alle soluzioni; hanno una buona padronanza delle conoscenze 	fondamentali del settore in cui operano, sebbene non è l'unico campo in cui sono specializzati; mettono in 	discussione i modelli di pensiero dominanti; percepiscono la conoscenza come sapere integrato; ricercano 	soluzioni particolari piuttosto che soluzioni globali
+D	Sono curiosi e più interessati ai problemi che alle soluzioni; hanno una conoscenza molto specialistica legata 	esclusivamente al settore in cui operano; mettono in discussione i modelli di pensiero dominanti; percepiscono 	la conoscenza come sapere integrato; hanno un approccio generalista ricercando soluzioni globali piuttosto che 	soluzioni particolari
+
+3	Per passare dalla creatività all'innovazione è necessario che:
+@A	Ci sia una profonda conoscenza del bisogno da soddisfare, la concretizzazione delle idee creative in prodotti o 	processi nuovi, la combinazione dell'idea creativa con le risorse e competenze in grado di conferirle una forma 	utile
+B	Ci sia una profonda conoscenza del bisogno da soddisfare e la combinazione dell'idea creativa con le risorse e 	competenze in grado di conferirle una forma utile
+C	Ci sia una profonda conoscenza del bisogno da soddisfare e la concretizzazione delle idee creative in prodotti o 	processi nuovi
+D	Ci sia la concretizzazione delle idee creative in prodotti o processi nuovi e la combinazione dell'idea creativa 	con le risorse e competenze in grado di conferirle una forma utile
+
+4	Quando la funzione R&S non è coinvolta in attività operative:
+A	Si favoriscono progetti di ricerca finalizzati alla risoluzioni di problemi tecnici emergenti
+B	Si favorisce un'innovazione di tipo incrementale
+C	Si riduce il grado di libertà e si favorisce un'innovazione di tipo radicale
+@D	Si amplia il grado di libertà nella ricerca e si favorisce un'innovazione di tipo radicale
+
+5	Quando la funzione R&S è subordinata alle divisioni o alla funzione produzione:
+A	Vi sono progetti di ricerca finalizzati orientati al lungo periodo periodo e meno radicalmente innovativi
+B	Vi sono progetti di ricerca finalizzati alla risoluzione di problemi tecnici emergenti orientati al breve periodo e 	radicalmente innovativi
+@C	Vi sono progetti di ricerca finalizzati alla risoluzione di problemi tecnici emergenti orientati al breve periodo e 	meno radicalmente innovativi
+D	Vi sono progetti di ricerca finalizzati alla risoluzione di problemi tecnici emergenti orientati al lungo periodo e 	radicalmente innovativi
+
+6	Quando la funzione R&S si occupa principalmente di ricerca di base sarà:
+@A	Collocata alle dipendenze della direzione generale e si prevederà l'adozione di strutture più rigide, con la 	presenza di dipartimenti autonomi
+B	Collocata alle dipendenze della direzione generale e si prevederà l'adozione di strutture più flessibili con la 	presenza di dipartimenti autonomi
+C	Collocata alle dipendenze della direzione generale e si prevederà l'adozione di strutture più rigide con l'assenza 	di dipartimenti autonomi
+D	Collocata alle dipendenze della funzione produzione e si prevederà l'adozione di strutture più rigide, con la 	presenza di dipartimenti autonomi
+
+7	Quando la funzione R&S si occupa principalmente di ricerca applicata vi sarà:
+A	L'adozione di strutture più flessibili con la presenza di dipartimenti autonomi
+@B	Una stretta collaborazione con la gestione operativa delle singole divisioni, una strutturazione per progetti e la 	presenza di team interfunzionali
+C	Una stretta collaborazione con la gestione operativa delle singole divisioni, una strutturazione per progetti e 	l'assenza di team interfunzionali
+D	Una collaborazione occasionale con la gestione operativa delle singole divisioni, una strutturazione per progetti 	e l'assenza di team interfunzionali
+
+8	Tra le politiche di assunzione del personale impiegato nella funzione R&S, le imprese possono:
+A	Assumere persone molto qualificate con esperienze in R&S
+B	Assumere persone molto motivate e formarle internamente
+C	Organizzare corsi di formazione in base alle esigenze dell'impresa
+@D	Assumere persone molto qualificate con esperienze in R&S e/o assumere persone molto motivate e formarle 	internamente
+
+9	La formazione nelle imprese è:
+@A	Un'attività rischiosa sia per esito sia per possibilità di uscita dei dipendenti formati
+B	Un'attività rischiosa esclusivamente per l'esito non certo
+C	Un'attività rischiosa esclusivamente per la possibilità di uscita dei dipendenti formati
+D	Un'attività sicura per i risultati certi che si raggiungono
+
+10	I sistemi di controllo dell'attività di R&S si caratterizzano per:
+A	Un'ampia capacità previsionale e di stima dei costi e dei tempi, nonché dei comportamenti opportuni per 	raggiungere determinati risultati
+B	Una ridotta capacità previsionale e di stima dei costi e dei tempi, ma una buona capacità di definire 	comportamenti opportuni per raggiungere determinati risultati
+@C	Una ridotta capacità previsionale e di stima dei costi e dei tempi, nonché dei comportamenti opportuni per 	raggiungere determinati risultati
+D	Una ridotta capacità previsionale e di stima dei costi, ma una buona capacità di analisi dei possibili gap tra 	risultati raggiunti e attesi
+
+
+
+<Lezione 18
+
+1	Le innovazioni di prodotto sono:
+A	Cambiamenti nelle modalità in cui un'impresa svolge le sue attività, per migliorarne l'efficienza o l'efficacia
+@B	Incorporate nei beni o servizi realizzati da un'impresa
+C	Novità assoluta rispetto a prodotti già noti
+D	Adattamenti lievi o marginali di soluzioni preesistenti
+
+2	Le innovazioni di processo sono:
+A	Incorporate nei beni o servizi realizzati da un'impresa
+B	Novità assoluta rispetto a prodotti già noti
+@C	Cambiamenti nelle modalità in cui un'impresa svolge le sue attività, per migliorarne l'efficienza o l'efficacia
+D	Adattamenti lievi o marginali di soluzioni preesistenti
+
+3	Le innovazioni incrementali sono:
+@A	Adattamenti lievi o marginali di soluzioni preesistenti
+B	Incorporate nei beni o servizi realizzati da un'impresa
+C	Novità assoluta rispetto a prodotti già noti
+D	Cambiamenti nelle modalità in cui un'impresa svolge le sue attività, per migliorarne l'efficienza o l'efficacia
+
+4	Le innovazione competence destroying:
+A	Consistono in un'evoluzione della base di conoscenze preesistenti
+B	Sono adattamenti marginali di soluzioni preesistenti
+C	Sono novità assoluta rispetto a prodotti e/o processi già esistenti
+@D	Scaturiscono dalle conoscenze già possedute o addirittura le rende inadeguate
+
+5	Le innovazioni architetturali:
+A	Scaturiscono dalle conoscenze già possedute o addirittura le rende inadeguate
+B	Prevedono cambiamenti di uno o più componenti di un sistema di prodotto, senza modifiche sostanziali alla 	sua configurazione generale
+@C	Comportano un cambiamento della struttura generale del sistema o del modo in cui i componenti interagiscono 	tra loro
+D	Consistono in un'evoluzione della base di conoscenze preesistenti
+
+6	Il modello della curva a S del miglioramento della performance di una tecnologia dimostra che:
+A	Nella fase iniziale il miglioramento della performance è rapido, nella seconda fase il miglioramento comincia a 	rallentare, nella terza fase la curva tende ad appiattirsi
+@B	Nella fase iniziale il miglioramento della performance è lento perché i principi di base della tecnologia sono 	stati compresi in maniera parziale, nella seconda fase il miglioramento comincia ad essere più rapido, nella 	terza fase la curva tende ad appiattirsi
+C	Nella fase iniziale il miglioramento della performance è rapido, nella seconda fase il miglioramento la crescita 	diventa ancor più veloce, nella terza fase la curva tende ad appiattirsi
+D	Nella fase iniziale il miglioramento della performance è lento, nella seconda fase il miglioramento comincia a 	crescere, nella terza fase il miglioramento è molto rapido
+
+7	Gli innovatori si caratterizzano per:
+@A	Un comportamento di acquisto sperimentale nei processi di acquisto e di consumo, non temere la complessità e 	l'incertezza dei nuovi prodotti e di solito disporre di ingenti risorse finanziarie
+B	Essere poco avventurosi e temere la complessità dei nuovi prodotti
+C	Temere la complessità e l'incertezza dei nuovi prodotti e di solito disporre di ingenti risorse finanziarie
+D	Non temere la complessità e l'incertezza dei nuovi prodotti e di solito non disporre di ingenti risorse finanziarie
+
+8	La maggioranza anticipatrice adotta l'innovazione:
+A	Appena uscita sul mercato
+B	In ritardo rispetto alla maggioranza dei consumatori
+C	Subito dopo gli innovatori
+@D	Appena prima del consumatore medio
+
+
+9	I cambiamenti tecnologici tendono a seguire un andamento ciclico composto da:
+A	Una fase fluida, caratterizzata da una forte incertezza sia sulla tecnologia sia sul suo mercato e una fase 	determinata che comincia quando emerge un disegno dominante
+B	Una fase fluida, caratterizzata da una forte certezza sia sulla tecnologia sia sul suo mercato e una fase determin	ata che comincia quando emerge un disegno dominante
+@C	Una fase fluida, caratterizzata da una forte incertezza sia sulla tecnologia sia sul suo mercato e una fase 	specifica che comincia quando emerge un disegno dominante
+D	Una fase fluida, caratterizzata da una forte certezza sulla tecnologia e da una forte incertezza sul suo mercato, e 	una fase specifica che comincia quando emerge un disegno dominante
+
+10	Durante l'era del cambiamento incrementale molte imprese:
+@A	Rinunciano ad investire nella sperimentazione
+B	Continuano ad investire nella sperimentazione
+C	Concentrano le risorse su progetti di ricerca alternativi
+D	Investono nello sviluppo di innovazioni radicali
+
+
+<Lezione 19
+
+1	Le fonti di innovazione interne ed esterne sono:
+A	Esclusive
+@B	Complementari
+C	Uniche
+D	Non integrative
+
+2	La R&S in-house contribuisce a costruire:
+A	Esclusivamente la capacità creativa
+B	La capacità combinatoria
+@C	La capacità di assorbimento
+D	La capacità relazionale
+
+3	La maggior parte degli studi recenti ha rilevato che l'innovazione:
+A	Non è un processo così semplice
+B	Non è un processo lineare
+C	Non è un processo così difficile e lineare
+@D	Non è un processo così semplice e lineare
+
+4	Nelle imprese customer driven:
+@A	Il processo innovativo parte dalla funzione marketing che prende spunto dal mercato, sollecita le funzioni 	produzione e R&S a sviluppare nuovi prodotto o migliormanti di quelli esistenti
+B	Il processo innovativo parte dalla funzione produzione che sollecita la funzione R&S a sviluppare nuovi 	prodotti più complessi
+C	Il processo innovativo parte dalla funzione R&S
+D	La genesi dell'idea innovativa parte dall'Alta Direzione
+
+5	Nell'approcio science push:
+A	Il processo innovativo parte dalla funzione marketing che prende spunto dal mercato, sollecita le funzioni 	produzione e R&S a sviluppare nuovi prodotto o migliormanti di quelli esistenti
+@B	Il processo di genesi dell'idea innovativa parte dalla funzione R&S, si trasforma operativamente nella funzione 	produzione e viene collocata sul mercato di sbocco dalla funzione marketing
+C	La genesi dell'idea innovativa parte dall'Alta Direzione
+D	Il processo innovativo parte dalla funzione produzione che sollecita la funzione R&S a sviluppare nuovi 	prodotti più complessi
+
+6	Le informazioni sulle manovre dei concorrenti sono fornite da:
+A	Fornitori
+B	Università
+C	Concorrenti
+@D	Clienti
+
+7	Le collaborazioni involontarie tra un'impresa e i propri concorrenti avvengono attraverso:
+A	Creazione di joint venture
+B	Esclusivamente attravers l'assunzione di personale uscito dall'azienda concorrente
+@C	Imitazione di idee e assunzione di personale uscito dall'azienda concorrente
+D	Esclusivamente attraverso l'imitazione di idee
+
+8	Nelle collaborazioni imprese-università il rischio principale dipende da:
+A	Diversità di orientamento economico
+B	Diversità delle tempistiche da rispettare
+C	Diversità nelle modalità di rendicontazione
+@D	Diversità di orientamento conoscitivo
+
+9	Le collaborazioni con imprese operanti in settori distanti:
+@A	Richiedono notevoli sforzi e si risolvono in mutamenti radicali e profondi che si manifestano spesso nel lungo 	periodo e hanno carattare duraturo
+B	Richiedono notevoli sforzi e si risolvono in mutamenti incrementali che si manifestano spesso nel lungo 	periodo e hanno carattare duraturo
+C	Richiedono esigui sforzi e si risolvono in mutamenti radicali e profondi che si manifestano spesso nel lungo 	periodo e hanno carattare duraturo
+D	Richiedono notevoli sforzi e si risolvono in mutamenti radicali e profondi che si manifestano spesso nel breve 	periodo
+
+10	I vantaggi della collaborazione nelle attività di R&S sono:
+A	Accedere a risorse e a competenze critiche lentamente, ridurre il vincolo da risorse e aumentare il grado di 	flessibilità, apprendere dai partner, condividere rischi e investimenti associati all'innovazione, rafforzare legami 	di cooperazione a sostegno di uno standard comune
+@B	Accedere a risorse e a competenze critiche con rapidità, ridurre il vincolo da risorse e aumentare il grado di 	flessibilità, apprendere dai partner, condividere rischi e investimenti associati all'innovazione, rafforzare legami 	di cooperazione a sostegno di uno standard comune
+C	Accedere a risorse e a competenze critiche con rapidità, ridurre il vincolo da risorse e aumentare il grado di 	flessibilità, apprendere dai partner, condividere rischi e investimenti associati all'innovazione, ridurre i legami 	di cooperazione a sostegno di uno standard comune
+D	Accedere a risorse e a competenze critiche con rapidità, ridurre il vincolo da risorse e il grado di flessibilità, 	apprendere dai partner, condividere rischi e investimenti associati all'innovazione, rafforzare legami di 	cooperazione a sostegno di uno standard comune
+
+
+<Lezione 20
+
+1	Le alleanze strategiche sono:
+A	Accordi di natura esclusivamente formale fra due o più partner allo scopo di collaborare per una finalità
+@B	Accordi di natura formale o informale fra due o più partner allo scopo di collaborare per una finalità
+C	Accordi di natura esclusivamente informale fra due o più partner allo scopo di collaborare per una finalità
+D	Accordi di natura formale o informale fra esclusivamente due partner allo scopo di collaborare per una finalità
+
+2	Le joint venture sono:
+A	Accordi contrattuale che conferiscono a un'organizzazione (o a un individuo) i diritti d'uso di una proprietà 	intellettuale di un'altra organizzazione in cambio di una royalty
+B	Delle modalità in base alla quale un'impresa trasferisce all'esterno determinati processi piuttosto di realizzarli 	al proprio interno
+@C	Una forma particolare di alleanza che richiede ai partecipanti di adottare una struttura formale, quasi sempre 	una nuova entità giuridicamente separata e dotata di capitale proprio
+D	Sono organizzazioni costituite per favorire la collaborazione fra un gruppo di soggetti, per esempio imprese ed 	enti pubblici di ricerca
+
+
+3	Il licensing è:
+A	Delle modalità in base alla quale un'impresa trasferisce all'esterno determinati processi piuttosto di realizzarli 	al proprio interno
+B	Una forma particolare di alleanza che richiede ai partecipanti di adottare una struttura formale, quasi sempre 	una nuova entità giuridicamente separata e dotata di capitale proprio
+C	Sono organizzazioni costituite per favorire la collaborazione fra un gruppo di soggetti, per esempio imprese ed 	enti pubblici di ricerca
+@D	Accordi contrattuale che conferiscono a un'organizzazione (o a un individuo) i diritti d'uso di una proprietà 	intellettuale di un'altra organizzazione in cambio di una royalty
+
+4	Le organizzazioni di ricerca sono:
+@A	Sono organizzazioni costituite per favorire la collaborazione fra un gruppo di soggetti, per esempio imprese ed 	enti pubblici di ricerca
+B	Delle modalità in base alla quale un'impresa trasferisce all'esterno determinati processi piuttosto di realizzarli 	al proprio interno
+C	Una forma particolare di alleanza che richiede ai partecipanti di adottare una struttura formale, quasi sempre 	una nuova entità giuridicamente separata e dotata di capitale proprio
+D	Accordi contrattuale che conferiscono a un'organizzazione (o a un individuo) i diritti d'uso di una proprietà 	intellettuale di un'altra organizzazione in cambio di una royalty
+
+5	I fattori determinanti della collaborazione selettiva sono:
+A	Il possesso di risorse complementari critiche non possedute dai partner, assenza di barriere all'imitazione, 	presenza di partner che potrebbero essere potenziali concorrenti
+B	Il possesso di risorse complementari critiche non possedute dai partner, la presenza di elevate barriere 	all'imitazione, assenza di partner che potrebbero essere potenziali concorrenti
+@C	Il possesso di risorse complementari critiche non possedute dai partner, la presenza di elevate barriere 	all'imitazione, la presenza di partner che potrebbero essere potenziali concorrenti
+D	Mancanza di risorse complementari critiche non possedute dai partner, la presenza di elevate barriere 	all'imitazione, la presenza di partner che potrebbero essere potenziali concorrenti
+
+6	Le caratteristiche principali del licensing multiplo passivo sono:
+@A	Concessione di una licenza a tutti gli operatori interessati che si preoccupano di sviluppare il mercato
+B	Assenza di accordi di collaborazione
+C	Sviluppo di un'alleanza per promuovere uno standard in modo congiunto
+D	Perseguimento di una strategia aggressiva
+
+7	Lo sviluppo autonomo si caratterizza per:
+A	Costi bassi, forte controllo dei processi, valorizzazione delle competenze esistenti, sviluppo di nuove 	competenze e accesso alle competenze di altre imprese
+@B	Costi elevati, forte controllo dei processi, valorizzazione delle competenze esistenti, sviluppo di nuove 	competenze e accesso alle competenze di altre imprese
+C	Costi elevati, scarso controllo dei processi, valorizzazione delle competenze esistenti, sviluppo di nuove 	competenze e accesso alle competenze di altre imprese
+D	Costi elevati, forte controllo dei processi, scarsa valorizzazione delle competenze esistenti, sviluppo di nuove 	competenze e accesso alle competenze di altre imprese
+
+8	L'outsourcing si caratterizza per:
+@A	Costi medi, un controllo dei processi innovativi medio, non sempre vi è la valorizzazione di competenze 	esistenti, assenza dello sviluppo di nuove competenze, possibile accesso a competenze di altre imprese
+B	Costi alti, un controllo dei processi innovativi medio, non sempre vi è la valorizzazione di competenze 	esistenti, assenza dello sviluppo di nuove competenze, possibile accesso a competenze di altre imprese
+C	Costi alti, forte controllo dei processi innovativi, non sempre vi è la valorizzazione di competenze esistenti, 	assenza dello sviluppo di nuove competenze, possibile accesso a competenze di altre imprese
+D	Costi alti, forte controllo dei processi innovativi, non sempre vi è la valorizzazione di competenze esistenti, 	sviluppo di nuove competenze, possibile accesso a competenze di altre imprese
+
+
+9	La strategia di innovazione delle imprese internazionali "local for local" prevede che:
+A	Ogni sede nazionale sviluppi un processo di innovazione destinato a rispondere alla domanda del mercato 	globale
+@B	Ogni sede nazionale sviluppi un processo di innovazione destinato a rispondere alla domanda del mercato 	locale
+C	Le attività di R&S siano concentrate in un'unica sede principale
+D	Il processo di innovazione si identifichi con un trasferimento e un adattamento della tecnologia dal centro alle 	unità locali
+
+10	La strategia di innovazione delle imprese internazionali "globally linked" prevede che:
+A	Ogni sede nazionale sviluppi un processo di innovazione destinato a rispondere alla domanda del mercato 	locale
+B	Le attività di R&S siano concentrate in un'unica sede principale
+C	Ogni sede nazionale sviluppi un processo di innovazione in autonomia
+@D	Siano presenti unità di R&S decentralizzate, ma ciascuna contribuisce con la sua dotazione di risorse e 	competenze allo sviluppo dell'innovazione mediante un coordinamento globale
+
+
+<Lezione 21
+
+1	Per appropriabilità si intende:
+A	La capacità dell'impresa di acquisire nuovi clienti
+B	La capacità dell'impresa di acquisire una quota di mercato attraverso l'introduzione di innovazioni
+@C	La capacità dell'impresa di acquisire e trattenere per sé le rendite generate dai propri processi innovativi
+D	La capacità dell'impresa di acquisire le rendite generate dalla vendita di prodotti
+
+2	Il grado di appropriabilità è determinato:
+@A	Dalla facilità e dalla rapidità con cui i concorrenti riescono ad imitare l'innovazione
+B	Dalla facilità e dalla rapidità con cui i concorrenti riescono a sviluppare un nuovo prodotto
+C	Dalla facilità e dalla rapidità con cui i concorrenti riescono ad introdurre un'innovazione
+D	Dalla facilità e dalla rapidità con cui i concorrenti riescono a sviluppare un nuovo processo
+
+3	L'innovazione è naturalmente protetta quando:
+A	Vi è una forte base di conoscenza esplicita o è socialmente complessa
+@B	Vi è una forte base di conoscenza tacita o è socialmente complessa
+C	Vi è una forte base di conoscenza tacita o è socialmente semplice
+D	Vi è una forte base di conoscenza esplicita o è semplice da imitare
+
+4	Il brevetto è:
+A	Un diritto non esclusivo, garantito dallo Stato, in forza del quale è conferito il potere temporaneo di 	sfruttamento dell'invenzione
+B	E' una parola, una frase, un simbolo, un disegno o qualsiasi elemento distintivo della provenienza di un bene
+C	E' una forma di protezione applicabile alle opere soggette a diritto d'autore
+@D	Un diritto esclusivo, garantito dallo Stato, in forza del quale è conferito un monopolio temporaneo di 	sfruttamento dell'invenzione
+
+5	Il marchio commerciale è:
+A	Un diritto esclusivo, garantito dallo Stato, in forza del quale è conferito un monopolio temporaneo di 	sfruttamento dell'invenzione
+B	E' una forma di protezione applicabile alle opere soggette a diritto d'autore
+@C	E' una parola, una frase, un simbolo, un disegno o qualsiasi elemento distintivo della provenienza di un bene
+D	E' un marchio che contraddistingue un fornitore di un servizio
+
+6	Il copyright è:
+@A	E' una forma di protezione applicabile alle opere soggette a diritto d'autore
+B	Un diritto esclusivo, garantito dallo Stato, in forza del quale è conferito un monopolio temporaneo di 	sfruttamento dell'invenzione
+C	E' un marchio che contraddistingue un fornitore di un servizio
+D	E' una parola, una frase, un simbolo, un disegno o qualsiasi elemento distintivo della provenienza di un bene
+
+7	Le condizioni affinché l'informazione sia considerata segreto industriale sono:
+A	Capacità di generare un vantaggio non distintivo per l'impresa in termini di rendita economica e possibilità di 	conservare il proprio valore rimanendo strettamente confidenziale
+@B	Capacità di generare un vantaggio distintivo per l'impresa in termini di rendita economica e possibilità di 	conservare il proprio valore rimanendo strettamente confidenziale
+C	Capacità di generare un vantaggio distintivo per l'impresa in termini di rendita economica e variazione del 	proprio valore rimanendo strettamente confidenziale
+D	Capacità di generare un vantaggio distintivo per l'impresa in termini di rendita economica e conservazione del 	proprio valore divenendo pubblica
+
+8	Il segreto industriale è:
+A	E' una forma di protezione applicabile alle opere soggette a diritto d'autore
+B	E' una parola, una frase, un simbolo, un disegno o qualsiasi elemento distintivo della provenienza di un bene
+@C	L'insieme delle informazioni di proprietà esclusiva di un'impresa che restano ignote all'esterno della stessa
+D	L'insieme delle informazioni di proprietà di un'impresa che sono comunicate all'esterno della stessa
+
+9	I sistemi proprietari (wholly proprietary system) sono basati:
+@A	Sul possesso esclusivo della tecnologia da parte dell'impresa e su una strategia di protezione
+B	Sulla libera diffusione della tecnologia
+C	Sul possesso condiviso della tecnologia
+D	Sull'assenza di una strategia di protezione legale
+
+10	Nei sistemi aperti (wholly open system):
+A	La tecnologia adottata è protetta legalmente ed è liberamente accessibile ad altri produttori
+B	Vi è il possesso esclusivo della tecnologia
+C	La tecnologia adottata non è liberamente accessibile ad altri operatori
+@D	La tecnologia adottata non è protetta legalmente ed è liberamente accessibile ad altri produttori
+
+
+<Lezione 22
+
+1	Schumpeter sostenne che l'imprenditore:
+A	E' il motore dell'innovazione generando processi di creazione che determinano una dinamica nati-mortalità 	delle imprese
+@B	E' il motore dell'innovazione generando processi di distruzione-creazione che determinano una dinamica nati-	mortalità delle imprese
+C	Determina la mortalità delle imprese
+D	Determina la natalità delle imprese
+
+2	La dimensione può comportare degli svantaggi:
+A	Maggiore efficienza della R&S, maggiore inerzia burocratica, più elevato grado di commitment strategico
+B	Minore efficienza della R&S a causa di una perdita di controllo manageriale, minore burocrazia, più elevato 	grado di commitment strategico
+@C	Minore efficienza della R&S a causa di una perdita di controllo manageriale, maggiore inerzia burocratica, più 	elevato grado di commitment strategico
+D	Minore efficienza della R&S a causa di una perdita di controllo manageriale, maggiore inerzia burocratica, più 	basso grado di commitment strategico
+
+3	Le piccole imprese sono spesso considerate:
+A	Più rigide
+B	Con minor spirito imprenditoriale
+C	Più flessibili e con un minor spirito imprenditoriale
+@D	Più flessibili e con un maggior spirito imprenditoriale
+
+
+4	Molte grandi imprese hanno trovato il modo per sentirsi piccole:
+@A	Scomposizione e distribuzione delle attività in unità più piccole e utilizzo di culture e meccanismi di controllo 	differenti nelle diverse unità
+B	Scomposizione e distribuzione delle attività in unità più piccole e utilizzo di culture e meccanismi di controllo 	uguali in tutte le unità
+C	Accentramento delle attività in pochissime unità e utilizzo di culture e meccanismi di controllo differenti
+D	Accentramento delle attività in pochissime unità e utilizzo di culture e meccanismi di controllo uguali
+
+5	Per formalizzazione si intende:
+A	Il grado di concentrazione del potere decisionale al vertice dell'impresa
+@B	Il grado di regolazione del comportamento dei membri di un'organizzazione attraverso regole, procedure e 	documentazioni prodotte in forma ufficiale
+C	Il grado di codificazione delle attività dell'impresa secondo procedure, regole e comportamenti predeterminate
+D	Il grado di concentrazione geografica delle attività in un'unica sede principale
+
+6	Per standardizzazione si intende:
+A	Il grado di regolazione del comportamento dei membri di un'organizzazione attraverso regole, procedure e 	documentazioni prodotte in forma ufficiale
+B	Il grado di concentrazione del potere decisionale al vertice dell'impresa
+C	Il grado di concentrazione geografica delle attività in un'unica sede principale
+@D	Il grado di codificazione delle attività dell'impresa secondo procedure, regole e comportamenti predeterminate
+
+7	Alcune caratteristiche che devono possedere le organizzazioni per supportare l'innovazione sono:
+A	Adottare regole semplici, creare struttura organizzative complesse e favorire la auto-organizzazione degli 	individui, creare organizzazioni capaci di combinare competenze diverse e favorire il cambiamento
+B	Adottare regole semplici, sfavorire la auto-organizzazione degli individui, creare organizzazioni capaci di 	combinare competenze diverse e favorire il cambiamento
+@C	Adottare regole semplici, semplificare la struttura formale e favorire la auto-organizzazione degli individui, 	creare organizzazioni capaci di combinare competenze diverse e favorire il cambiamento
+D	Adottare regole complicate, semplificare la struttura formale e favorire la auto-organizzazione degli individui, 	creare organizzazioni capaci di combinare competenze diverse e favorire il cambiamento
+
+8	L'organizzazione ambidestra (o ibrida):
+@A	E' una forma complessa costituita da una molteplicità di architetture interne
+B	E' una forma complessa costituita da poche unità
+C	E' una forma molto semplice costituita da una molteplicità di architetture interne
+D	E' una forma molto semplice costituita da poche unità
+
+9	Per modularità si intende:
+A	Il grado di formalizzazione di un sistema
+B	Il grado di accentramento della funzione R&S
+@C	Il grado di scomponibilità e di ricombinazione dei componenti di un sistema
+D	Il grado di standardizzazione di un sistema
+
+10	Nelle strutture loosely coupled:
+A	Le attività sono strettamente integrate e il coordinamento avviene attraverso l'adesione a obiettivi condivisi e 	standard comuni
+@B	Le attività non sono strettamente integrate e il coordinamento avviene attraverso l'adesione a obiettivi condivisi 	e standard comuni
+C	Le attività sono strettamente integrate e non vi sono esigenze di coordinamento
+D	Le attività non sono strettamente integrate e, ma non vi è l'esigenza di coordinamento
+
+
+
+<Lezione 23
+
+1	L'Open Innovation è un nuovo modello di gestione della conoscenza che descrive processi di 	innovazione:
+A	Caratterizzati dall'utilizzo di meccanismi di sfruttamento delle risorse interne
+@B	Caratterizzati dallapertura verso l'esterno
+C	Caratterizzati dall'utilizzo dell'approccio tradizionale
+D	Orientati alla soddisfazione del cliente
+
+2	Tra le principali motivazioni che spiegano la nascita dell'Open Innovation, vi è l'intensità tecnologica che 	indica:
+A	Come l'innovazione è il risultato di tecnologie provenienti da diversi ambiti d'applicazione e settori
+B	Il livello di tecnologia impiegata
+@C	La complessità dei prodotti realizzati e/o processi impiegati
+D	La quantità di tecnologia utilizzata
+
+3	Tra le principali motivazioni che spiegano la nascita dell'Open Innovation, vi è fusione tecnologica che 	indica:
+A	La complessità dei prodotti realizzati e/o processi impiegati
+B	La quantità di tecnologia utilizzata
+C	Il livello di tecnologia impiegata
+@D	Come l'innovazione è il risultato di tecnologie provenienti da diversi ambiti d'applicazione e settori
+
+4	I principi fondamentali su cui si basa l'Open Innovation sono:
+@A	L'innovazione serve a risolvere problemi reali di imprese e imprenditori, le tecnologie necessarie sono 	disponibili e, spesso, pronte ad essere implementate, esiste un mercato per queste idee e tecnologie
+B	L'innovazione serve a risolvere problemi non reali di imprese e imprenditori, le tecnologie necessarie sono 	disponibili e, spesso, pronte ad essere implementate, esiste un mercato per queste idee e tecnologie
+C	L'innovazione serve a risolvere problemi reali esclusivamente dei consumatori, le tecnologie necessarie sono 	disponibili e, spesso, pronte ad essere implementate, esiste un mercato per queste idee e tecnologie
+D	L'innovazione serve a risolvere problemi reali di imprese e imprenditori, esiste un mercato per queste idee e 	tecnologie
+
+5	La strategia Inbound:
+A	Consiste nella ricerca di soluzioni innovative interne da integrare a quelle sviluppate
+@B	Consiste nella ricerca di soluzioni innovative esterne da integrare a quelle sviluppate internamente
+C	Consiste nella ricerca di nuovi percorsi di mercato per commercializzare le tecnologie non utilizzate 	dall'impresa
+D	Consiste nella ricerca di nuovi percorsi di mercato per commercializzare le tecnologie utilizzate dall'impresa
+
+6	La strategia Outbound:
+A	Consiste nella ricerca di nuovi percorsi di mercato per commercializzare le tecnologie utilizzate dall'impresa
+B	Consiste nella ricerca di soluzioni innovative interne da integrare a quelle sviluppate
+@C	Consiste nella ricerca di nuovi percorsi di mercato per commercializzare le tecnologie non utilizzate 	dall'impresa
+D	Consiste nella ricerca di soluzioni innovative esterne da integrare a quelle sviluppate internamente
+
+7	La sindrome del Not Invented Here:
+A	E' una forma di resistenza ad integrare soluzioni innovative sviluppate in altre funzioni dell'impresa
+B	E' una forma di resistenza ad integrare soluzioni innovative sviluppate dai propri colleghi
+C	E' una forma di resistenza ad integrare soluzioni innovative sviluppate dalla funzione R&S
+@D	E' una forma di resistenza ad integrare soluzioni innovative sviluppate da altri, divenendo un ostacolo al 	perseguimento della strategia di open innovation
+
+8	Il vantaggio economico derivante dall'adozione di meccanismi di outbound consiste:
+@A	Nella possibilità di incassare ricavi provenienti dalla commercializzazione a terzi della tecnologia sviluppata
+B	Nella possibilità per l'impresa di ampliare il proprio portafoglio prodotti
+C	Nella possibilità per l'impresa di scoprire nuovi partner con cui collaborare
+D	Nella possibilità per l'impresa di scoprire nuovi mercati in cui applicare la propria tecnologia
+
+9	Il vantaggio strategico derivante dall'adozione di meccanismi di outbound consiste:
+A	Nella possibilità di incassare ricavi provenienti dalla commercializzazione a terzi della tecnologia sviluppata
+B	Nella possibilità per l'impresa di sfavorire i propri concorrenti
+C	Nella possibilità per l'impresa di scoprire nuovi partner con cui collaborare
+@D	Nella possibilità per l'impresa di scoprire nuovi mercati in cui applicare la propria tecnologia
+
+10	Quando è utilizzata una piattaforma di Open Innovation, la proprietà intellettuale è:
+A	Del solver
+@B	Del seeker
+C	Della community online
+D	Del proprietario della piattaforma
+
+
+<Lezione 24
+
+1	La strategia finanziaria è:
+A	L'insieme delle decisioni di lungo periodo e delle azioni da intraprendere con riferimento alle attività da 	realizzare
+B	L'insieme delle decisioni di lungo periodo e delle azioni da intraprendere per la gestione dei rapporti con le 	banche
+C	L'insieme delle decisioni di lungo periodo e delle azioni da intraprendere con riferimento alle fonti di 	finanziamento da utilizzare
+@D	L'insieme delle decisioni di breve periodo e delle azioni da intraprendere con riferimento alle fonti di 	finanziamento da utilizzare
+
+2	La strategia finanziaria di un'impresa dipende da:
+A	Esclusivamente dagli obiettivi aziendali
+B	Esclusivamente dalle caratteristiche strutturali e funzionali della produzione e dalla disponibilità delle risorse 	finanziarie interne
+C	Obiettivi aziendali, caratteristiche strutturali e funzionali della produzione, disponibilità di risorse produttive, 	rapporto con finanziatori esterni
+@D	Obiettivi aziendali, caratteristiche strutturali e funzionali della produzione, disponibilità di risorse finanziarie 	interne, rapporto con finanziatori esterni
+
+3	Gli obiettivi della strategia finanziaria dipendono:
+@A	Dalla situazione patrimoniale ed economica dell'impresa
+B	Esclusivamente dalla situazione patrimoniale
+C	Esclusivamente dalla situazione economica
+D	Dalla situazione monetaria ed economica dell'impresa
+
+4	Gli obiettivi della strategia finanziaria sono:
+A	Conseguimento dell'equilibrio economico, recupero dell'equilibrio finanziario, mantenimento dell'equilibrio 	finanziario, ottimizzazione delle gestione finanziaria - patrimoniale
+@B	Conseguimento dell'equilibrio finanziario, recupero dell'equilibrio finanziario, mantenimento dell'equilibrio 	finanziario, ottimizzazione delle gestione finanziaria - patrimoniale
+C	Conseguimento dell'equilibrio patrimoniale, recupero dell'equilibrio monetario, mantenimento dell'equilibrio 	finanziario, ottimizzazione delle gestione finanziaria - patrimoniale
+D	Recupero dell'equilibrio monetario, mantenimento dell'equilibrio finanziario, ottimizzazione delle gestione 	finanziaria - patrimoniale
+
+5	La finanza allargata:
+@A	Seleziona e controlla gli investimenti per ottimizzare l'impiego delle risorse finanziarie
+B	Gestisce in modo sistemico ed integrate le risorse finanziarie dell'impresa
+C	Si occupa del reperimento in modo tempestivo, appropriato e conveniente delle risorse finanziarie necessarie a 	coprire il fabbisogno finanziario
+D	Si occupa esclusivamente della valutazione del fabbisogno finanziario
+
+
+6	La finanza tradizionale:
+A	Seleziona e controlla gli investimenti per ottimizzare l'impiego delle risorse finanziarie
+B	Definisce esclusivamente il portafoglio investimenti dell'impresa
+@C	Si occupa del reperimento in modo tempestivo, appropriato e conveniente delle risorse finanziarie necessarie a 	coprire il fabbisogno finanziario
+D	Gestisce in modo sistemico ed integrate le risorse finanziarie dell'impresa
+
+7	Il capitale di rischio:
+A	E' conferito in modo temporaneo
+B	Per finanziare investimenti a breve
+@C	E' conferito in modo durevole
+D	Per finanziare investimenti che prevedono un recupero veloce
+
+8	I debiti di funzionamento:
+A	Permettono il finanziamento di investimenti a lungo termine
+@B	Nascono dalle attività di compravendita grazie ad una proroga di pagamento accordata dal fornitore
+C	Dipendono dalle caratteristiche del prodotto acquistato
+D	Prevedono tempio molto lunghi di rimborso
+
+9	Il trattamento di fine rapporto è una forma di:
+A	Capitale di rischio
+B	Conferimento della proprietà
+@C	Finanziamento indiretto
+D	Capitale di terzi
+
+10	L'autofinanziamento è la capacità dell'impresa di:
+A	Effettuare gli investimenti ricorrendo all'indebitamento o all'incremento del capitale proprio
+B	Acquistare i fattori produttivi ricorrendo all'indebitamento o all'incremento del capitale proprio
+C	Coprire il fabbisogno finanziario ricorrendo all'indebitamento o all'incremento del capitale proprio
+@D	Coprire il fabbisogno finanziario senza ricorrere, o ricorrendo in misura minore all'indebitamento o 	all'incremento del capitale proprio
+
+
+<Lezione 25
+
+1	Nella fase di costituzione, le fonti di finanziamento servono principalmente per:
+A	Alimentare il processo di investimento nelle immobilizzazioni e supportare le altre esigenze di gestione
+@B	Creare la struttura aziendale e coprire le esigenze di avviamento
+C	Acquistare fattori produttivi
+D	Acquistare servizi
+
+2	Il fabbisogno finanziario lordo è:
+A	L'entità dei capitali necessari per attuare gli investimenti programmati avendo già sottratto la quota di 	autofinanziamento
+B	L'entità dei capitali necessari per attuare gli investimenti programmati avendo già sottratto unicamente gli 	ammortamenti
+@C	L'entità dei capitali necessari per attuare gli investimenti programmati senza considerare la quota di 	autofinanziamento
+D	L'entità dei capitali necessari per attuare gli investimenti programmati avendo sottratto unicamente il fondo 	rischi e oneri
+
+3	Il fabbisogno finanziario netto è:
+A	L'entità dei capitali necessari per attuare gli investimenti programmati senza considerare la quota di 	autofinanziamento
+B	L'entità dei capitali necessari per attuare gli investimenti programmati avendo già sottratto unicamente gli 	ammortamenti
+C	L'entità dei capitali necessari per attuare gli investimenti programmati avendo sottratto unicamente il fondo 	rischi e oneri
+@D	L'entità dei capitali effettivamente da reperire per attuare gli investimenti programmati avendo già sottratto la 	quota di autofinanziamento
+
+4	Il fabbisogno strutturale è:
+A	Durevole e legato al volume di attività della gestione corrente
+@B	Durevole e legato alle caratteristiche della struttura dell'impresa
+C	Destinato a cessare, sebbene di lungo periodo
+D	Collegato a fenomeni congiunturali ed imprevedibili con effetti di breve periodo
+
+5	La struttura finanziaria indica:
+A	La composizione degli impieghi realizzati
+B	Il piano degli investimenti
+@C	La composizione delle singole fonti di finanziamento
+D	L'insieme delle fonti dell'autofinanziamento
+
+6	L'omogeneità indica che:
+A	L'impresa dovrebbe dotarsi di una struttura finanziaria che può essere modificata in base all'evoluzione del 	fabbisogno, sia come ammontare complessivo, sia come composizione delle risorse finanziarie aziendali
+B	L'impresa deve scegliere fonti in grado di massimizzare il differenziale fra rendimenti dell'investimento e costo 	del capitale
+C	L'impresa deve mantenere bassi i costi della propria struttura finanziaria
+@D	L'impresa dovrebbe cercare di utilizzare capitali omogenei rispetto al tipo di fabbisogno da coprire
+
+7	La flessibilità implica che:
+A	L'impresa sia in grado di utilizzare capitali omogenei rispetto al tipo di fabbisogno da coprire
+B	L'impresa scelga fonti in grado di massimizzare il differenziale fra rendimenti dell'investimento e costo del 	capitale
+@C	L'impresa dovrebbe dotarsi di una struttura finanziaria che può essere modificata in base all'evoluzione del 	fabbisogno, sia come ammontare complessivo, sia come composizione delle risorse finanziarie aziendali
+D	L'impresa si doti di una struttura finanziaria che può essere modificata in base all'evoluzione del fabbisogno, 	sia come ammontare complessivo, sia come composizione delle risorse finanziarie aziendali
+
+8	Il rischio strutturale (o rischio di insolvenza) si verifica quando:
+@A	Le fonti finanziarie non sono in grado di coprire gli impieghi
+B	Vi sono occasionali carenze di cassa
+C	Vi è un carenza di liquidità
+D	L'impresa non è in grado di mantenere bassi i costi della struttura finanziari
+
+9	Il rischio congiunturale è:
+A	L'impresa non è in grado di mantenere bassi i costi della struttura finanziari
+B	Le fonti finanziarie non sono in grado di coprire gli impieghi
+@C	Vi sono occasionali carenze di cassa
+D	L'impresa non è in grado di dotarsi di una struttura finanziaria elastica
+
+10	Il Pay back period è un metodo che permette di:
+A	Valutare le caratteristiche della struttura finanziaria
+B	Valutare il valore attualizzato dei flussi di cassa
+C	Calcolare quel tasso di interesse in grado di rendere nulla la sommatoria dei flussi di cassa futuri
+@D	Valutare la rischiosità dell'investimento misurando il tempo necessario affinchè gli incassi reintegrino 	completamente il capitale investito
+
+
+
+<Lezione 26
+
+1	Il crowdfunding può essere definito come:
+A	Un processo di finanziamento collettivo attraverso cui le persone contribuiscono intellettualmente ad un 	progetto o ad un'iniziativa in cui credono e di cui diventano sostenitori
+B	Un processo di finanziamento collettivo attraverso cui le persone contribuiscono con somme di denaro a un 	progetto o ad un'iniziativa in cui non credono
+@C	Un processo di finanziamento collettivo attraverso cui le persone contribuiscono con somme di denaro a un 	progetto o ad un'iniziativa in cui credono e di cui diventano sostenitori
+D	Un processo di finanziamento individuale attraverso cui le persone contribuiscono con somme di denaro a un 	progetto o ad un'iniziativa in cui credono e di cui diventano sostenitori
+
+2	Il crowdfunder è consapevole di investire in un progetto:
+@A	Molto rischioso poiché lo sviluppo o il completamento del progetto avverrà in futuro
+B	Molto sicuro in quanto garantito dai proprietari della piattaforma
+C	Che prevede tempi di realizzo molto lunghi essendo sempre innovazioni radicali
+D	Che prevede tempi di realizzo molto brevi essendo sempre innovazioni incrementali
+
+3	Il modello Equity-based permette:
+A	Il finanziamento di progetti per motivi filantropici o di sponsorizzazione, senza alcuna remunerazione
+B	La sottoscrizione di titoli o contratti di debito direttamente stipulati fra le parti
+C	Il finanziamento di progetti al fine di ottenere in cambio una ricompensa o un premio
+@D	La sottoscrizione di capitale di rischio tramite azioni, o titoli simili, di una nuova società
+
+4	Il modello Donation-based permette:
+A	Il finanziamento di progetti al fine di ottenere in cambio una ricompensa o un premio
+@B	Il finanziamento di progetti per motivi filantropici o di sponsorizzazione, senza alcuna remunerazione
+C	La sottoscrizione di titoli o contratti di debito direttamente stipulati fra le parti
+D	La sottoscrizione di capitale di rischio tramite azioni, o titoli simili, di una nuova società
+
+5	Il modello Lending-based:
+@A	La sottoscrizione di titoli o contratti di debito direttamente stipulati fra le parti
+B	Il finanziamento di progetti al fine di ottenere in cambio una ricompensa o un premio
+C	La sottoscrizione di capitale di rischio tramite azioni, o titoli simili, di una nuova società
+D	Il finanziamento di progetti per motivi filantropici o di sponsorizzazione, senza alcuna remunerazione
+
+6	La variante "All or nothing" prevede che:
+A	I fondi siano utilizzati indipendentemente dalla somma che si riesce a raccogliere entro la scadenza prefissata
+B	Siano finanziate determinate iniziative ottenendo in cambio una parte dei profitti
+C	Si prenoti un bene non ancora prodotto versando anticipatamente o promettendo di versare il prezzo
+@D	La somma del target deve essere raggiunta entro un periodo di tempo prefissato dalla piattaforma e se non si 	dovesse raggiungere il target previsto, il denaro verrà ridistribuito sul conto dei donatori
+
+7	La variante "take it all" prevede che:
+A	Siano finanziate determinate iniziative ottenendo in cambio una parte dei profitti
+@B	I fondi siano utilizzati indipendentemente dalla somma che si riesce a raccogliere entro la scadenza prefissata
+C	La somma del target deve essere raggiunta entro un periodo di tempo prefissato dalla piattaforma e se non si 	dovesse raggiungere il target previsto, il denaro verrà ridistribuito sul conto dei donatori
+D	Si prenoti un bene non ancora prodotto versando anticipatamente o promettendo di versare il prezzo
+
+8	La variante "Royalty-based" prevede che:
+A	La somma del target deve essere raggiunta entro un periodo di tempo prefissato dalla piattaforma e se non si 	dovesse raggiungere il target previsto, il denaro verrà ridistribuito sul conto dei donatori
+B	Si prenoti un bene non ancora prodotto versando anticipatamente o promettendo di versare il prezzo
+@C	Siano finanziate determinate iniziative ottenendo in cambio una parte dei profitti
+D	I fondi siano utilizzati indipendentemente dalla somma che si riesce a raccogliere entro la scadenza prefissata
+
+
+9	Gli step per creare una campagna di crowdfunding efficace sono:
+@A	5
+B	3
+C	4
+D	6
+
+10	Secondo il report Massolution, in Italia i modelli di piattaforma di crowdfunding più diffusi sono:
+A	Donation-based
+B	Lending-based
+@C	Reward-based
+D	Equity-based
+
+
+<Lezione 27
+
+1	La funzione Approvvigionamento è responsabile:
+A	Delle decisioni e attività che riguardano le fasi del processo produttivo
+B	Delle decisioni e attività che riguardano l'acquisizione delle risorse finanziarie
+C	Della definizione delle strategie organizzative
+@D	Delle decisioni e attività che riguardano l'acquisto, il trasferimento e lo stoccaggio di materie prime, materiali e 	componenti
+
+2	Nella fase " marketing d'acquisto", le imprese:
+A	Definiscono il fabbisogno di materie prime, materiali e componenti
+@B	Ricercano nuovi prodotti innovativi e fornitori migliori, valutano la qualità dei fornitori, i preventivi e i tempi 	di consegna
+C	Definiscono gli obiettivi da raggiungere in termini di output da realizzare
+D	Definiscono la quantità ottima da acquistare
+
+3	La pianificazione dei fabbisogni è un'attività complessa che deve considerare:
+@A	I fabbisogni interni, il lead time dei fornitori e i livelli di scorta
+B	Esclusivamente il lead time dei fornitori
+C	Esclusivamente i fabbisogni interni
+D	Esclusivamente i livelli di scorta
+
+4	Le decisioni del management degli approvvigionamenti riguardano principalmente:
+A	Modalità di pagamento
+B	Gestione delle consegne
+@C	Quanto materiale ordinare in ciascun ordine e quando ordinare
+D	Gestione dei tempi di consegna
+
+5	Il punto di riordino è:
+A	Il livello di scorte massimo che un'azienda può immagazzinare
+@B	Quel livello quantitativo di scorte disponibili che provoca l'esigenza di un nuovo ordine
+C	Quel livello quantitativo di scorte disponibili che provoca l'esigenza di spingere le vendite dei prodotti
+D	La quantità minima da ordinare per minimizzare i costi di gestione delle scorte
+
+6	Quando sia il volume di materie sia il tempo di riapprovvigionamento sono certi, la formula per il 	calcolo del punto di riordino è:
+A	(N° unità di MP consumate p/unità tempo * lead time ordine acquisto) + scorta di sicurezza
+B	(N° unità di MP consumate p/unità tempo * lead time ordine acquisto) + quantità ottima
+C	N° unità di MP consumate p/unità tempo * fabbisogno interno
+@D	N° unità di MP consumate p/unità tempo * lead time ordine acquisto
+
+7	Quando volume di materie e il tempo di riapprovvigionamento sono incerti, la formula per il calcolo del 	punto di riordino è:
+A	(N° unità di MP consumate p/unità tempo * lead time ordine acquisto) + quantità ottima
+@B	(N° unità di MP consumate p/unità tempo * lead time ordine acquisto) + livello scorta di sicurezza
+C	N° unità di MP consumate p/unità tempo * lead time ordine acquisto
+D	N° unità di MP consumate p/unità tempo * fabbisogno interno
+
+8	La scorta di sicurezza è:
+@A	E' quel livello di scorte di materie prime mantenuto indipendentemente dalla quantità ordinata ed è usata come 	cuscinetto per eventuali incrementi di produzione inaspettati e/o allungamenti nel lead time di consegna
+B	La quantità minima da ordinare per minimizzare i costi di gestione delle scorte
+C	Quel livello quantitativo di scorte disponibili che provoca l'esigenza di un nuovo ordine
+D	Quel livello quantitativo di scorte disponibili che provoca l'esigenza di spingere le vendite dei prodotti
+
+9	Il metodo delle scorte separate prevede:
+A	Lotti d'acquisto variabili ad intervalli di tempo costanti
+@B	Lotti d'acquisto costanti ad intervalli di tempo variabili
+C	Lotti d'acquisto costanti ad intervalli di tempo costanti
+D	Lotti d'acquisto variabili ad intervalli di tempo variabili
+
+10	Il Layout a catena permette di raggiungere:
+A	Un'alta flessibilità
+B	Una maggiore differenziazione
+@C	Un'alta produttività
+D	Una perdita di efficienza
+
+
+<Lezione 28
+
+1	Il Supply Chain Management (SCM) nasce:
+A	Negli anni '70
+@B	Negli anni '60
+C	Negli anni '80
+D	Negli anni '90
+
+2	Tra le principali motivazioni della diffusione del Supply Chain Management:
+A	Staticità dei mercati
+B	Passaggio ad una produzione di massa
+@C	Grande enfasi sulla flessibilità dei processi
+D	Forte ricorso alla verticalizzazione
+
+3	Il Supply Chain Management può essere definito come:
+@A	Una filosofia di gestione che permette di coordinare ed integrare tutte le attività della SC in un processo 	omogeneo
+B	L''insieme di tutte le attività relative alla produzione di un bene
+C	E' l'insieme delle attività organizzative, gestionali e strategiche che si occupano della gestione dei flussi dei 	materiali all'interno dell'impresa
+D	E' l'insieme delle attività organizzative, gestionali e strategiche che si occupano della gestione dei flussi dei 	materiali all'esterno dell'impresa
+
+4	Tra i requisiti indispensabili nella gestione della Supply Chain troviamo:
+A	Basso coordinamento tra tutti gli attori
+B	Mancato utilizzo di Information and Communication Technology
+@C	Gli attori coinvolti devono preoccuparsi del successo degli altri
+D	Focus sui singoli processi
+
+5	Tra le linee guida per sviluppare una Supply Chain efficace ed efficiente troviamo:
+A	Logica push
+B	Mancato impiego di ICT
+C	Esternalizzazione delle attività primarie
+@D	Flessibilità
+
+
+6	Quando parliamo di esternalizzazione delle attività secondarie, intendiamo:
+@A	Affidare a soggetti esterni attività con bassa redditività e che contribuiscono poco al raggiungimento del 	vantaggio competitivo
+B	Affidare a soggetti esterni attività primarie
+C	Affidare a soggetti esterni attività c.d. core
+D	Affidare a soggetti esterni attività caratterizzate da elevata efficienza e redditività
+
+7	I principali requisiti per alleanze strategiche efficaci sono:
+A	E' sufficiente avere frequenti interazioni e Information Technology compatibili
+B	E' sufficiente avere frequenti interazioni
+C	E' sufficiente utilizzare Information Technology compatibili
+@D	Lealtà, condivisione di strategie e obiettivi, condivisione di informazioni e conoscenze, approccio cooperativo
+
+8	Una delle possibili azioni per migliorare le prestazioni della Supply Chain è:
+A	Adottare sistemi di misurazione delle prestazioni che valutino esclusivamente l''efficacia
+@B	Adottare sistemi di misurazione delle prestazioni che valutino l''efficacia e l''efficienza della Supply Chain nel 	soddisfare le richieste dei clienti
+C	Adottare sistemi di misurazione delle prestazioni che valutino esclusivamente l''efficienza
+D	Adottare sistemi di misurazione delle prestazioni che valutino esclusivamente i costi di comunicazione 	sostenuti
+
+9	Una delle possibili azioni per migliorare le prestazioni della Supply Chain è:
+A	Segmentare i clienti in base ai costi sostenuti per servirli ed adattare la Supply Chain per servire tali segmenti 	efficientemente
+B	Segmentare i clienti in base alle loro quote di mercato ed adattare la Supply Chain per servire tali segmenti 	efficientemente
+@C	Segmentare i clienti in base ai servizi di cui hanno bisogno ed adattare la Supply Chain per servire tali 	segmenti efficientemente
+D	Segmentare i clienti in base ai ricavi derivanti dal rapporto di fornitura ed adattare la Supply Chain per servire 	tali segmenti efficientemente
+
+10	Le caratteristiche principali che il Supply Chain Manager deve possedere sono:
+@A	Possedere un'ampia visibilità aziendale
+B	Scarsissimo potere decisionale
+C	Possedere una ridotta visibilità aziendale
+D	Garantire esclusivamente l'integrazione tra le funzioni aziendali (approvvigionamento, produzione e 	marketing)
+
+
+<Lezione 29
+
+1	La conoscenza tacita si caratterizza per:
+A	Essere altamente oggettiva
+B	Essere facile da condividere
+@C	Derivare dall'esperienza
+D	Derivare dalla razionalità degli individui
+
+2	La conoscenza esplicita si caratterizza per:
+A	Derivare dall'esperienza
+B	Essere altamente soggettiva
+C	Essere nelle menti degli individui
+@D	Essere codificata
+
+3	Informazioni e dati forniscono un:
+A	Supporto strategico
+@B	Supporto operativo
+C	Supporto tattico
+D	Supporto alla direzione
+
+
+4	La conoscenza fornisce un:
+A	Supporto operativo
+B	Supporto tattico
+@C	Supporto strategico
+D	Supporto alla direzione
+
+5	Nel modella proposto da Nonaka e Takeuchi (1995) la socializzazione è:
+@A	Il processo di condivisione di esperienze
+B	Il processo di integrazione della conoscenza
+C	Il processo di trasformazione della conoscenza tacita in esplicita
+D	Il processo di internalizzazione
+
+6	Per migliorare l'efficacia ed efficienza della Supply Chain è necessario:
+A	Aumentare la frequenza delle interazioni
+B	Adottare ICT innovative
+C	Sviluppare un ufficio unico dedicato alle ICT dell'intera Supply Chain
+@D	Condividere le informazioni attraverso ICT adeguate e compatibili
+
+7	Per avere Supply Chain efficaci ed efficienti è fondamentale:
+@A	Condividere dati, informazioni e conoscenze accurate, utili e utilizzabili in modo tempestivo
+B	Condividere dati, informazioni e conoscenze utili e utilizzabili in modo tempestivo
+C	Condividere dati, informazioni e conoscenze accurate anche se in ritardo
+D	Condividere dati, informazioni e conoscenze accurate
+
+8	Tra le principali barriere all'introduzione di sistemi in grado di favorire la visibilità delle informazioni 	troviamo:
+A	La presenza di uno o pochi punti di controllo
+@B	La mancanza di relazioni collaborative e cooperative con i partner della Supply Chain
+C	L'utilizzo delle tecnologie ICT
+D	La mancanza di efficienza
+
+9	La visibilità delle informazioni indica:
+A	La possibilità di integrare la conoscenza
+B	La possibilità di trasformare la conoscenza tacita in esplicita
+@C	La possibilità di accedere alle informazioni lungo l'intera Supply Chain
+D	La possibilità di codificare la conoscenza
+
+10	Tra le principali benefici derivanti dall'introduzione di sistemi in grado di favorire la visibilità delle 	informazioni troviamo:
+A	Essere più facilmente product-oriented
+@B	Miglioramento della sincronizzazione e della coordinazione
+C	Riduzione del personale
+D	Favorire la produzione di massa
+
+
+<Lezione 30
+
+1	La gestione della conoscenza (o Knowledge Management) gioca un ruolo fondamentale all'interno della 	Supply Chain in quanto:
+@A	Favorisce il coordinamento e la sincronizzazione tra i partner
+B	Favorisce esclusivamente il coordinamento
+C	Favorisce processi decisionali inefficienti
+D	Non supporta il raggiungimento di un vantaggio competitivo duraturo
+
+
+2	Il Knowledge Management Supply Chain indica:
+@A	L'insieme delle attività volte a catturare, conservare, organizzare e condividere dati, informazioni e conoscenza 	tra gli individui
+B	L'insieme delle attività volte a catturare, conservare, organizzare e condividere dati, informazioni e conoscenza 	lungo l'intera catena di fornitura
+C	L'insieme delle attività volte a catturare, conservare, organizzare e condividere dati, informazioni e conoscenza 	all'interno della singola organizzazione
+D	L'insieme delle attività volte a catturare, conservare, organizzare e condividere dati, informazioni e conoscenza 	tra singolo cliente e fornitore
+
+3	L'Electronic Data Interchange è:
+A	Una tecnologia che permette di calcolare i fabbisogni netti dei materiali e pianificare gli ordini di produzione e 	di acquisto
+B	Un approccio gestionale condiviso tra i partner della Supply Chain che mira a ridurre le scorte di magazzino e 	garantire elevati livelli di servizio
+C	Una tecnica attraverso la quale la gestione e il controllo del magazzino è affidata al fornitore
+@D	Lo scambio di dati ed informazioni tra sistemi informativi attraverso un canale dedicato e nel formato previsto 	al fine di automatizzare il processo ed evitare l'intervento dell'uomo
+
+4	Il Vendor Management Inventory è:
+A	Un approccio gestionale condiviso tra i partner della Supply Chain che mira a ridurre le scorte di magazzino e 	garantire elevati livelli di servizio
+@B	Una tecnica attraverso la quale la gestione e il controllo del magazzino è affidata al fornitore
+C	Una tecnologia che permette di calcolare i fabbisogni netti dei materiali e pianificare gli ordini di produzione e 	di acquisto
+D	Lo scambio di dati ed informazioni tra sistemi informativi attraverso un canale dedicato e nel formato previsto 	al fine di automatizzare il processo ed evitare l'intervento dell'uomo
+
+5	Il Material Requirement Planning è:
+@A	Una tecnologia che permette di calcolare i fabbisogni netti dei materiali e pianificare gli ordini di produzione e	di acquisto
+B	Lo scambio di dati ed informazioni tra sistemi informativi attraverso un canale dedicato e nel formato previsto 	al fine di automatizzare il processo ed evitare l'intervento dell'uomo
+C	Una tecnica attraverso la quale la gestione e il controllo del magazzino è affidata al fornitore
+D	Un approccio gestionale condiviso tra i partner della Supply Chain che mira a ridurre le scorte di magazzino e 	garantire elevati livelli di servizio
+
+6	Il Collaborative Planning, Forecasting e Replenishment è:
+A	Lo scambio di dati ed informazioni tra sistemi informativi attraverso un canale dedicato e nel formato previsto 	al fine di automatizzare il processo ed evitare l'intervento dell'uomo
+B	Una tecnologia che permette di calcolare i fabbisogni netti dei materiali e pianificare gli ordini di produzione e 	di acquisto
+@C	Un approccio gestionale condiviso tra i partner della Supply Chain che mira a ridurre le scorte di magazzino e 	garantire elevati livelli di servizio
+D	Una tecnica attraverso la quale la gestione e il controllo del magazzino è affidata al fornitore
+
+7	Uno dei principali vantaggi derivanti dall'utilizzo dell'Enterprise Resource Planning è:
+@A	Miglioramento e incremento della flessibilità
+B	Miglioramento dello scheduling
+C	Miglioramento della pianificazione strategica
+D	Miglioramento nella definizione degli obiettivi di breve termine
+
+8	L'Enterprise Resource Planning è:
+A	Un sistema di gestione che integra esclusivamente i processi di produzione, approvvigionamento e marketing
+@B	Un sistema di gestione che integra tutti i processi di business
+C	Una tecnologia che permette di calcolare i fabbisogni netti dei materiali e pianificare gli ordini di produzione e 	di acquisto
+D	Un approccio gestionale condiviso tra i partner della Supply Chain che mira a ridurre le scorte di magazzino e 	garantire elevati livelli di servizio
+
+9	Affinché l'implementazione di un sistema di Vendor Management Inventory sia efficace è necessario:
+A	Condividere informazioni corrette e tempestive, utilizzare un sistema di Knowledge sharing, definire le 	modalità di gestione delle scorte
+B	Definire un piano condiviso dove si identificano gli obiettivi da raggiungere e le modalità di gestione delle 	scorte
+@C	Definire un piano condiviso dove si identificano gli obiettivi da raggiungere, condividere informazioni corrette 	e tempestive, utilizzare un sistema di Knowledge sharing, definire le modalità di gestione delle scorte
+D	Accordarsi sulle modalità do gestione delle scorte
+
+10	I principali vantaggi della tecnologia RFID sono:
+A	Deve essere a contatto con il tag per essere letto, il tag non deve essere obbligatoriamente visibile, 	l'identificazione e la verifica avvengono in 1/10 di secondo, la comunicazione può essere in chiaro o cifrata, 	permette di monitorare anche lo stato dell'oggetto su cui è posto il tag
+B	Non deve essere a contatto con il tag per essere letto, il tag deve essere obbligatoriamente visibile, 	l'identificazione e la verifica avvengono in 1/10 di secondo, la comunicazione può essere in chiaro o cifrata, 	permette di monitorare anche lo stato dell'oggetto su cui è posto il tag
+C	Non deve essere a contatto con il tag per essere letto, il tag non deve essere obbligatoriamente visibile, 	l'identificazione e la verifica avvengono in 1/10 di secondo, la comunicazione deve essere in chiaro, permette 	di monitorare anche lo stato dell'oggetto su cui è posto il tag
+@D	Non deve essere a contatto con il tag per essere letto, il tag non deve essere obbligatoriamente visibile, 	l'identificazione e la verifica avvengono in 1/10 di secondo, la comunicazione può essere in chiaro o cifrata, 	permette di monitorare anche lo stato dell'oggetto su cui è posto il tag
+
+
+<Lezione 31
+
+1	Il termine Triple Bottom Line fu coniato da:
+@A	Freer Spreckley
+B	Elkington
+C	Freer Elkington
+D	Commissione di Brundtland
+
+2	Il Triple Bottom Line è un approccio gestionale in base al quale le imprese dovrebbero prendere 	decisioni societarie (e adottare strategie) che perseguano simultaneamente:
+A	Equità sociale, prosperità economica
+@B	Equità sociale, qualità ambientale
+C	Equità sociale, qualità ambientale, prosperità economica
+D	Qualità ambientale, prosperità economica
+
+3	La prosperità economica è:
+A	La capacità di tutelare l'ambiente mantenendo invariata la qualità e la riproducibilità delle risorse naturali
+@B	La capacità di supportare l'occupazione e distribuire redditi per il sostentamento degli individui
+C	La capacità di assicurare il benessere a tutti gli individui indipendentemente dalla classe di appartenenza
+D	La capacità di assicurare il benessere a tutti gli individui in base alla classe di appartenenza
+
+4	L'Equità sociale è:
+@A	La capacità di assicurare il benessere a tutti gli individui indipendentemente dalla classe di appartenenza
+B	La capacità di assicurare il benessere a tutti gli individui in base alla classe di appartenenza
+C	La capacità di tutelare l'ambiente mantenendo invariata la qualità e la riproducibilità delle risorse naturali
+D	La capacità di supportare l'occupazione e distribuire redditi per il sostentamento degli individui
+
+5	La Qualità ambientale è:
+A	La capacità di supportare l'occupazione e distribuire redditi per il sostentamento degli individui
+B	La capacità di assicurare il benessere a tutti gli individui indipendentemente dalla classe di appartenenza
+C	La capacità di supportare esclusivamente l'occupazione
+@D	La capacità di tutelare l'ambiente mantenendo invariata la qualità e la riproducibilità delle risorse naturali
+
+
+6	Una delle principali fasi del processo verso lo sviluppo sostenibile è:
+A	Brundtland European Council 2002
+B	Stoccolma European Council 2001
+@C	Lisbon European Council 2000
+D	Göteborg European Council 2000
+
+7	Lo sviluppo sostenibile è:
+A	Uno sviluppo capace di soddisfare i bisogni degli individui
+@B	Uno sviluppo capace di soddisfare i bisogni degli individui senza compromettere la capacità delle generazioni 	future di soddisfare i propri bisogni
+C	Uno sviluppo capace di garantire la sopravvivenza delle generazioni future
+D	Uno sviluppo capace di garantire la sopravvivenza degli individui
+
+8	La rendicontazione Triple Bottom Line permette alle imprese:
+@A	Di comunicare le proprie performance economiche, sociali, ambientali
+B	Di comunicare le proprie performance economiche e finanziarie
+C	Di comunicare le proprie performance organizzative e gestionali
+D	Di comunicare le proprie performance economiche e sociali
+
+9	Per migliorare la sostenibilità della Supply Chain è necessario:
+A	Ridisegnare la Supply Chain, Promuovere la dimensione
+B	Ridisegnare la Supply Chain, Migliorare l'efficienza, Promuovere nuove relazioni
+C	Ridisegnare la Supply Chain, Migliorare l'efficienza
+@D	Ridisegnare la Supply Chain, Migliorare l'efficienza, Promuovere la dimensione
+
+10	Il Carbon footprint indica:
+A	Gli effetti positivi derivanti dall'utilizzo del combustibile fossile e quindi associati alle attività economiche 	come la movimentazione delle merci
+B	Gli effetti negativi derivanti dall'utilizzo delle energie alternative
+@C	Gli effetti negativi derivanti dall'utilizzo del combustibile fossile e quindi associati alle attività economiche 	come la movimentazione delle merci
+D	Gli effetti positivi derivanti dall'utilizzo delle energie alternative
+
+
+<Lezione 32
+
+1	Il sistema informativo aziendale permette alle imprese di:
+A	La raccolta e la comunicazione di informazioni necessarie all'organizzazione per la gestione delle attività 	aziendali
+B	L'elaborazione e la comunicazione di informazioni necessarie all'organizzazione per la gestione delle attività 	aziendali
+C	La comunicazione di informazioni necessarie all'organizzazione per la gestione delle attività aziendali
+@D	La raccolta, l'elaborazione e la comunicazione di informazioni necessarie all'organizzazione per la gestione 	delle attività aziendali
+
+2	Il sistema informativo aziendale si caratterizza per:
+@A	Elevata pervasività
+B	Scarsa pervasività
+C	Bassa ramificazione
+D	Scarsa produzione
+
+3	L'adozione di un sistema informativo aziendale efficace impatta:
+A	Sulla capacità organizzativa
+@B	Sul successo e la capacità competitiva di un'impresa
+C	Sulla strategia aziendale
+D	Sulla capacità produttiva
+
+
+4	E' compito del management provvedere:
+A	Alla definizione di sistemi di raccolta e comunicazione dei dati e delle informazioni al fine di contribuire alla 	creazione di un insieme di informazioni riguardanti la vita aziendale
+B	Alla scelta delle fonti informative da utilizzare
+@C	Alla definizione di sistemi di raccolta, archiviazione e comunicazione dei dati e delle informazioni al fine di 	contribuire alla creazione di un sistema di informazioni riguardanti la vita aziendale
+D	Alla definizione di sistemi di raccolta, archiviazione e comunicazione dei dati e delle informazioni al fine di 	contribuire alla creazione di un insieme di informazioni riguardanti la vita aziendale
+
+5	La conoscenza del processo informativo e dei flussi informativi rappresenta un aspetto importante per:
+@A	Il Management che, in questo modo, può facilmente e rapidamente reperire i dati e le informazioni necessarie
+B	Il personale amministrativo per la contabilità semplice
+C	Il personale amministrativo per la contabilità analitica
+D	Il personale della funzione produzione
+
+6	La fase di raccolta delle informazioni consiste:
+A	Solo nella scelta delle fonti informative da utilizzare
+B	Nell'ottenimento dai dati disponibili di nuove informazioni
+@C	Acquisizione delle informazioni (quantitative e qualitative) relative a fatti, eventi ed operazioni
+D	Nell'imputazione sistematica dei dati per renderli disponibili
+
+7	La fase di classificazione delle informazioni consiste:
+A	Acquisizione delle informazioni (quantitative e qualitative) relative a fatti, eventi ed operazioni
+B	Nell'imputazione sistematica dei dati per renderli disponibili
+C	Nell'ottenimento dai dati disponibili di nuove informazioni
+@D	Nel raggruppamento in base a delle variabili definite (e.g per destinazione e per natura dei dati)
+
+8	La fase di verifica e sistematizzazione delle informazioni consiste:
+A	Comunicazione dei dati agli stakeholder
+B	Nel raggruppamento in base a delle variabili definite (e.g per destinazione e per natura dei dati)
+@C	Nella verifica e imputazione dei dati per renderli disponibili
+D	Trasformazione dei dati in informazioni
+
+9	Le fonti informative utilizzate per la costituzione del patrimonio dati di un'azienda sono:
+A	Poche e alternative tra loro
+@B	Numerose e non alternative tra loro
+C	Numerose e alternative tra loro
+D	Poche e non alternative tra loro
+
+10	Le rilevazioni contabili permettono di:
+A	Ottenere dati sull'andamento dell'economia (e.g variazione tasso di interesse, andamento valuta, andamento 	prezzo commodity etc.)
+B	Elaborare dati forniti da soggetti qualificati (e.g. Banca d'Italia, ISTAT, Camere di Commercio etc)
+C	Seguire in modo generico tutte le operazioni svolte all'interno di un'azienda
+@D	Seguire da vicino e in modo analitico tutte le operazioni svolte all'interno di un'azienda
+
+
+<Lezione 33
+
+1	Uno dei principali compiti della funzione Sistemi Informativi è:
+@A	Presidiare le operazioni che rendono il patrimonio dati di un'azienda disponibile e accessibile a tutti
+B	Presidiare le operazioni che rendono il patrimonio dati di un'azienda disponibile ma non accessibile a tutti
+C	Presidiare le operazioni che rendono il patrimonio dati di un'azienda corretto
+D	Presidiare l'attività produttiva
+
+2	La presenza di procedure codificate favorisce:
+A	La chiarezza delle informazioni
+@B	La chiarezza e uniformità di esposizione dei dati
+C	La disponibilità delle informazioni
+D	L'accessibilità delle informazioni
+
+3	La sicurezza dei dati rappresenta un aspetto molto importante in quanto:
+A	Vi è la crescente esigenza di garantire la disponibilità dei dati e delle informazioni
+B	Vi è la crescente esigenza di garantire l'accessibilità dei dati e delle informazioni
+C	Vi è la crescente esigenza di supportare l'utilizzo corretto e etico dei dati raccolti ed elaborati
+@D	Vi è la crescente esigenza di proteggere i dati dall'utilizzo non corretto del sistema informativo e dall'accesso di 	soggetti esterni non autorizzati
+
+4	Una caratteristica fondamentale delle informazioni e dati è:
+A	La trasparenza delle informazioni
+B	La chiarezza dei dati
+@C	L'affidabilità
+D	L'uniformità
+
+5	I principali componenti della funzione Sistemi informativi sono:
+A	Patrimonio dati, procedure, personale e principi generali
+@B	Patrimonio dati, strumentazioni, procedure, personale e principi generali
+C	Patrimonio dati, strumentazioni e principi generali
+D	Patrimonio dati, strumentazioni e personale
+
+6	Una condizione fondamentale per la gestione efficace ed efficiente delle informazioni e dei dati è:
+@A	La coerente integrazione tra patrimonio dati, strumentazione, procedure e personale
+B	La coerente integrazione tra patrimonio dati e personale
+C	Il coordinamento tra patrimonio dati, procedure e personale
+D	Il coordinamento tra patrimonio dati e personale
+
+7	I system designer e i system integrator si occupano:
+A	Esclusivamente delle richieste specifiche del management
+B	Esclusivamente dello sviluppo del sistema informativo
+@C	Dello sviluppo dei sistemi informativi e della realizzazione dei collegamenti in rete tra i computer e postazioni 	operative dislocate all'interno dell'azienda
+D	Della definizione delle soluzioni migliori
+
+8	Gli operatori si occupano:
+A	Dello sviluppo dei sistemi informativi e della realizzazione dei collegamenti in rete tra i computer e postazioni 	operative dislocate all'interno dell'azienda
+@B	Del controllo del funzionamento del Centro di Elaborazione Dati e sono preposti alla raccolta, verifica e 	immissione dati
+C	Della definizione delle soluzioni migliori
+D	Della verifica del funzionamento del sistema informativo
+
+9	Negli ultimi anni il rapporto performance/prezzo degli strumenti hardware è:
+A	E' fortemente peggiorato
+B	E' rimasto invariato
+C	Le performance sono migliorate e i prezzi aumentati
+@D	E' fortemente migliorato
+
+10	Uno dei possibili rischi che un'azienda può incontrare nella realizzazione e sviluppo di un sistema 	informativo è:
+A	Un'eccessiva dinamicità del sistema informativo
+B	Un'eccessiva rigidità
+@C	Un'eccessiva delega decisionale ai tecnici informatici, con scarse conoscenze circa la realtà organizzati
+D	Una scarsa autonomia dei tecnici informatici
+
+
+
+<Lezione 34
+
+1	Gli strumenti web-based hanno profondamente modificato il modo in cui le organizzazioni:
+A	Partecipano alla definizione delle strategie
+@B	Comunicano, scambiano e condividono informazioni, conoscenze e documenti, collaborano per creare output 	condivisi
+C	Sviluppano tattiche condivise
+D	Definiscono i piani di produzione
+
+2	Una delle principali caratteristiche che ha positivamente influenzato la diffusione di tali tecnologie è:
+A	La pervasività
+B	La rigidità
+@C	La facilità di utilizzo
+D	Il grado di formalizzazione
+
+3	I Knowledge Management Tool tradizionali (e.g. Intranet, Corporate, Portali aziendali etc.) si 	caratterizzano per:
+A	Una forte flessibilità
+B	Un'estrema facilità di utilizza
+C	Una bassa formalizzazione
+@D	Un'eccessiva rigidità e formalizzazione e incapacità di catturare tutta la conoscenza posseduta dal personale 	aziendale
+
+4	Gli sharing tool permettono:
+A	Di aggregare informazioni disperse
+B	Di creare mappe concettuali
+@C	Di creare e condividere informazioni, conoscenze e contenuti diversi (e.g. foto, video, etc)
+D	Di visualizzare il ragionamento sviluppato
+
+5	I funnelling tool permettono:
+A	Di creare mappe concettuali
+B	Di creare e condividere informazioni, conoscenze e contenuti diversi (e.g. foto, video, etc)
+C	Di visualizzare il ragionamento sviluppato
+@D	Di aggregare informazioni disperse e individuare la "posizione" di maggioranza
+
+6	Gli argument mapping tool permettono:
+@A	Di rappresentare la conoscenza come una mappa
+B	Di creare e condividere informazioni, conoscenze e contenuti diversi (e.g. foto, video, etc)
+C	Di comunicare facilmente
+D	Di aggregare informazioni disperse e individuare la "posizione" di maggioranza
+
+7	I principali limiti dei funnelling tool sono:
+A	Il contenuto è ridondante
+@B	Possono essere utilizzati solo per problemi ben strutturati e non mostrano il ragionamento sviluppato
+C	La conoscenza creata è difficile da valutare
+D	Possono essere utilizzati solo per problemi non strutturati
+
+8	Indicare gli strumenti che presentano alcuni limiti se utilizzati in ambiti specifici secondo la letteratura:
+@A	Sharing tool
+B	Funnelling tool
+C	Prediction Market
+D	Argument Mapping tool
+
+9	Uno dei principali limiti degli sharing tool è:
+A	Possono essere utilizzati solo per problemi ben strutturati
+B	Non facilitano la comunicazione
+@C	Ridondanza dei contenuti
+D	Non mostrano il ragionamento sviluppato
+
+
+10	Il prosumer è:
+@A	Una nuova tipologia di cliente coinvolto nei processi produttivi delle imprese
+B	Una nuova tipologia di cliente coinvolto nei processi di definizione strategica
+C	Una nuova tipologia di cliente coinvolto nei processi di definizione degli obiettivi aziendali
+D	Una nuova tipologia di cliente coinvolto nei processi di scelta delle fonti di finanziamento
+
+
+<Lezione 35
+
+1	La Programmazione e Controllo possono essere analizzate come:
+A	Processo
+@B	Processo e Funzione
+C	Funzione
+D	Attività aziendali
+
+2	La programmazione può essere intesa come:
+@A	Quel processo che, una volta determinati gli obiettivi strategici da perseguire, individua le azioni da porre in 	essere nel breve periodo e le risorse da utilizzare
+B	Quel processo volto a fornire le informazioni necessarie al soggetto economico per cercare di comprendere la 	validità delle scelte effettuate e delle azioni avviate
+C	Quel processo volto a misurare gli obiettivi raggiunti
+D	Quell'insieme di attività volte a definire i meccanismi di retroazione
+
+3	Il controllo può essere definito come:
+A	Quel processo volto a misurare gli obiettivi raggiunti
+B	Quel processo che, una volta determinati gli obiettivi strategici da perseguire, individua le azioni da porre in 	essere nel breve periodo e le risorse da utilizzare
+C	Quell'insieme di attività volte a supportare la pianificazione strategica
+@D	Quel processo volto a fornire le informazioni necessarie al soggetto economico per cercare di comprendere la 	validità delle scelte effettuate e delle azioni avviate
+
+4	Il controllo direzionale è quel processo:
+A	Attraverso il quale si verifica l'efficacia e l'efficienza nel portare avanti determinate azioni per il 	raggiungimento degli obiettivi prefissati
+B	Attraverso il quale il management definisce la strategia da perseguire
+@C	Attraverso il quale il management si assicura che le risorse siano utilizzate efficacemente ed efficientemente 	per il raggiungimento degli obiettivi prefissati
+D	Attraverso il quale il management definisce gli obiettivi da perseguire
+
+5	Controllo operativo: processo:
+A	Attraverso il quale il management definisce la strategia da perseguire
+@B	Attraverso il quale si verifica l'efficacia e l'efficienza nel portare avanti determinate azioni per il 	raggiungimento degli obiettivi prefissati
+C	Attraverso il quale il management definisce gli obiettivi da perseguire
+D	Attraverso il quale il management si assicura che le risorse siano utilizzate efficacemente ed efficientemente 	per il raggiungimento degli obiettivi prefissati
+
+6	Il processo di controllo si basa su:
+@A	Meccanismi di retroazione
+B	Meccanismi operativi
+C	Procedure operative
+D	Operazioni specifiche
+
+7	Il feed-forward può essere definito come:
+A	Un meccanismo di retroazione evoluto in quanto si aziona dopo della rilevazione dello scostamento
+B	Meccanismo operativo evoluto
+C	Un meccanismo di retroazione che permette di avviare azioni correttive sulla base della rilevazione dei risultati 	ottenuti
+@D	Un meccanismo di retroazione evoluto in quanto si aziona prima della rilevazione dello scostamento
+
+8	La mappa delle responsabilità permette di:
+A	Definire la struttura organizzativa
+@B	Individuare i vari livelli decisionali
+C	Individuare i livelli operativi
+D	Individuare le aree critiche
+
+9	Nei centri di costo è possibile:
+A	Assegnare all'area un tetto massimo di spesa da non superare
+B	Assegnare obiettivi in termini di risultati operativi
+@C	Definire una relazione diretta tra risorse impiegate e risultati ottenuti ed il costo è la variabile da tenere sotto 	controllo
+D	Introdurre ulteriori elementi di controllo circa l'entità degli investimenti
+
+10	Nei centri di investimento è possibile:
+@A	Introdurre ulteriori elementi di controllo circa l'entità degli investimenti
+B	Assegnare obiettivi in termini di risultati operativi
+C	Assegnare all'area un tetto massimo di spesa da non superare
+D	Definire una relazione diretta tra risorse impiegate e risultati ottenuti ed il costo è la variabile da tenere sotto 	controllo
+
+
+<Lezione 36
+
+1	Il controllo di gestione deve affrontare i seguenti problemi:
+A	Definizione obiettivi e analisi degli scostamenti
+@B	Definizione obiettivi, rilevazione dei risultati, analisi degli scostamenti
+C	Definizione obiettivi e rilevazione dei risultati
+D	Pianificazione strategica
+
+2	La contabilità generale permette di:
+@A	Annotare tutte le movimentazioni economiche e finanziarie con l'esterno e conduce alla determinazione del 	risultato economico e del capitale di funzionamento
+B	Verificare eventuali scostamenti tra i dati del budget e quelli consuntivi
+C	Analizzare gli scostamenti
+D	Comunicare al management i risultati raggiunti
+
+3	L'analisi degli scostamenti permette di:
+A	Rappresentare i dati raccolti
+B	Annotare tutte le movimentazioni economiche e finanziarie con l'esterno e conduce alla determinazione del 	risultato economico e del capitale di funzionamento
+C	Comunicare al management i risultati raggiunti
+@D	Verificare eventuali scostamenti tra i dati del budget e quelli consuntivi
+
+4	Il reporting permette di:
+A	Verificare eventuali scostamenti tra i dati del budget e quelli consuntivi
+B	Rappresentare i dati raccolti
+@C	Indirizzare agli organi e ai responsabili le informazioni da utilizzare per l'adozione delle varie decisioni in 	funzione delle diverse responsabilità degli organi
+D	Annotare tutte le movimentazioni economiche e finanziarie con l'esterno e conduce alla determinazione del 	risultato economico e del capitale di funzionamento
+
+5	Il processo di budgeting può essere definito come:
+@A	L'insieme delle decisioni ed operazioni mediante le quali gli organi dell'azienda raggiungono l'accordo 	sull'impiego delle risorse, definiscono gli obiettivi da raggiungere e valutano gli scostamenti
+B	L'insieme delle attività volte alla definizione dei meccanismi di retroazione
+C	L'insieme delle decisioni ed operazioni mediante le quali gli organi dell'azienda raggiungono l'accordo sulle 	strategie da attuare
+D	L'insieme delle decisioni ed operazioni mediante le quali gli organi dell'azienda definiscono esclusivamente i 	risultati da raggiungere
+
+6	Il budget può essere definito come:
+A	Un documento a carattere tecnico che si compone di ulteriori documenti che rappresentano in termini 	economico-finanziari gli obiettivi attesi
+@B	Un documento a carattere amministrativo che si compone di ulteriori documenti che rappresentano in termini 	economico-finanziari gli obiettivi attesi
+C	Un documento a carattere amministrativo che si compone di ulteriori documenti che contengono dati 	consuntivi circa l'attività aziendale
+D	Un documento necessario alla redazione del bilancio
+
+7	L'impiego di dati standard significa:
+A	Poter influenzare il comportamento del management
+B	Poter influenzare il comportamento del proprietario
+@C	Poter influenzare il comportamento degli individui in base agli obiettivi espressi in termini economico-	finanziari
+D	Poter influenzare l'andamento di mercato
+
+8	Lo strategic planner si occupa:
+A	Dell'analisi degli scostamenti
+B	Di avviare i meccanismi di retroazione
+C	Di realizzare i report per la direzione e la supporta nell'analisi degli scostamenti
+@D	Della valutazione della veridicità degli obiettivi (globali e parziali) prefissati nel budget
+
+9	Il controller si occupa:
+A	Della valutazione della veridicità degli obiettivi (globali e parziali) prefissati nel budget
+B	Di redigere il budget
+@C	Di realizzare i report per la direzione e la supporta nell'analisi degli scostamenti
+D	Di attivare i meccanismi di retroazione
+
+10	La separazione tra le figure organizzative del planner e del controller favorisce:
+@A	Uno scostamento tra le fasi della programmazione e del controllo con conseguenti problemi per l'azienda
+B	Difficoltà di comunicazione all'interno dell'impresa
+C	Difficoltà tecniche e procedurali nel controllo di gestione
+D	Problemi di competitività
+
+
+<Lezione 37
+
+1	Con riferimento alla funzione Organizzazione e Personale, vi è una tendenza verso:
+A	La separazione delle attività in due funzioni
+@B	L'accorpamento e fusione dei compiti e delle responsabilità inerenti la gestione e sviluppo del personale, la
+	progettazione organizzativa e dei meccanismi operativi
+C	Lo sviluppo asincrono delle attività svolte
+D	Il non coordinamento delle attività svolte
+
+2	La progettazione macro consiste nella:
+A	Definizione dei compiti
+B	Definizione delle mansioni
+@C	Definizione della struttura e dei meccanismi operativi
+D	Definizione dei piani strategici
+
+3	La progettazione micro consiste nella:
+A	Definizione della struttura e dei meccanismi operativi
+B	Definizione dei piani strategici
+@C	Definizione dei compiti e delle mansioni
+D	Definizione degli obiettivi da raggiungere
+
+
+4	Al crescere della dimensione aziendale, corrisponde:
+@A	Un incremento della formalizzazione, standardizzazione e codificazione dei meccanismi operativi
+B	Una riduzione della formalizzazione
+C	Un aumento della flessibilità aziendale
+D	Un appiattimento della struttura organizzativa
+
+5	Ambienti dinamici e turbolenti richiedono strutture organizzative:
+A	Rigide e formalizzate
+B	Con forte ricorso alla burocrazia
+C	Con forte accentramento del potere decisionale
+@D	Flessibili e capaci di adattarsi ai cambiamenti in tempi brevi
+
+6	Uno stile di direzione di tipo autoritario è adatto in contesti con:
+A	Personale qualificato e con bisogni di autonomia e responsabilizzazione
+B	Forte accentramento del potere decisionale
+@C	Personale scarsamente qualificato e poco incline ad accettare responsabilità
+D	Forte decentramento del potere decisionale
+
+7	Uno stile di direzione di tipo partecipativo è adatto in contesti con:
+A	Forte accentramento del potere decisionale
+@B	Personale qualificato e con bisogni di autonomia e responsabilizzazione
+C	Forte decentramento del potere decisionale
+D	Personale scarsamente qualificato e poco incline ad accettare responsabilità
+
+8	La definizione di uno o più profili critici permette alle aziende di:
+@A	Segmentare il personale in classi e utilizzare strumenti di gestione e organizzazione creati ad hoc
+B	Utilizzare strumenti di gestione e organizzazione del personale standardizzati
+C	Di definire un unico strumento di gestione e organizzazione del personale per tutta l'azienda
+D	Di ridurre le resistenze al cambiamento organizzativo
+
+9	Gli elementi che influenzano la risposta psicologica alle mansioni assegnate sono:
+A	Numero e tipologia
+B	Flessibilità
+C	Standardizzazione delle attività
+@D	Varietà, identità, significatività e grado di autonomia
+
+10	Il processo di cambiamento organizzativo può essere:
+A	Solo top-down
+B	Solo bottom-up
+@C	Top-down (deliberato) o bottom-up (emergente)
+D	Partecipativo

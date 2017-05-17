@@ -26,7 +26,7 @@ public class DocGenerator
 
     public static void main(String[] argv) throws Exception
     {
-        String fileName = "risposte-ordinate";
+        String fileName = "risposte-ordinate-aziendale";
 
         System.out.println("START");
 
@@ -35,8 +35,8 @@ public class DocGenerator
 
         entityManager.getTransaction().begin();
 
-        Query query = entityManager.createQuery("FROM Question ORDER BY testo ASC");
-        List<Question> questions = query.getResultList();
+        Query queryQuestions = entityManager.createQuery("FROM Question WHERE lesson.exam.description = 'Gestione Aziendale' ORDER BY testo ASC");
+        List<Question> questions = queryQuestions.getResultList();
 
         Query query2 = entityManager.createQuery("FROM Answer WHERE domanda IN :domande AND corretta = TRUE ORDER BY domanda.testo ASC");
         query2.setParameter("domande", questions);

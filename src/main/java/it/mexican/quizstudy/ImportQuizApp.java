@@ -35,13 +35,13 @@ public class ImportQuizApp
 
         entityManager.getTransaction().begin();
 
-        File quizFile = new File("src/main/resources/quiz-aziendale.txt");
+        File quizFile = new File("src/main/resources/quiz-impianti-industriali.txt");
         if(!quizFile.exists()){
             return;
         }
 
         Exam exam = new Exam();
-        exam.setDescription("Gestione Aziendale");
+        exam.setDescription("Sicurezza degli Impianti Industriali");
         entityManager.persist(exam);
 
         Scanner scanner = new Scanner(quizFile);
@@ -79,10 +79,14 @@ public class ImportQuizApp
 
             //Si tratta di una risposta
             else if (i < 4 &&
-                    ((currentLine.startsWith("A") || currentLine.startsWith("@A"))) ||
-                    ((currentLine.startsWith("B") || currentLine.startsWith("@B"))) ||
-                    ((currentLine.startsWith("C") || currentLine.startsWith("@C"))) ||
-                    ((currentLine.startsWith("D") || currentLine.startsWith("@D"))) )
+                    ((currentLine.startsWith("A") || currentLine.startsWith("@A")
+                            || currentLine.startsWith("a") || currentLine.startsWith("@a") )) ||
+                    ((currentLine.startsWith("B") || currentLine.startsWith("@B")
+                            || currentLine.startsWith("b") || currentLine.startsWith("@b") )) ||
+                    ((currentLine.startsWith("C") || currentLine.startsWith("@C")
+                            || currentLine.startsWith("c") || currentLine.startsWith("@c") )) ||
+                    ((currentLine.startsWith("D") || currentLine.startsWith("@D")
+                            || currentLine.startsWith("d") || currentLine.startsWith("@d"))) )
             {
                 boolean isTrue = false;
                 if (currentLine.startsWith("@"))

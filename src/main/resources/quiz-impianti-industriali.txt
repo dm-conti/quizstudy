@@ -1,0 +1,2615 @@
+<Lezione 1
+
+1	Per competere sugli attuali scenari di mercato le aziende devono ricercare l'eccellenza in alcuni aspetti differenti, ma fortemente interconnessi tra loro:
+@A	Produttività, qualità e sicurezza
+B	Produttività e qualità
+C	Produttività e sicurezza
+D	Sicurezza e qualità
+
+2	La flessibilità di un sistema di produzione riguarda la sua capacità di:
+A	Modificare la quantità di produzione senza modificare sensibilmente la sua 	struttura o configurazione
+@B	Realizzare contemporaneamente diversi prodotti espressione di un'ampia 	gamma di produzione
+C	Modificare la qualità di produzione senza modificare sensibilmente la sua 	struttura
+D	Attribuire ai propri prodotti/servizi standard crescenti di qualità
+
+3	Nello scenario competitivo attuale, un sistema produttivo:
+A	Non contribuisce a conseguire gli obiettivi di business
+B	Deve conseguire un solo obiettivo di produzione
+@C	Deve conseguire al contempo diversi obiettivi tra cui ridotto tempo di 	attraversamento del sistema; elevato livello qualitativo del prodotto e dei processi produttivi; e contenimento dei costi di produzione
+D	Non ha obiettivi di produzione specifici da conseguire
+
+4	Focalizzandosi sul binomio prodotto-processo, le leve a disposizione delle 	aziende per competere in uno scenario multi-obiettivo sono:
+A	Riconducibili solamente legate alle caratteristiche del prodotto
+B	Solamente legate alle caratteristiche del processo produttivo
+@C	Derivanti da una coerente definizione delle caratteristiche di prodotto, processo e sistema di produzione
+D	Unicamente dipendenti dal sistema di produzione
+
+5	La corretta definizione del prodotto:
+A	Dovrebbe considerare solo le richieste del mercato
+B	Deve tenere unicamente in conto l'offerta della concorrenza
+C	Prescinde completamente dal processo di produzione
+@D	Dovrebbe considerare attentamente anche aspetti legati alla fase di realizzazione
+
+6	La progettazione di un sistema di produzione:
+@A	Deve considerare tutti gli aspetti rilevanti che iniziano con l'analisi della domanda di mercato e che si completano con la corretta schedulazione 	delle attività di
+	realizzazione del sistema di produzione
+B	Riguarda unicamente la definizione delle specifiche del sistema di 	produzione
+C	Si compone solo di un'analisi di fattibilità
+D	Non si occupa della corretta pianificazione del realizzazione del sistema di produzione
+
+7	La gestione di un sistema di produzione:
+@A	Riferendosi alla produttività del sistema di produzione, è riconducibile alla gestione delle scorte, e alla pianificazione della produzione
+B	Non ha alcun impatto sulla produttività e rediditivà del sistema di produzione
+C	Riguarda solamente il problema di pianificazione della produzione
+D	Riguarda unicamente il problema di gestione delle scorte di magazzino
+
+8	Il successo di una strategia di produzione:
+A	Dipende unicamente dalla scelta del tipo di prodotto da offrire al mercato
+@B	Dipende dalla coerenza tra scelte di prodotto e di processo e dalla loro conformità alle priorità strategiche individuate dal vertice aziendale
+C	Dipende solamente dalla scelta di sistema di produzione adottato
+D	Non dipende dagli obiettivi strategici aziendali
+
+9	La strategia di posizionamento di prodotto:
+A	Non dipende dal grado di personalizzazione del prodotto
+@B	Ѐ funzione sia del grado di personalizzazione del prodotto sia del tempo di attesa del cliente e del tempo
+C	Ѐ indipendente dal tempo di produzione
+D	Non dipende dal tempo di attesa del cliente
+
+10	Nella matrice prodotto-processo:
+A	Uno scostamento al di sopra della diagonale principale produce soluzioni poco efficaci (prodotti scarsamente personalizzati)
+B	Non sono riportate congiuntamente le scelte di posizionamento di prodotto e processo
+@C	Sono evidenziati sulla diagonale principale gli accoppiamenti ideali prodotto-processo
+D	Uno scostamento al di sotto della diagonale principale produce soluzioni poco efficienti (prodotti troppo costosi rispetto grado di standardizzazione richiesto)
+
+<Lezione 2
+
+1	Unità produttive complesse, integrate ed automatizzate ad alta intensità di capitale:
+@A	Richiedono grande attenzione ai temi della programmazione e controllo della produzione
+B	Non richiedono attenzione ai temi della programmazione e controllo della produzione
+C	Non necessitano di procedure di pianificazione per massimizzare l'utilizzazione del capitale investito
+D	Non sono impiegate negli attuali scenari produttivi
+
+2	Le esigenze sempre più pressanti sul fronte del livello di servizio e della riduzione dei tempi di attraversamento del prodotto:
+A	Non hanno nessuna relazione con un'adeguata pianificazione e controllo della produzione
+@B	Potrebbero essere soddisfatte da una maggiore attenzione alla pianificazione e controllo della produzione
+C	Sono carattestiche solo di alcuni settori industriali
+D	Richiedono solamente soluzioni tecnologiche adeguate
+
+3	Nell'ambito della Pianificazione della Produzione:
+A	Non si considerano le risorse di produzione
+B	Non si considerano i livelli di scorte per parti e componenti
+C	Si considerano solamente i processi produttivi a monte della catena di 	fornitura
+@D	Si intende con 'Produzione' tutte le attività che permettono di rendere disponibili prodotti in quantità prefissate a scadenze prefissate e con determinati livelli qualitativi e di costo
+
+4	La pianificazione della produzione industriale:
+A	Non richiede un orizzonte temporale di riferimento
+B	Non richiede la scansione temporale dei volumi di produzione
+@C	Consiste nella formulazione e gestione dei piani di produzione
+D	Rappresenta una novità assoluta nelle moderne realtà aziendali
+
+5	Un'azienda manifatturiera:
+A	Non si distingue in alcun modo da un'azienda di servizi
+@B	Si distingue dalle aziende di servizi per la fase di produzione, ovvero la 	trasformazione di materie prime, energia e lavoro in prodotti finiti
+C	Non utilizza materie prime e componenti
+D	Non impiega un sistema di produzione
+
+6	In termini pratici, la pianificazione della produzione:
+@A	Traduce la domanda dei clienti in una serie di output quali ordini di 	produzione, ordini di acquisto e decisioni riguardo le risorse produttive 	necessarie in futuro
+B	Non considera le previsioni di domanda
+C	Non considera ordini da parte dei clienti
+D	Considera una disponibilità infinita delle risorse di produzione
+
+7	Il sequenziamento e la schedulazione delle lavorazioni sulle singole 	macchine e nei vari centri di lavoro:
+@A	Rappresenta uno degli output della pianificazione della produzione
+B	Rappresenta uno degli input della pianificazione della produzione
+C	Non ha alcuna attinenza con la pianificazione della produzione
+D	Non rappresenta uno degli output della pianificazione della produzione
+
+8	L'approccio gerarchico:
+@A	Scompone e risolve un problema complessivo facendo riferimento a sotto-	problemi più semplici
+B	Non può essere applicato alla pianificazione della produzione
+C	Non utilizza il risultato di un sotto-problema come input per il sotto-	problema successivo
+D	Non è utile nell'affrontare la pianficazione della produzione
+
+9	La pianificazione di lungo periodo (strategica):
+A	Richiede il raggruppamento degli articoli prodotti in più famiglie, sulla 	base delle loro caratteristiche
+B	È successiva alla fase di pianificazione dei fabbisogni di componenti e 	materie prime
+C	Fornisce lo stato di avanzamento delle lavorazioni con una certa frequenza
+@D	Solitamente considera come periodo di riferimento l'anno o più anni
+
+10	In un generico sistema di programmazione e controllo della produzione:
+A	Il rilievo di ciascuna attività non dipende fortemente dalle 	caratteristiche della realtà aziendale considerata
+B	Non è preferibile il supporto di opportuni sistemi informatici
+@C	Ѐ necessaria la presenza di un sistema retro-azione a valle della fase di 	controllo di avanzamento
+D	Non vengono realizzate attività di verifica della capacità produttiva
+
+<Lezione 3
+
+1	La Pianificazione Aggregata della Produzione:
+A	Segue la pianificazione strategica o di lungo periodo
+@B	Riguarda tutte le risorse aziendali
+C	Non prevede riconciliazione tra capacità produttiva necessaria e 	disponibile
+D	Rientra sotto la sfera d'influenza esclusiva della funzione Produzione
+
+2	L' 'aggregazione' dei prodotti in famiglie:
+A	Non permette di ridurre l'entità dell'errore di previsione
+@B	Riduce la complessità del problema decisionale di pianificazione
+C	Riguarda solo pochi prodotti di quelli complessivamente realizzati 	dall'azienda
+D	Non contribuisce a migliorare la consapevolezza delle decisioni prese
+
+3	Il piano aggregato di produzione ha lo scopo di fornire il programma delle 	attività produttive sul medio termine ovvero:
+A	Su un intervallo temporale necessariamente di 1-3 anni
+B	Su un intervallo temporale di 4 settimane
+@C	Su un intervallo temporale, in generale, di 6-24 mesi
+D	Su un intervallo temporale giornaliero
+
+4	La capacità dell'azienda di essere flessibile ed elastica:
+A	Non incide sulla dimensione dell'orizzonte temporale di pianificazione né 	sulla grandezza dei singoli intervalli elementari
+@B	Dimuniusce l'orizzonte di pianificazione ed il singolo periodo temporale
+C	Aumenta l'orizzonte di pianificazione ed il singolo periodo temporale
+D	Migliora in generale la qualità dell'attività di pianificazione
+
+5	I cosiddetti piani ricorsivi (o rolling schedule):
+A	Non tengono conto di cambiamenti nelle strategie aziendali
+B	Non permettono di contrastare possibili variabilità della domanda di 	mercato
+C	Non permettono di contrastare possibili variabilità nella capacità 	produttiva del sistema
+@D	Fanno in modo che i dati di previsione della domanda mantengano sempre la 	stessa freschezza
+
+6	Gli «standard rappresentativi» o «dati tecnici rappresentativi »:
+A	Non permettono di calcolare la capacità produttiva disponibile del sistema 	produttivo
+B	Non richiede necessariamente di ricorrere ad uno schema di «aggregazione» 	che raggruppi i prodotti in famiglie il più possibile omogenee
+@C	Sono degli standard di impegno delle risorse produttive relativi a famiglie di prodotti e quindi sono di natura «aggregata»
+D	Sono degli standard di impegno delle risorse produttive relativi ai singoli prodotti da realizzare
+
+7	La determinazione della capacità produttiva necessaria:
+@A	Nel caso di produzioni omogenee (un unico prodotto o un'unica famiglia) potrebbe fare riferimento agli output ottenibili nell'unità di tempo (ad 	es. pezzi/giorno)
+B	Richiede, come unico input, le previsioni di vendita
+C	Non tiene conto in nessun modo dell'entità dei lotti di produzione e dell'entità delle scorte di sicurezza desiderate
+D	Non richiede l'utilizzo della stessa unità di quella disponibile al fine di permetterne il confronto
+
+8	La strategia di livellamento:
+A	Comporta dei costi svincolati da quelli inerenti il mantenimento delle 	scorte
+@B	Consiste nel mantenere costante il tasso di produzione e la forza lavoro, durante ogni periodo dell'orizzonte di pianificazione, assorbendo le fluttuazioni della domanda accumulando o decumulando scorte
+C	Viene implementata in tutti quei casi in cui la domanda non è prevedibile o è difficile intervenire su di essa e non è difficile e/o costoso variare 	il livello di risorse a disposizione
+D	Ha come obiettivo quello di inseguire la domanda realizzando, in ogni periodo, l'esatto quantitativo da essa richiesto
+
+9	La strategia di caccia:
+A	Comporta dei costi principalmente legati a quelli di mantenimento delle scorte
+B	Consiste nel mantenere costante il tasso di produzione e la forza lavoro, durante ogni periodo dell'orizzonte di pianificazione, assorbendo le fluttuazioni della domanda accumulando o decumulando scorte
+@C	Ha come obiettivo quello di inseguire la domanda realizzando, in ogni periodo, l'esatto quantitativo da essa richiesto
+D	Consente di raggiungere elevati coefficienti di utilizzazione, alta produttività con bassi costi unitari e livelli di impiego della manodopera 	stabili
+
+10	Nella scelta del piano che risulta fattibile tecnicamente e che minimizza 	i costi totali, Il costo di set-up:
+A	Si sostiene quando non si può soddisfare in termini di tempo o quantità la 	richiesta di un cliente
+B	Sono dovuti alla variazione, incremento o decremento, del tasso di 	produzione da un periodo al successivo
+C	Ѐ un costo sostenuto per le assunzioni, addestramento, licenziamento del 	personale e per il ricorso alla cassa
+@D	Ѐ il costo causato da una variazione del ritmo produttivo o da un cambio 	di codice da processare e attiene strettamente macchine ed attrezzature
+
+
+<Lezione 4
+
+1	Il piano principale di produzione:
+A	Ѐ necessario indipendentemente dalla modalità di risposta alla domanda 	dell'azienda
+@B	Deriva dal fatto che i piani aggregati di produzione sono troppo generali 	e sintetici per essere usati per la programmazione di medio/breve periodo
+C	Pianifica su famiglie di proditti
+D	Non considera le risorse collo di bottiglia del processo di produzione
+
+2	Il piano principale di produzione:
+@A	Definisce quantità e tempi di realizzazione per i prodotti considerati 	individualmente
+B	Pianifica la produzione di tutti i codici della distinta base
+C	Non collega le politiche manageriali con la produzione
+D	Non considera gli ordini specifici dei clienti
+
+3	Gli input di un MPS:
+A	Non rigurdano la pianificazione aggregata
+B	Non comprendono previsioni di medio-periodo
+C	Non tengono conto delle caratteristiche dei prodotti da pianificare
+@D	Comprendono il lead time di produzione del prodotto
+
+4	Il piano principale di produzione:
+A	Non dipende dal confronto tra il tempo di attesa concesso dal cliente 	(Delivery Time, DT) con il tempo di attraversamento del prodotto 	(Cumulative Lead Time, CLT)
+B	Ѐ sempre necessario
+@C	Dipende fortemente dalla tipologia di azienda e, in particolar modo, dalle 	differenti modalità di risposta al mercato
+D	Non subisce modifiche nel tempo
+
+5	Un'azienda del tipo Make To Stock:
+A	Sono quelle aziende i cui clienti sono disposti ad attendere un tempo 	sufficiente a coprire le fasi finali di assemblaggio
+@B	Sono quelle aziende in cui gli articoli considerati a livello di 	formulazione del piano principale di produzione coincidono con i prodotti 	finali della distinta base
+C	Sono quelle aziende in cui tutte le fasi di produzione vengono lanciate 	dagli ordini cliente
+D	Sono quelle aziende per le quali il tempo di attesa del mercato si spinge 	sino ad abbracciare anche le fasi di progettazione
+
+6	Un'azienda del tipo ETO:
+A	Sono quelle aziende in cui gli articoli considerati a livello di 	formulazione del piano principale di produzione coincidono con i prodotti 	finali della distinta base
+B	Sono quelle aziende in cui tutte le fasi di produzione vengono lanciate 	dagli ordini cliente
+C	Sono quelle aziende i cui clienti sono disposti ad attendere un tempo 	sufficiente a coprire le fasi finali di assemblaggio
+@D	Sono quelle aziende per le quali il tempo di attesa del mercato si spinge 	sino ad abbracciare anche le fasi di progettazione
+
+7	L'efficacia dell'attività di pianificazione di medio periodo:
+@A	Richiede che il piano principale di produzione abbia un orizzonte di pianificazione uguale o maggiore del lead time cumulativo del prodotto o 	servizio di cui si sta pianificando la produzione
+B	Dipende unicamente dai prodotti scelti per la pianificazione
+C	Non dipende dall'estensione dell'orizzonte di pianificazione
+D	Richiede un orizzonte di pianificazione di almeno 3 mesi
+
+8	Le modifiche al piano principale di produzione:
+A	Sono sempre possibili indipendemente dal momento in cui esse si manifestano
+B	Sono innescate solo da modifiche di mercato
+C	Non sono mai possibili
+@D	Non sono possibili all'interno del 'demand time fence'
+
+9	Nella fase di progettazione del Master Schedule:
+A	Si valuta la disponibilità a promettere
+B	Si rivaluta il livello di scorta per capire se la produzione pianificata è sufficiente a coprire tali ordini o se è necessario rivedere nuovamente il 	MPS o la capacità
+@C	Tra le altre cose, si individuano gli items oggetto della pianificazione
+D	Viene sviluppata una verifica di fattibilità del piano
+
+10	Nella fase di controllo del Master Schedule:
+A	Si individuano gli items oggetto della pianificazione
+@B	Si verifica che le quantità pianificate, sulla base delle previsioni di vendita e alla luce della verifica RCCP, permettano di evadere gli ordini 	dei clienti, che 		cominciano ad arrivare
+C	Si individua l'orizzonte di pianificazione
+D	Si definiscono i time fence e le relative regole di comportamento
+
+
+<Lezione 5
+
+1	La Distinta Base (DB) di un prodotto:
+A	Non è uno strumento di supporto per la corretta pianificazione della produzione
+@B	Ѐ l’elenco dei materiali, dei componenti e dei sottoassiemi necessari per produrre un determinato assieme
+C	Riguarda escluvimente la fuzione Produzione
+D	Non è utile ai fini dell'approvigionamento dei materiali
+
+2	La Distinta Base (DB) di un prodotto:
+A	Permette di migliorare la qualità del prodotto
+B	Non supporta il calcolo del costo di prodotto
+@C	Può utilmente affiancare, ed eventualmente sostituire, i disegni 	specificatamente realizzati per indicare le corrette modalità di 	assemblaggio del prodotto
+D	Non permette la gestione efficace ed efficiente delle modifiche di 	prodotto
+
+3	La Distinta Base di Progetto:
+A	Ѐ opportunamente configurata in modo da tenere conto delle macchine 	disponibili e dei cicli di lavoro
+B	Contiene anche informazioni non esclusivamente tecniche, come istruzioni 	di montaggio e di controllo, tempi di rifornimento, nominativi dei 	fornitori, prezzi unitari	d'acquisto ecc
+C	Ѐ costituita da un gruppo di codici fittizi ed è impiegata per migliorare 	il processo di pianificazione della produzione
+@D	Ѐ di solito generata da disegni che descrivono in termini geometrici i 	componenti e sottoassiemi
+
+4	La Distinta Base di Produzione:
+A	Contiene anche informazioni non esclusivamente tecniche, come istruzioni 	di montaggio e di controllo, tempi di rifornimento, nominativi dei 	fornitori, prezzi unitari d'acquisto ecc
+@B	Ѐ opportunamente configurata in modo da tenere conto delle macchine 	disponibili e dei cicli di lavoro realizzabili
+C	Ѐ di solito generata da disegni che descrivono in termini geometrici i 	componenti e sottoassiemi
+D	Contiene anche informazioni non esclusivamente tecniche, come istruzioni 	di montaggio e di controllo, tempi di rifornimento, nominativi dei 	fornitori, prezzi unitari	d'acquisto ecc
+
+5	La Distinta Base di Pianificazione:
+@A	Nel caso di Family Bill, individua un gruppo di prodotti omogenei sotto il 	profilo progettuale e produttivo
+B	Contiene anche informazioni non esclusivamente tecniche, come istruzioni 	di montaggio e di controllo, tempi di rifornimento, nominativi dei 	fornitori, prezzi unitari d'acquisto ecc
+C	Nel caso di Family Bill, è una distinta il cui livello 0 è costituito dal 	cosiddetto prodotto medio
+D	Nel caso di Super Bill, è una distinta base modulare che codifica tutte le 	versioni di prodotto finito realizzate a partire dalla combinazione di un 	certo numero di 	opzioni
+
+6	In una distinta base:
+A	Normalmente non sono riportati i fabbisogni quantitativi di ogni 	componente in essa presente
+B	Normalmente viene riportatoì il fabbisogno del solo codice padre
+@C	Per un certo codice, il coefficiente d'impiego rappresenta il numero di 	unità necessarie alla costituzione di una unità dell'assieme al livello 	superiore
+D	Non sono contentute informazioni di tipo logistico
+
+7	La rappresentazione tabellare di una distinta base:
+A	Non presenta facilità di consultazione e di aggiornamento
+B	Assume la nota configurazione ad albero
+C	Ѐ consigliata quando si desidera mettere maggiormente in evidenza la 	struttura di un prodotto
+@D	Riporta solo gli elementi che entrano a far parte di un assieme, senza 	alcuna indicazione sulle relazioni strutturali che intercorrono tra quest'ultimo e le sue parti componenti
+
+8	La rappresentazione grafica di una distinta base:
+@A	Permette di raffigurare il prodotto in forma esplosa, evidenziando così 	non solo le singole parti componenti l'assieme, ma anche il livello di 	trasformazione o di
+	assemblaggio in cui tali parti intervengono
+B	Riporta solo gli elementi che entrano a far parte di un assieme, senza 	alcuna indicazione sulle relazioni strutturali che intercorrono tra 	quest'ultimo e le sue
+	parti
+	componenti
+C	Non risente della complessità della struttura del prodotto in esame
+D	Non è consigliata quando si desidera mettere maggiormente in evidenza la 	struttura di un prodotto
+
+9	L'esplosione di una distinta base:
+A	Nel caso di esplosione ad un livello, riassume tutto quello che è 	necessario per realizzare un'unità di prodotto finito
+B	Ѐ l'unica forma di interrogazione con cui estrarre le informazioni da essa
+@C	Ѐ il processo di trasformazione di un prodotto nei suoi componenti diretti 	o nei suoi sottocomponenti
+D	Nel caso di esplosione ad un livello, è l'elenco di tutti i codici in cui 	viene utilizzato un determinato codice
+
+10	L'implosione di una distinta base:
+A	Nel caso di implosione ad un livello, riassume tutto quello che è 	necessario per realizzare un'unità di prodotto finito
+B	Ѐ il processo di trasformazione di un prodotto nei suoi componenti diretti 	o nei suoi sottocomponenti
+C	Nel caso di implosione ad un livello, è l'elenco di tutti i codici in cui 	viene utilizzato un determinato codice
+@D	Ѐ una delle possibili forme di interrogazione con cui estrarre le 	informazioni da essa
+
+
+<Lezione 6
+
+1	In un'azienda manifatturiera, qualunque essa sia, la risposta alla domada 	"che cosa produrre?":
+A	E' fornita dal contenuto della distinta base
+@B	E' fornita dal contenuto del Piano Principale di Produzione
+C	E' fornita dal piano MRP
+D	E' fornita dall'interrogazione dei record inventariali
+
+2	Il Piano dei Fabbisogni dei Materiali:
+A	Contiene solo gli ordini di acquisto verso i fornitori
+B	Contiene solo ordini interni di produzione/aasemblaggio
+@C	Contiene anche gli ordini di acquisto verso i fornitori
+D	Non richiede verifiche di capacità
+
+3	La Pianificazione dei Fabbisogni dei Materiali:
+A	Non richiede la conoscenza della distinta base del prodotto
+B	Non richiede la conoscenza dei livelli di scorta dei vari codici
+C	Non adotta lo stesso orizzonte temporale della pianificazione principale 	della produzione
+@D	Non richiede la conoscenza delle strategie aziendali
+
+4	La fase 2 dell'algoritmo MRP:
+A	Richiede la raccolta delle informazioni necessarie
+@B	Prevede la determinazione dei fabbisogni lordi del prodotto da realizzare
+C	Determina i fabbisogni netti del prodotto da realizzare
+D	Prevede l'arrotondamento dei fabbisogni netti in base alle regole di 	lottizzazione
+
+5	Il fabbisogno netto di un certo codice:
+@A	Dipende anche dal suo livello inventariale
+B	Dipende solamente dal corrispondente fabbisogno lordo
+C	Dipende anche dal lead time del codice
+D	Non tiene conto della scorta di sicurezza
+
+6	La fase di Lead Time Offsetting:
+A	Non è strettamente necessaria per il rispetto delle date di consegna del 	codice pianificato
+B	Non richiede la conoscenza del lead time del codice che si sta 	pianificando
+@C	Anticipa il periodo al quale il lotto deve essere disponibile per 	soddisfare il fabbisogno, di un tempo pari al tempo di approvvigionamento 	dell'articolo in esame
+D	Si realizza solo per il codice padre
+
+7	La fase 6 dell'algoritmo MRP:
+A	Richiede la raccolta delle informazioni necessarie
+B	Prevede l'arrotondamento dei fabbisogni netti in base alle regole di 	lottizzazione
+C	Prevede la determinazione dei fabbisogni lordi del prodotto da realizzare
+@D	Realizza l'esplosione della distinta base dell'articolo in esame, allo 	scopo di individuare uno per uno i componenti dell'articolo e di 	determinarne i fabbisogni lordi
+
+8	La dinamicità del sistema MRP:
+@A	Richiede l'aggiornamento dei suoi record nel tempo
+B	E' dovuta unicamente alla variabilità del mercato
+C	Non deriva dallo scostamento tra produzione pianificata e produzione 	effettivamente realizzata
+D	E' dovuta unicamente alla variabilità del processo produttivo
+
+9	Le fonti aggiuntive di domanda per i sistemi MRP:
+A	Non contemplano la Scorta di Sicurezza
+B	Contemplano solo i rendimenti dei processi interni
+@C	Contemplano anche la domanda per parti di ricambio
+D	Contemplano solo i rendimenti dei processi di fornitura
+
+10	L'infattibilità temporale di un piano MRP:
+A	Corrisponde ad un'insufficiente capacità produttiva dei centri di lavoro
+B	Richiede necessariamente la riformulazione del piano MRP
+C	Può essere affrontata solo attraverso un'opportuna scorta di sicurezza
+@D	Può essere affrontata anche attraverso una riduzione del lead time del 	codice in questione
+
+
+<Lezione 7
+
+1	La corretta pianificazione delle attività di produzione:
+A	Non richiede la necessità di pianificare la capacità produttiva
+@B	Richiede una parallela attività di pianificazione della capacità 	produttiva, una per ciascun livello di pianificazione
+C	Richiede un solo livello di verifica della capacità produttiva
+D	Prescinde dai concetti di capacità necessaria e disponibile
+
+2	La pianificazione della capacità:
+A	Non riguarda in nessun modo le risorse di produzione
+B	Riguarda in generale solo le risorse di produzione critiche
+@C	E' il processo di riconciliazione della capacità disponibile per un certo 	processo con quella richiesta da un certo piano di produzione
+D	Non viene effettuata sulle risorse 'collo di bottiglia'
+
+3	La verifica grezza della capacità:
+A	Verifica la fattibilità di un piano aggregato di produzione
+B	Viene definita grezza dal momento che considera tutti le risorse 	produttive
+C	Non produce mai mofiche al piano principale di produzione
+@D	Consente la formulazione di un piano provvisorio di capacità allo scopo di 	valutare la fattibilità del piano principale di produzione
+
+4	La capacità disponibile di una risorsa produttiva:
+A	Non deve tenere conto delle indisponibilità legate a vari aspetti 	logistico-produttivi
+@B	Dipende dal numero complessivo di risorse della stessa tipologia
+C	Non dipende dall'efficienza di utilizzo della risorsa stessa
+D	Non è rischiesta ai fini della valutazione dei fabbisogni di capacità 	produttiva
+
+5	Il metodo dei fattori aggragti:
+@A	La percentuale storica di impiego di ciascun centro indipendentemente dal 	prodotto realizzato
+B	Richiede l'utilizzo delle cosiddette distinte di capacità
+C	Non necessità delle informazioni derivanti dal Piano Principale di 	Produzione
+D	E' una tecnica per la valutazione della capacità disponibile
+
+6	Il metodo dei profili di risorse:
+A	Non necessità delle informazioni derivanti dal Piano Principale di 	Produzione
+B	E' una tecnica per la valutazione della capacità disponibile
+@C	Tiene conto del fatto che un ordine MPS relativo ad un certo periodo per 	il prodotto finito genera fabbisogni di capacità nei periodi precedenti in 	virtù dei lead time del prodotto stesso e dei suoi componenti
+D	Richiede l'utilizzo delle cosiddette distinte di capacità
+
+7	L'MRP a ciclo chiuso:
+A	Non differisce sostanzialmente dall'MRP nella sua forma originale
+B	Non considera gli ordini aperti per definire la capacità produttiva 	necessaria
+C	Non tiene conto della capacità dei vari centri di produzione
+@D	Considera anche la capacità dei vari centri di lavoro
+
+8	Da un punto di vista pratico la verifica CRP:
+@A	Confronta in modo dettagliato la capacità richiesta dal piano MRP e dagli 	ordini aperti, con la capacità disponibile
+B	Non riesce a definire cbe ci sia capacità sufficiente a processare tutti 	gli ordini nell'orizzonte di pianificazione considerato
+C	Considera i carichi di lavoro derivanti solo dagli ordini pianificati
+D	Considera solo i centri di lavoro ciritci
+
+9	Il carico di lavoro derivante dagli ordini pianificati su un certo centro 	di lavoro:
+A	Non viene considerato nella verifica CRP
+B	Non dipende dal tempo di attrezzaggio eventualmenete necessario sul centro 	di lavoro
+@C	Viene normalmente espresso in ore
+D	E' un carico di lavoro che non può essere in nessun modo anticipato o 	posticipato
+
+10	Il livellamento della capacità nella verifica CRP:
+A	Agisce solo sugli ordini aperti
+B	Agisce anche sugli ordini aperti
+C	Non agisce sugli ordini pianificati
+@D	Agisce solo sugli ordini pianificati
+
+
+<Lezione 8
+
+1	La programmazione operativa della produzione:
+A	Precede la pianificazione aggregata
+@B	Ha come obiettivo anche quello di individuare le specifiche risorse 	produttive su cui devono essere effettuati i lotti di produzione
+C	Non è necessaria in tutti i contesti di produzione
+D	Non richiede l'esecuzione preventiva di un MRP
+
+2	Nella programmazione operativa della produzione:
+A	Le attività di pianificazione riguardono le famiglie di prodotti
+B	Non si condierano le date di consegna degli ordini
+@C	L'arco temporale di riferimento può variare, a seconda del contesto 	produttivo
+D	Non si tiene conto degli eventuali attrezzaggi necessari sui vari centri 	di lavoro
+
+3	La pianificazione di breve periodo:
+A	Si concretizza solo nella schedulazione giornaliera o per turno delle attività produttive
+B	Non tiene conto della gestione degli interventi preventivi di manutenzione
+C	Non deve considerare la gestione della movimentazione interna di stabilimento dei materiali durante il flusso produttivo
+@D	Considera anche la gestione della manodopera sui vari centri di lavorazione
+
+4	La schedulazione a capacità finita:
+A	Non considera il vincolo di capacità delle varie risorse di produzione
+@B	Permette di ottenere le sequenze delle operazioni su tutte le macchine in base alla loro effettiva disponibilità in modo da rispettare le date di consegna
+C	Non richiede la conoscenza dei cicli di lavoro dei vari ordini
+D	Ipotizza una capacità produttiva infinita per i vari centri di lavoro
+
+5	Il risultato della schedulazione:
+@A	Fornisce l'insieme delle date di inizio e fine di ciascuna operazione di tutti gli ordini di produzione
+B	Riguarda solo certi ordini di produzione
+C	Non è utile al fine di valutare le date di consegna degli ordini ai clienti
+D	Riguarda solo gli ordini di produzione critici
+
+6	Il processo di schedulazione 'forward':
+A	Carica le operazioni immediatamente, indipendentemente dalla disponibilità di capacità produttiva sulle macchine
+B	Carica le operazioni sulle macchine a ritroso partendo dalla data di consegna
+@C	Permette di individuare la data 'al più presto' di completamento dell'ordine
+D	Permette di individuare le date 'al più tardi' di rilascio delle varie operazioni di un ordine
+
+7	Nella tecnica di 'caricamento orizzontale':
+A	Viene rispettata una rigida sequenza temporale delle operazioni che possono essere rilasciate
+B	Non è possibile sapere, se per le operazioni successive a quella appena rilasciata ed appartenenti allo stesso ordine, sarà disponibile capacità produttiva sufficiente
+C	La schedulazione viene effettuata secondo una sequenza temporale ovvero, per ogni intervallo temporale, si individuano le operazioni che possono essere rilasciate
+@D	L'assegnazione delle operazioni avviene seguendo, secondo un certo criterio di priorità, la successione degli ordini di produzione
+
+8	Nella tecnica di 'caricamento verticale':
+@A	La schedulazione viene effettuata secondo una sequenza temporale ovvero, per ogni intervallo temporale, si individuano le operazioni che possono essere rilasciate
+B	Un centro di lavoro può rimanere inattivo solo perché deve rimanere in attesa di un'operazione che appartiene ad un ordine più importante
+C	L'assegnazione delle operazioni avviene seguendo, secondo un certo criterio di priorità, la successione degli ordini di produzione
+D	Viene data priorità agli ordini più importanti secondo un certo criterio di priorità
+
+9	Le regole di carico (priority sequencing rules):
+A	Non è applicabile in modo generale indipendentemente dalla complessità del sistema produttivo
+B	Viene definito un ordinamento a priori secondo il quale schedulare le operazioni da eseguire
+@C	Consentono di scegliere quale operazione eseguire, tra quelle che sono in attesa di essere eseguite su un centro di lavoro
+D	Permettono di conoscere in anticipo le date di consegna dei vari ordini
+
+10	Con l'adozione delle regole di carico per la schedulazione:
+A	E' possibile definire in anticipo le date di consegna dei vari ordini
+B	E' necessario un continuo aggiornamento della schedulazione in caso di eventi imprevisti
+C	Le sequenze delle operazioni sui vari centri di lavoro vengono valutate a priori all'inizio del periodo di programmazione
+@D	Le sequenze delle operazioni sui vari centri di lavoro non vengono valutate a priori all'inizio del periodo di programmazione
+
+<Lezione 9
+
+1	L'esistenza di magazzino all'istante t:
+A	Non cambia negli istanti di tempo successivi al tempo t
+@B	Rappresenta la quantità di materiale che fisicamente si trova nel magazzino all'istante t
+C	Non ha alcun legame con l'entità di capitali immobilizzati dall'azienda
+D	Non cambia se avviene lo stoccaggio di nuova merce acquistata o il prelievo di quantità necessarie a soddisfare i fabbisogni degli utilizzatori
+
+2	Il tempo di approvvigionamento:
+A	Non è una grandezza essenziale per la gestione dei materiali
+B	E' sempre costante
+@C	E' il tempo che intercorre tra il momento in cui l'azienda emette un ordine e l'istante in cui la merce entra a far parte dell'esistenza a magazzino
+D	Non può essere tenuto sotto controllo tramite opportuni contratti tra le parti o tramite sinergie tra cliente e fornitore in fase di pianificazione della produzione
+
+3	Il livello di riordino:
+A	E' la quantità di merce fisicamente disponibile nel momento in cui si decide di emettere un ordine per un nuovo approvvigionamento
+B	Non è un parametro di un sistema di gestione delle scorte
+C	Definisce quanto è necessario acquistare
+@D	E' la quantità di merce disponibile nel momento in cui si decide di emettere un ordine per un nuovo approvvigionamento
+
+4	Nel caso di domanda costante, il livello di riordino:
+A	Non è definibile
+@B	E' scelto in modo tale che esso riesca a fare fronte alla domanda futura durante il lead time di fornitura
+C	E' funzione solo del tempo di approvvigionamento
+D	Non è necessario alla configurazione del sistema di gestione delle scorte
+
+5	Nel caso di domanda variabile secondo una distribuzione di probabilità simmetrica con valore medio pari a dm:
+@A	Un livello di riordino pari a dm*TA comporta che il 50% delle volte la domanda durante il periodo TA assume un valore superiore a dm
+B	Un livello di riordino pari a dm*TA comporta che il 70% delle volte la domanda durante il periodo TA assume un valore inferiore a dm
+C	Un livello di riordino pari a dm*TA comporta che il 30% delle volte la domanda durante il periodo TA assume un valore superiore a dm
+D	Un livello di riordino pari a dm*TA comporta che il 30% delle volte la domanda durante il periodo TA assume un valore inferiore a dm
+
+6	La scorta di sicurezza:
+A	Non influenza il livello di riordino
+B	Non permette di cautelarsi rispetto alla variabilità della domanda
+@C	Incrementa il livello di riordino
+D	Tiene conto solo della variabilità della domada
+
+7	Il valore della scorta di sicurezza:
+A	Non dipende dalla variabilità della domanda
+B	Tiene conto solo della variabilità del tempo di approvvigionamento
+C	Viene definita in modo determinstico
+@D	Dipende dal fattore di sicurezza che individua la probabilità di stockout che si vuole accettare
+
+8	In caso di domanda costante, il livello medio inventariale:
+@A	E' pari a q/2 se q è la scorta massima
+B	E' pari a q/3 se q è la scorta massima
+C	E' nullo
+D	Non è calcolabile
+
+9	In caso di domanda variabile, il livello medio inventariale:
+A	E' pari a q/2 se q è la scorta massima
+B	Non è calcolabile
+@C	E' pari a q/2+Ss se q è la scorta massima
+D	E' nullo
+
+10	Il lotto economico di acquisto:
+A	Tende ad aumentare se incrementa il costo annuo c da sostenere per tenere un singolo pezzo a scorta
+B	Tende ad diminuire se incrementa la domanda annua D
+C	Tende ad diminure se incrementa il costo unitario A del singolo ordine di acquisto
+@D	Tende ad diminure se incrementa il costo annuo c da sostenere per tenere un singolo pezzo a scorta
+
+
+<Lezione 10
+
+1	La produzione a lotti:
+A	Non è mai necessaria
+@B	Si ha quando le macchine producono in successione diversi prodotti dopo un'opportuna operazione di attrezzaggio
+C	Si ha quando le macchine producono in successione lo stesso prodotto dopo un'opportuna operazione di attrezzaggio
+D	Si ha quando le macchine producono, in condizioni di non saturazione, anche un unico prodotto e non sono richieste lunghe operazioni di start-up
+
+2	Nella produzione a lotti, i costi di avviamento della produzione:
+A	Sono legati all'immobilizzo dei prodotti finiti nel magazzino
+B	Non dipendono dalla domanda complessiva annua
+@C	Sono costi legati al fatto che si avvia una nuova produzione
+D	Crescono proporzionalmente al livello di magazzino
+
+3	Nella produzione a lotti, i costi legati al mantenimento a magazzino:
+A	Dipendono solo dai costi legati all'immobilizzo
+B	Non dipendono dal livello di magazzino
+C	Non dipendono dall'interesse pagato dall'azienda per un'unità di valore immobilizzata nel magazzino
+@D	Sono legati all'immobilizzo medio
+
+4	Nella determinazione del lotto economico di produzione nel caso monoprodotto:
+A	Non viene utilizzata una funzione di costo
+@B	La funzione di costo è composta da due voci di costo
+C	La funzione di costo è composta da una sola voce
+D	La funzione di costo considera solo il costo di emissione ordini
+
+5	Il lotto economico di produzione nel caso monoprodotto:
+@A	Dipende anche dal tasso di domanda giornaliero d
+B	Dipende solo dalla domanda annua D
+C	Non dipende dal costo di lancio dell'ordine
+D	Non dipende dal costo di lancio dell'ordine
+
+6	Nella produzione a lotti:
+A	L'espressione del lotto economico di acquisto coincide con quella del lotto economico di produzione
+B	Se la domanda d è molto piccola rispetto alla produttività p, il lotto economico di produzione è diverso da quello di acquisto
+@C	Se la domanda d approssima la produttività p, la produzione avviene senza interruzione
+D	Le espressioni del lotto economico di acquisto e di quella del lotto economico di produzione differiscono a causa del rapporto p/d
+
+7	Nella produzione a lotti nel caso multiprodotto:
+A	La modalità di calcolo del lotto economico di produzione non differisce da quella nel caso monoprodotto
+B	Il costo e la durata delle operazioni di disattrezzaggio ed attrezzaggio, non dipendono dall'entità delle modifiche da apportare agli impianti per passare da un lotto al successivo
+C	Per ogni coppia di prodotti non esiste uno specifico costo legato al cambio di produzione
+@D	Si ipotizza che ciascun prodotto venga realizzato lo stesso numero di volte
+
+8	Nella produzione a lotti nel caso multiprodotto:
+@A	La minimizzazione della funzione di costo complessivo di gestione riguarda il numero n di sequenze di produzione
+B	La minimizzazione della funzione di costo complessivo di gestione riguarda la dimensione dei lotti
+C	La funzione di costo complessivo di gestione considera solo i costi di mantenimento a magazzino
+D	La funzione di costo complessivo di gestione non considera i costi di lancio degli ordini di produzione
+
+9	L'ipotesi di operazioni di cambio produzione non interagenti con le operazioni proprie della produzione:
+A	Vale sempre
+B	Vale solo nel caso in cui tali operazioni sono svolte in un tempo extra rispetto alla produzione
+@C	Vale anche nel caso in cui tali operazioni sono svolte in un tempo extra rispetto alla produzione
+D	Vale solo nel caso in cui il tempo richiesto da tali operazioni sia irrisorio rispetto a quello disponibile per la produzione
+
+10	La definizione di domanda critica:
+A	Non dipende dal numero di fermi (cambi) di produzione
+B	Richiede di ottimizzare una funzione di costo
+C	Impone di ridurre la capacità produttiva se si vuole adottare il lotto economico di produzione
+@D	Deriva dal fatto che igli attrezzaggi di produzione riducono il tempo disponibile per la produzione stessa
+
+<Lezione 11
+
+1	L'esistenza di magazzino all'istante t:
+A	Rimane sempre costante nel tempo
+@B	Rappresenta la quantità di materiale che fisicamente si trova nel magazzino all'istante t
+C	E' data dalla somma della quantità a magazzino e della rimanenza in ordine
+D	Non cambia se avviene lo stoccaggio di nuova merce acquistata o il prelievo di quantità necessarie a soddisfare i fabbisogni degli utilizzatori
+
+2	Il tempo di approvvigionamento:
+A	Non influisce sulla gestione dei materiali a magazzino
+B	E' sempre costante
+@C	Può essere tenuto sotto controllo tramite opportuni contratti tra le parti o tramite sinergie tra cliente e fornitore in fase di pianificazione della produzione
+D	E' il tempo che intercorre tra l'istante in cui la merce entra a far parte dell'esistenza a magazzino ed il momento in cui l'azienda emette un ordine
+
+3	Il livello di scorta obiettivo:
+A	E' la quantità di merce fisicamente disponibile nel momento in cui si decide di emettere un ordine per un nuovo approvvigionamento
+B	Non è un parametro di un sistema di gestione delle scorte
+C	Definisce quanto è necessario acquistare
+@D	E' quel livello a cui deve essere riportata la scorta quando si emette un ordine
+
+4	Nel caso di domanda costante, il livello di scorta obiettivo:
+A	Non è definibile
+B	Non è necessario alla configurazione del sistema di gestione delle scorte
+C	E' funzione solo del tempo di approvvigionamento
+@D	E' scelto in maniera tale che con la disponibilità al momento dell'ordine si riesca a fare fronte alla domanda futura durante periodo di protezione I + TA
+
+5	Nel caso di domanda variabile secondo una distribuzione di probabilità simmetrica con valore medio pari a dm:
+A	Un livello di scorta obiettivo pari a (TA + I)
+@B	Un livello di scorta obiettivo pari a (TA + I)
+C	Un livello di scorta obiettivo pari a (TA + I)
+D	Un livello di scorta obiettivo pari a (TA + I)
+
+6	La scorta di sicurezza:
+A	Non influenza il livello di scorta obiettivo
+@B	Incrementa il livello di scorta obiettivo
+C	Non permette di cautelarsi rispetto alla variabilità della domanda
+D	Tiene conto solo della variabilità della domada
+
+7	Il valore della scorta di sicurezza:
+A	Viene definita in modo determinstico
+B	Tiene conto solo della variabilità del tempo di approvvigionamento
+@C	Dipende dal fattore di sicurezza che individua la probabilità di stockout che si vuole accettare
+D	Non dipende dalla variabilità della domanda
+
+8	In caso di domanda costante, il livello medio inventariale:
+A	E' pari a q/3 se q è la scorta massima
+@B	E' pari a D*I/24
+C	E' nullo
+D	Non è calcolabile
+
+9	In caso di domanda variabile, il livello medio inventariale:
+@A	E' pari a D*I/24+Ss
+B	Non è calcolabile
+C	E' pari a q/2 se q è la scorta massima
+D	E' nullo
+
+10	Il valore ottimale della frequenza di ordinazione I (I*):
+A	Tende ad aumentare se incrementa il costo annuo c da sostenere per tenere a magazzino un singolo pezzo
+B	Tende ad aumentare se incrementa il valore della domanda annua D
+@C	Tende a diminure se incrementa il costo annuo c da sostenere per tenere un singolo pezzo a scorta
+D	Tende a diminure se incrementa il costo unitario A del singolo ordine di acquisto
+
+<Lezione 12
+
+1	Il sistema gestionale Just In Time (JIT):
+A	Ha come scopo ultimo quello di conseguire il miglioramento continuo solo della qualità dei prodotti
+B	Non tende ad eliminare tutte le motivazioni che costringono un sistema produttivo alla costituzione di scorte di materie prime, semi-lavorati e prodotti finiti
+@C	E' una filosofia che abbraccia tutti i settori dell'azienda (produzione, logistica interna ed esterna, manutenzione, gestione della qualità, gestione del personale e progettazione del prodotto)
+D	E' una filosofia che riguarda solo la funzione produzione
+
+2	In accordo alla filosofia del Just In Time:
+A	Le scorte di produzione sono solo un immobilizzo oneroso di capitali
+@B	Le scorte di produzione nascondono agli occhi di coloro che gestiscono il sistema produttivo le inefficienze del sistema stesso
+C	Tempi di setup dei centri di lavoro eccessivamente lunghi non rappresentano un'inefficienza del processo
+D	La presenza di scorte lungo il processo produttivo non garantisce l'azienda, nei confronti del cliente, rispetto alle proprie inefficienze
+
+3	Nell'ambito della programmazione e controllo della produzione, l'approccio JIT:
+A	I consumi di articoli da parte dei reparti a valle non autorizzano i reparti a monte ad avviare la produzione per sostituire quanto effettivamente consumato
+B	Non mira ad un lead time di produzione breve e stabile, bassi livelli delle scorte e flessibilità alle fluttuazioni della domanda
+C	Non tiene sotto controllo il work in process (WIP) lungo l'intero processo produttivo
+@D	Prevede il conseguimento di un flusso dei materiali, lungo il processo produttivo, continuo, rapido e bilanciato, che è tirato dall'ultima fase di assemblaggio finale
+
+4	Il sistema kanban:
+A	E' identico al sistema MRP, che è di tipo push, in quanto i materiali vengono spinti sulla base di un piano prestabilito
+@B	Attiva i processi di produzione solo per ripristinare il livello dei materiali effettivamente utilizzati
+C	Rilascia gli ordini di produzione in anticipo rispetto alla domanda, provvedendo a fare in modo che la data di consegna di un ordine di produzione coincida con il temporale di rilascio per un ordine di assemblaggio che usa quei componenti
+D	Permette di produrre per il magazzino (intermedio o finale)
+
+5	In un sistema di controllo 'pull', il sistema kanban:
+@A	Permette la gestione e controllo del WIP ovvero della quantità di materiali circolanti in tutte le fasi del processo produttivo
+B	Non richiede regole specifiche per il suo funzionamento
+C	Non limita il massimo numero di pezzi contemporaneamente in corso di lavorazione
+D	Comporta che le quantità di volta in volta prodotte ed utilizzate da una certa fase non corrispondono a quelle che possono essere contenute in appositi contenitori
+
+6	Il sistema kanban impone che:
+A	I pezzi difettosi non vengano arrestati all'interno della fase che li ha generati
+B	Le fasi a monte siano chiamate a produrre esclusivamente i prodotti che hanno pianificato di produrre
+@C	Al momento di effettiva necessità, la fase a valle prelevi da quella a monte i pezzi necessari nelle quantità necessaria tramite apposito kanban
+D	Possa esistere un contenitore sprovvisto di kanban
+
+7	La dinamica di impiego di kanban-prelievo e di kanban-ordine di produzione richiede che:
+A	Durante le operazioni di lavorazione nella fase a monte, i pezzi e i relativi kanban-ordine di produzione non si muovano di pari passo
+B	Su ciascun contenitore prelevato, a cui viene tolto il kanban-ordine di produzione, l'addetto non necessariamente attacchi uno dei kanban-prelievo di cui è in possesso
+C	Dopo aver lasciato i contenitori vuoti, l'addetto della fase a valle prelevi dal deposito i contenitori con i pezzi che gli servono staccando i kanban-ordine di produzione attaccati a ciascun contenitore e cestinandoli opportunamente
+@D	L'addetto ai prelievi della fase a valle trasporti, da reparto a valle, il necessario numero di kanban e di contenitori vuoti presso il magazzino della lavorazione a monte
+
+8	Il kanban 'segnale':
+@A	Viene utilizzato qualora la produzione venga eseguita a lotti
+B	E' un kanban-prelievo con cui vengono gestiti i prelievi da parte del cliente presso un fornitore esterno
+C	E' utilizzato solamente in situazioni eccezionali quando sulla linea c'è una carenza di una certa tipoligia di pezzi
+D	E' emesso provvisoriamente per sostituire pezzi difettosi
+
+9	Nel caso di 'produzione a lotti' il numero di kanban necessari alla produzione:
+A	Non dipende dalla dimenzione del lotto economico di produzione
+B	Non dipende da un coefficiente di sicurezza k
+@C	Non dipende da costi commerciali di distribuzione del prodotto finito
+D	Dipende solo dalla domanda totale dello specifico codice in un certo intervallo di produzione
+
+10	Nel caso di setup e lead time ridotti il numero di kanban necessari alla produzione:
+A	Dipende dalla dimenzione del lotto economico di produzione
+B	Dipende solo da un coefficiente di sicurezza k
+C	Dipende unicamente da costi commerciali di distribuzione del prodotto finito
+@D	Dipende anche dalla capacità C dei contenitori di movimentazione dei pezzi
+
+<Lezione 13
+
+1	Nell'ambito della gestione dei progetti:
+A	Il tempo indica i termini entro i quali il progetto deve partire
+@B	Il focus del team di progetto deve essere su tempi, costi e risorse
+C	Il focus del team di progetto deve essere su tempi e costi
+D	Il budget indica il costo complessivo che deve essere superato
+
+2	I processi di PM:
+A	Sono orientati solo alla realizzazione del progetto
+B	Comprendono solo processi standard e applicabili nelle più disparate tipologie di progetto
+@C	Possono essere raggruppati e sviluppare interazioni sia all'interno di un gruppo di processi sia tra più gruppi di processi
+D	Sono caratterizzati da chiare relazioni di dipendenza e non vengono eseguiti nella stessa sequenza in ogni progetto
+
+3	I processi di pianificazione:
+A	Tra le altre cose, identificano gli stakeholder interni ed esterni che possono interagire ed influenzare il risultato del progetto
+B	Sono utilizzati per portare a termine il lavoro definito nel piano di PM per soddisfare i requisiti del progetto
+C	Permettono la regolare e consistente osservazione e misurazione delle prestazioni del progetto per identificare gli scostamenti rispetto al piano PM
+@D	Consentono lo sviluppo del piano di PM e dei documenti di progetto che saranno utilizzati per lo svolgimento del progetto
+
+4	In un'organizzazione per progetti:
+A	E' estremamente efficiente nella gestione delle attività caratteristiche e ripetitive
+B	Offre una catena di comando e controllo verticale che favorisce la specializzazione e, quindi, le economie di apprendimento
+C	IProject Manager non godono di grande autonomia
+@D	La maggior parte delle risorse E' impegnata in attività di progetto
+
+5	La Work Breakdown Structure (WBS):
+@A	Consiste nella scomposizione gerarchica dei deliverable del progetto e del contenuto di lavoro incluso nel progetto in elementi sempre più piccoli
+B	Non E' sempre necessaria
+C	Non può avere una struttura grafica
+D	Non richiede che le attività siano scomposte in modo sufficiente da essere facilmente controllabili dal punto di vista organizzativo
+
+6	La Work Breakdown Structure (WBS):
+A	Viene sviluppata solo dal Project Manager
+@B	Nella fase di disamina coinvolge anche gli 'specialisti' interessati
+C	Si ferma a livello di Work Package (WP)
+D	Non considera il dettaglio delle attività contenute all'interno di ciascun WP
+
+7	La schedulazione di progetto:
+A	Non include necessariamente una data pianificata di inizio e di fine per ciascuna attività
+B	Può essere presentata solo in forma dettagliata
+@C	Può essere realizzata attraverso diverse tecniche
+D	Può essere presentata solo in forma sintetica
+
+8	L diagramma a barre (o di Gantt):
+A	E' un classico esempio di rappresentazione sintetica della schedulazione di progetto
+@B	Rappresenta le varie attività con delle barre, le cui lunghezze rappresentano le durata di tali attività
+C	Non riporta il legame logico tra le diverse attività di progetto
+D	Riporta le varie attività di progetto sull'asse delle ascisse
+
+9	La gestione dei costi di progetto:
+@A	Comprende i processi coinvolti nella pianificazione, nella stima, nell'allocazione e nel controllo dei costi
+B	Comprende i processi coinvolti nell'allocazione e nel controllo dei costi
+C	E' incentrata solamente sul costo delle risorse necessarie per completare le attività schedulate
+D	Non deve tenere conto dell'effetto delle decisioni prese nel progetto sui successivi costi per l'utilizzo, la manutenzione e il supporto del prodotto, servizio o risultato del progetto
+
+10	Il Budget Cost of Work Scheduled (BCWS):
+A	E' il costo effettivo del lavoro dichiarato finito
+B	E' il valore di budget per un lavoro dichiarato finito entro la data del rendiconto
+@C	E' il valore di budget per uno o più compiti in un dato periodo
+D	Permette con i suoi valori di evidenziare degli scostamenti in termini di costo rispetto al budget
+
+<Lezione 14
+
+1	Il metodo PERT:
+A	Viene sviluppato negli anni '70 per la gestione di commesse civili
+@B	Si avvale di una rappresentazione grafica molto efficace delle attività di un progetto
+C	E' una tecnica reticolare bidirezionale
+D	Rappresenta certe attività di un progetto attraverso un grafo orientato
+
+2	La stesura di un reticolo PERT:
+A	Non richiede la determinazione delle durate delle attività che compongono il progetto
+B	Richiede la determinazione delle durate solo di certe attività che compongono il progetto
+@C	Richiede la determinazione dei vincoli di precedenza tra le varie operazioni
+D	Necessità della conoscenza delle risorse attribuite al progetto
+
+3	Il reticolo di un progetto:
+A	Riporta solo le attività critiche del progetto
+B	Riporta solo le attività di un progetto
+C	Riporta solo le precedenze tra le varie attività di progetto
+@D	Permette, con il suo contenuto informativo, di determinare la durata minima del progetto
+
+4	La rappresentazione reticolare di un progetto:
+A	Permette di determinare solo la data 'al più presto' di completamento del progetto
+B	Permette di determinare solo la data 'al più tardi' di completamento di certe attività di progetto
+C	Permette di determinare solo la data 'al più presto' di completamento di certe attività di progetto
+@D	Permette di individuare le date di completamento 'al più presto' e 'al più tardi' di tutte le attività di progetto
+
+5	Se un'operazione E' preceduta da due o più operazioni:
+@A	La sua data di completamento 'al più presto' dipende dalla sua durata e dalla maggiore delle date di completamento 'al più presto' delle operazioni precedenti
+B	Non E' possibile determinare la sua data di completamento 'al più presto'
+C	La sua data di completamento 'al più presto' non dipende dalle operazioni che la precedono
+D	La sua data di completamento 'al più presto' dipende solo dalla durata più breve delle operazioni precedenti
+
+6	La sequenza di operazioni che determina la durata del progetto:
+A	Non può essere individuata per tutti i progetti
+@B	Prende il nome di percorso critico
+C	Può essere individuata attraverso la conoscenza delle date di completamento 'al più presto' delle attività del progetto
+D	Può essere individuata solo attraverso la conoscenza delle date di completamento 'al più tardi' delle attività del progetto
+
+7	Il precorso critico:
+A	Comprende tutte le atitivtà di progetto
+B	Comprende le attività di progetto più lunghe
+@C	Comprende quelle attività per le quali i tempi al più presto e quelle al più tardi coincidono
+D	Non incide sulla durata del progetto
+
+8	La corretta individuazione del percorso critico:
+A	Dipende dalla bravura del Project Manager
+@B	Dipende dalla precisione con cui si stima la durata delle varie attività
+C	Dipende dalla durata delle attività
+D	Non E' essenziale per una corretta gestione di un progetto
+
+9	Nel caso di PERT statistico:
+@A	Per ciascuna attività vengono stimati tre valori di durata
+B	Le durate delle varie attività sono considerate in modo deterministico
+C	Per certe attività vengono stimati tre valori di durata
+D	Per ciascuna attività vengono stimati due valori di durata
+
+10	Nel caso in cui le attività del progetto abbiano una durata aleatoria:
+A	Non E' possibile determinare in nessun modo la durata del progetto
+B	Il tempo di completamento del progetto E' una variabile aleatoria con distribuzione di 	tipo Beta
+@C	Se esse in numero sufficiente, la durata del progetto può essere assimilata ad una variabile aleatoria normale
+D	E' possibile definire comunque in modo deterministico la data di completamento del progetto
+
+<Lezione 15
+
+1	Scopo primario della manutenzione:
+A	E'quello di garantire che i macchinari e gli impianti permettano il raggiungimento degli obiettivi aziendali a qualunque costo
+@B	E'quello di garantire che i macchinari e gli impianti permettano il raggiungimento degli obiettivi aziendali prevenendo rotture e conseguenti perdite di produzione, pur in una logica di efficienza e riduzione dei costi
+C	E'solo quello di garantire la qualità dei prodotti
+D	E'solo quello di garantire la realizzazione dei piani produzione
+
+2	Una macchina revisionata molto prima del necessario:
+A	Non comporta nessun tipo di conseguenza
+B	Non produce perdite extra di produzione per fermo macchina
+@C	Si traduce in perdite di vita utile dei componenti sostituiti
+D	Non ha alcun effetto sui costi di manutenzione
+
+3	La manutenzione accidentale:
+A	Non dovrebbe essere mai applicata
+B	Produce i costi di manutenzione più bassi
+C	E'un intervento fatto ad intervalli prefissati, di calendario o di ore di funzionamento
+@D	E'un intervento di riparazione dopo un guasto avente per scopo di riportare in condizioni accettabili una macchina o suo componente
+
+4	La manutenzione su condizione:
+A	Produce i costi di manutenzione più bassi
+B	Non dovrebbe essere mai applicata
+C	E'un intervento fatto ad intervalli prefissati, di calendario o di ore di funzionamento
+@D	E'un'azione preventiva derivante dalla conoscenza dello stato reale dei singoli componenti la macchina
+
+5	Un tasso di guasto costante:
+@A	Si verifica quando la causa prevalente di rottura o sostituzione E'da ricercarsi in difetti costruttivi o di montaggio
+B	Non si può verificare mai
+C	Si verifica quando la causa prevalente di rottura o sostituzione E'da ricercarsi nell'usura dei componenti
+D	Richiede una politica di guasto accidentale se CGP + CI < CGA
+
+6	Un tasso di guasto crescente:
+A	Si verifica quando la causa prevalente di rottura o sostituzione E'da ricercarsi in difetti costruttivi o di montaggio
+@B	Richiede di operare la sostituzione preventiva di uno o più componenti se CGP < CGA
+C	Non si può verificare mai
+D	Richiede di operare la sostituzione preventiva di uno o più componenti se CGP > CGA
+
+7	Un tasso di guasto decrescente:
+A	Non si può verificare mai
+B	E' la situazione più diffusa per le macchine complesse i cui componenti sono singolarmente sostituibili, e la sostituzione si può ritenere comporti il ripristino del livello di affidabilità della macchina nuova (as good as new)
+@C	Comporta che, indipendentemente dai costi, la politica di manutenzione più conveniente E'la manutenzione a guasto
+D	Si verifica quando la causa prevalente di rottura o sostituzione E'da ricercarsi nell'usura dei componenti
+
+8	La funzione tasso di guasto (:
+A	Assumono valori coincidenti qualunque sia il valore di t
+@B	Sono legate dalla relazione
+C	Misurano la stessa grandezza fisica
+D	Sono legate dalla relazione
+
+9	La funzione affidabilità R(t):
+@A	Rappresenta la capacità di un componente di adempiere ad una determinata funzione sotto certe condizioni e per un certo periodo di tempo
+B	Assume sempre un valore unitario
+C	E' sempre pari a zero
+D	Può assumere in certi casi anche valori negativi
+
+10	Il parametro MTBF:
+A	Coincide sempre con il parametro MTTF
+B	Non riguarda il comportamento affidabilistico di un componente o sistema
+@C	Coincide con il MTTF , e il sistema non E'riparabile, o il MTTR E'trascurabile rispetto al MTTF
+D	Non tiene conto del tempo medio di riparazione MTTR
+
+<Lezione 16
+
+1	In qualsiasi sistema di produzione la disponibilità del macchinario:
+A	Dipende unicamente dalla politica di manutenzione adottata
+@B	E' anche garantita dalla presenza di una scorta di ricambi
+C	Non è importante ai fini del raggiungimento di certi target produttivi
+D	E' la garanzia della qualità dei prodotti
+
+2	Il peso economico della scorta dei materiali di manutenzione:
+A	E' quasi sempre trascurabile
+B	Non dipende dalle politiche di manutenzione adottate
+@C	E' in genere ragguardevole soprattutto nell'industria di processo
+D	E' sempre rilevante
+
+3	L'entità dei fabbisogni dei materiali di manutenzione:
+A	Dipende solo dalle politiche di manutenzione adottate
+B	Non dipende dalle eventuali ridondanze di sistema
+C	Dipende solo dal progetto del sistema in esame
+@D	Dipende anche dalle politiche di manutenzione adottate
+
+4	I costi di mancanza legati ai materiali di manutenzione:
+A	Sono sempre facilmente quantificabili
+B	Sono solo dovuti a perdita di produzione
+C	Sono solo dovuti ai problemi di qualità del prodotto
+@D	Sono anche dovuti a problemi di sicurezza
+
+5	Un buon sistema di codifica dei materiali di ricambio:
+@A	Dovrebbe permettere una standardizzazione dei materiali
+B	Identifica tutti i singoli materiali di manutenzione
+C	Non fa corrispondere in modo biunivoco codice e tipo di materiale
+D	Non permette l'identificazione dei materiali intercambiabili
+
+6	Nella codifica a codici progressivi o cronologici:
+A	Il codice è costruito in modo da poter localizzare un certo componente all'interno dell'impianto
+@B	Le voci vengono elencate progressivamente
+C	Esiste pericolo di scorte doppie e/o multiple per componenti di caratteristiche identiche ma diversamente localizzati all'interno dell'impianto
+D	E' possibile la sistematica raccolta dei dati relativi ai componenti e il loro raggruppamento per classi di componenti simili per funzione e struttura
+
+7	Nella codifica a codice di tipo descrittivo generico:
+A	Il lavoro di costruzione dei codici è molto limitato
+B	Esiste pericolo di scorte doppie e/o multiple per componenti di caratteristiche identiche ma diversamente localizzati all'interno dell'impianto
+@C	E' possibile la sistematica raccolta dei dati relativi ai componenti e il loro raggruppamento per classi di componenti simili per funzione e struttura
+D	Il codice è costruito in modo da poter localizzare un certo componente all'interno dell'impianto
+
+8	La classificazione delle parti di ricambio:
+A	Non dipende dalla criticità di impiego
+@B	Dipende anche dal costo di acquisto unitario
+C	Non dipende dal tipo di processo fisico di guasto che genera la richiesta del ricambio
+D	Dipende solo dall' intensità del consumo (domanda nell'unità di tempo)
+
+9	La criticità d'impiego dei materiali di manutenzione:
+@A	Può essere sintetizzata dal costo di mancanza ricambio
+B	Non ha alcuna relazione con la relativa rottura di scorte
+C	Dipende dal processo di guasto
+D	Segue una distribuzione di Pareto
+
+10	I ricambi a basso indice di rotazione (BIR):
+A	Non sono mai materiali critici
+B	Sono materiali la cui intensità della domanda è normale o elevata
+@C	Sono associati ad un elevato valore movimentato annuo
+D	Tipicamente sono a materiali a basso costo unitario
+
+<Lezinoe 17
+
+1	Un KPI (Key Performance Index):
+A	Non è mai utile per attività manageriali
+@B	E' generalmente un rapporto di due dati finalizzato a fornire informazioni sintetiche e di interpretazione immediata su un aspetto di un fenomeno, di un intervento o di 	 un'area di attività
+C	Non può riguardare gli aspetti di manutenzione
+D	Non fornisce valutazioni quantitative
+
+2	I KPI:
+A	Non possono essere di tipo 'Assoluto' ovvero essere usati singolarmente
+B	Possono essere solo di tipo 'Complementare' ovvero essere usati in combinazione con altri indicarori
+@C	Si devono focalizzare sugli aspetti di efficienza ed efficacia del fenomeno analizzato, traducibili in termini di costi, tempi, qualità
+D	Non possono essere di tipo 'Complementare'
+
+3	La progettazione e l'uso di un KPI:
+A	Non prevede la scelta del fenomeno da interpretare e valutare
+B	Non necessita di individuare gli indicatori/KPI idonei a rappresentare il fenomeno desiderato
+C	Non si articola in fasi logiche
+@D	Richiede la scelta dei valori dei parametri/dati di riferimento
+
+4	La frequenza di calcolo di un indice:
+A	Non è un aspetto critico dell'implementazione di un cruscotto di indicatori
+B	Può essere solo saltuaria, vista l'onerosità della misurazione e calcolo
+C	Può essere solo periodica ad intervallo fisso
+@D	Può essere anche stagionale per fenomeni caratterizzati da andamenti stagionali
+
+5	Il Mean Time Between Failure (MTBF):
+@A	Tiene conto del numero di fermate a guasto del sistema
+B	Può essere calcolato solo per una singola macchina
+C	Può essere calcolato solo per una funzione di processo
+D	Non può essere calcolato per una linea di produzione o per un intero impianto
+
+6	Il Mean Time To Restoration (MTTR):
+A	Coincide sempre con il tempo medio di riparazione
+@B	E' il valore atteso del Tempo al Ripristino ovvero il tempo durante il quale l'impianto si trova in uno stato di indisponibilità a causa di un guasto
+C	Non indica la reattività del sistema al guasto
+D	Considera tutte le fermate del sistema per esigenze manutentive
+
+7	Il Mean downtime (MDT):
+A	E' il valore atteso del Tempo al Ripristino ovvero il tempo durante il quale l'impianto si trova in uno stato di indisponibilità a causa di un guasto
+B	Indica solo la reattività del sistema al guasto
+@C	Può essere calcolato per una singola macchina, per una funzione di processo, per una linea di produzione o per un intero impianto
+D	Non considera tutte le fermate del sistema per esigenze manutentive
+
+8	La Dispnonibilità Intrinseca:
+A	Considera anche il tempo medio di ripristino (MTTR)
+@B	Considera anche il tempo medio di riparazione
+C	Tiene conto di tutti i fattori fisici che concorrono all'indisponibilità
+D	Considera solo il tempo tra i guasti
+
+9	La Dispnonibilità Operativa:
+@A	Tiene conto di tutti i fattori fisici che concorrono all'indisponibilità
+B	Tiene conto solo delle indisponibilità tecniche
+C	Non considera i tempi che intercorrono tra due fermi successivi
+D	Considera il tempo medio di riparazione
+
+10	La Dispnonibilità Tecnica:
+A	Non considera il tempo tra i guasti
+B	Considera solo il tempo tra i guasti
+@C	Considera anche il tempo medio di ripristino (MTTR)
+D	Considera il tempo medio di riparazione
+
+<Lezione 18
+
+1	Il metodo dei Diagrammi a Blocchi (Reliability Block Diagram - RBD):
+A	Permette di valutare la disponibilità di un sistema complesso
+@B	Permette di valutare l'affidabilità di un sistema complesso
+C	Permette di valutare in modo qualitativo la disponibilità di un sistema complesso
+D	Permette di valutare la disponibilità intrinseca di un sistema complesso
+
+2	Nella costruzione di un "Diagramma a Blocchi":
+A	Se i blocchi sono disegnati su percorsi paralleli, devono tutti funzionare per garantire la funzionalità dell'intero sistema
+B	Un blocco con affidabilità del 100% può essere sostituito con il circuito aperto
+@C	I blocchi che sono disegnati in serie, devono tutti funzionare per garantire la funzionalità dell'intero sistema
+D	I blocchi sono assunti, dal punto di vista affidabilistico, come dipendenti tra loro
+
+3	Nella schematizzazione RBD, un modello serie:
+A	Non richiede solo le affidabilità dei componenti in serie per valutare l'affidabilità complessiva
+B	Ha un valore di affidabilità pari alla differenza delle affidabilità dei componenti in serie
+C	Ha un valore di affidabilità pari alla somma delle affidabilità dei componenti in serie
+@D	Presenta un valore di affidabilità minore del più piccolo valore delle affidabilità dei componenti disposti in serie
+
+4	In uno schema RBD in serie:
+A	Il tasso di guasto del sistema è più basso di quello dei singoli componenti
+B	Il MTTF del sistema è maggiore di quello dei componenti
+C	Bisogna incrementare l'affidabilità del componente più affidabile
+@D	Il valore di affidabilità è sempre inferiore al valore di minima affidabilità dei componenti che costituiscono la serie
+
+5	Nella schematizzazione RBD, un modello parallello a ridondanza totale:
+@A	Presenta un valore di affidabilità superiore del più grande valore delle affidabilità dei componenti disposti in parallelo
+B	Può essere adottato anche per uno schema a ridondanza parziale
+C	Ha un valore di affidabilità pari alla differenza delle affidabilità dei componenti in serie
+D	Ha un valore di affidabilità pari alla somma delle affidabilità dei componenti disposti in parallelo
+
+6	Per migliorare l'affidabilità di un sistema parallelo:
+A	Bisogna intervenire sul componente ad affidabilità minore
+@B	Bisogna intervenire sul componente ad affidabilità maggiore
+C	Bisogna modificare la configurazione in serie
+D	Non si deve aumentare il numero di componenti in parallelo
+
+7	Un sistema a ridondanza parziale:
+A	E' un sistema parallelo in cui un solo elemento è in grado di supportare l'intero carico del sistema
+B	Non è un tipo particolare di ridondanza attiva
+@C	E' un sistema parallelo in cui un gruppo di elementi è in grado di sopportare il carico del sistema
+D	E' un sistema parallelo in cui alcuni componenti entrano in funzione solo in caso di guasto
+
+8	L'affidabilità di un sistema a ridondanza parziale:
+A	Può essere valutata avvalendosi del modello di variabile aleatoria normale
+@B	Dipende anche dall'affidibilità degli elementi disposti in parallelo
+C	Dipende solo dal numero minimo di elementi che deve necessariamente funzionare
+D	Dipende solo dal numero totale di elementi in parallelo
+
+9	Un sistema a ridondanza di tipo stand-by:
+@A	E' un sistema parallelo in cui alcuni componenti entrano in funzione solo in caso di guasto
+B	É un tipo particolare di ridondanza attiva
+C	E' un sistema parallelo in cui un gruppo di elementi è in grado di sopportare il carico del sistema
+D	E' un sistema parallelo in cui tutti gli elementi sono contemporaneamente funzionanti
+
+10	L'affidabilità di un sistema a ridondanza di tipo stand-by:
+A	Non può essere valutata in modo analitico
+B	Dipende solo dall'affidabilità dell'elemento di riserva
+@C	Se il tasso di guasto è costante, può essere espressa come exp(-
+D	Dipende solo dal tempo di missione
+
+<Lezione 19
+
+1	L'obbligo di organizzare la sicurezza in azienda viene dettato per la prima volta da:
+A	D.lgs. 81/08
+@B	D.lgs. 626/94
+C	D.P.R. 547/55
+D	D.P.R. 303/56
+
+2	L'art. 2087 del Codice Civile sancisce che:
+A	Chiunque esercita un'attività pericolosa è tenuto ad adottare ogni tipo di precauzione atta ad evitare danni a terzi
+B	La tutela della salute come diritto fondamentale dell'individuo e interesse della collettività
+C	Non impedire un evento, che si ha l'obbligo giuridico di impedire, equivale a cagionarlo
+@D	L'imprenditore adotta nell'esercizio dell'impresa le misure che sono necessarie a tutelare l'integrità fisica e la personalità morale dei prestatori di lavoro
+
+3	L'approccio normotecnico:
+A	Mette al centro del sistema della prevenzione il lavoratore
+B	E' l'approccio su cui si basa il D.lgs. 81/08
+@C	Considera il lavoratore un soggetto passivo che deve essere addestrato all'esecuzione ripetitiva
+D	E' l'approccio su cui si basano le norme tecniche
+
+4	Il D.lgs. 81/08 si applica:
+@A	A tutti i settori di attività, pubblici e privati e a tutte le tipologie di rischio
+B	Solo ai settori di attività privati e a tutte le tipologie di rischio
+C	Solo ai settori di attività pubblici e a tutte le tipologie di rischio
+D	A tutti i settori di attività, pubblici e privati e ad alcune tipologie di rischio
+
+5	Il D.lgs. 81/08 è costituito da:
+A	10 Titoli e 51 Allegati
+B	13 Titoli e 53 Allegati
+@C	13 Titoli e 51 Allegati
+D	12 Titoli e 50 Allegati
+
+6	Il Titolo II stabilisce disposizioni relative a:
+@A	Luoghi di lavoro
+B	Rumore
+C	Vibrazioni
+D	Rischio Chimico
+
+7	Gli obblighi individuati dal D.lgs. 81/08 sono riportati:
+A	All'art. 17
+@B	All'art. 15
+C	All'art. 18
+D	All'art. 28
+
+8	La protezione da atmosfere esplosive è disciplinata dal Titolo:
+@A	XI
+B	V
+C	II
+D	X
+
+9	La tutela dell'ambiente è disciplinata da:
+A	D.lgs. 81/08
+@B	D.lgs. 152/06
+C	Direttiva ATEX
+D	Direttiva Bassa Tensione
+
+10	La Direttiva Seveso:
+A	E' una norma generale in materia di sicurezza
+B	E' una norma di carattere settoriale che disciplina la sicurezza del materiale elettrico
+C	Disciplina la sicurezza antincendio
+@D	E' una norma di carattere settoriale che disciplina il controllo del pericolo di incidente rilevante
+
+<Lezione 20
+
+1	Il datore di lavoro è:
+A	La figura che sovrintende alla attività lavorativa e garantisce l'attuazione delle direttive ricevute
+@B	Il soggetto titolare del rapporto di lavoro con il lavoratore
+C	La figura che attua le direttive del datore di lavoro organizzando l'attività lavorativa e vigilando su di essa
+D	La persona eletta o designata per rappresentare i lavoratori per quanto concerne gli aspetti della salute e sicurezza durante il lavoro
+
+2	Il datore di lavoro deve effettuare la comunicazione all'INAIL in caso di infortuni:
+A	Entro 24 ore dalla ricezione del certificato medico
+@B	Entro 48 ore dalla ricezione del certificato medico
+C	Solo se comportano assenza dal lavoro superiore a tre giorni
+D	A fini assicurativi se comportano assenza dal lavoro superiore a 5 giorni
+
+3	Il datore di lavoro non può delegare:
+A	L'invio dei lavoratori a visita medica
+B	La designazione degli addetti al primo soccorso
+C	La nomina del MC
+@D	La nomina del RSPP
+
+4	Tra gli obblighi del preposto non rientra:
+@A	La comunicazione del nominativo del RLS all'INAIL
+B	La vigilanza dei lavoratori ai fini della sicurezza
+C	L'informazione ai lavoratori in caso di rischio grave e immediato
+D	La segnalazione al datore di lavoro o al dirigente di condizioni di pericolo
+
+5	La formazione del preposto:
+A	E' uguale a quella prevista per i dirigenti
+B	Deve comprendere quella per i lavoratori e deve essere integrata da una formazione particolare, di durata minima di 4 ore
+@C	Deve comprendere quella per i lavoratori e deve essere integrata da una formazione particolare, di durata minima di 8 ore
+D	E' uguale a quella prevista per i lavoratori
+
+6	Il preposto è:
+@A	La figura che sovrintende alla attività lavorativa e garantisce l'attuazione delle direttive ricevute
+B	Il soggetto titolare del rapporto di lavoro con il lavoratore
+C	La figura che attua le direttive del datore di lavoro organizzando l'attività lavorativa e vigilando su di essa
+D	La figura eletta o designata per rappresentare i lavoratori per quanto concerne gli aspetti della salute e sicurezza durante il lavoro
+
+7	Gli obblighi del preposto sono individuati dall'articolo:
+A	17 del D.lgs. 81/08
+@B	19 del D.lgs. 81/08
+C	18 del D.lgs. 81/08
+D	20 del D.lgs. 81/08
+
+8	La formazione del dirigente:
+A	Deve essere aggiornata ogni 3 anni
+B	E' uguale a quella prevista per il preposto
+@C	Ha durata minima di 16 ore
+D	Ha durata minima di 8 ore
+
+9	Gli obblighi del dirigente:
+A	Sono individuati dall'art. 17 del D.lgs. 81/08
+B	Sono uguali a quelli previsti per il preposto
+C	Sono individuati dall'art. 15 del D.lgs. 81/08
+@D	Sono uguali a quelli previsti per il datore di lavoro
+
+10	Il dirigente è:
+A	La figura che sovrintende alla attività lavorativa e garantisce l'attuazione delle direttive ricevute
+B	Il soggetto titolare del rapporto di lavoro con il lavoratore
+@C	La figura che attua le direttive del datore di lavoro organizzando l'attività lavorativa e vigilando su di essa
+D	La figura eletta o designata per rappresentare i lavoratori per quanto concerne gli aspetti della salute e sicurezza durante il lavoro
+
+<Lezione 21
+
+1	La formazione del RSPP E' disciplinata da:
+A	D.lgs. 81/08
+B	Accordo Stato-Regioni 21/12/2011
+@C	Accordo Stato-Regioni 07/07/2016
+D	Accordo Stato-Regioni 26/01/2006
+
+2	Il D.lgs. 81/08 non prevede sanzioni a carico di:
+A	Medico Competente
+B	Preposto
+C	Lavoratore
+@D	Responsabile del Servizio di Prevenzione e Protezione
+
+3	La durata minima del Modulo A, relativa alla formazione del RSPP E' pari a:
+A	48 ore
+B	24 ore
+@C	28 ore
+D	36 ore
+
+4	La durata minima del Modulo C, relativa alla formazione del RSPP E' pari a:
+A	48 ore
+@B	24 ore
+C	28 ore
+D	36 ore
+
+5	Il Servizio di Prevenzione e Protezione:
+@A	Non attiva le misure di sicurezza ma le propone al datore di lavoro che decide come, quando e quali attuare
+B	Attiva le misure di sicurezza autonomamente
+C	Non attiva le misure di sicurezza ma le propone al Medico Competente che decide come, quando e quali attuare
+D	Non E' un servizio di supporto al Datore di Lavoro
+
+6	La cartella sanitaria e di rischio, alla cessazione del rapporto di lavoro:
+A	Deve essere conservata dal medico competente per almeno dieci anni
+B	L'originale deve essere consegnata al lavoratore
+@C	Deve essere conservata dal datore di lavoro per almeno dieci anni
+D	Deve essere distrutta dal medico competente
+
+7	Il Medico Competente:
+A	Visita gli ambienti di lavoro almeno ogni sei mesi
+@B	Visita gli ambienti di lavoro almeno una volta all'anno
+C	Visita gli ambienti di lavoro almeno due volte all'anno
+D	Non ha l'obbligo di visitare i luoghi di lavoro
+
+8	L'attività di Medico Competente non può essere effettuata da:
+@A	Un dipendente di una struttura pubblica che svolge attività di vigilanza
+B	Un libero professionista
+C	Dipendente o collaboratore di una struttura esterna pubblica o privata, convenzionata con l'imprenditore
+D	Dipendente del Datore di Lavoro
+
+9	La malattia professionale:
+A	E' il risultato di un episodio singolo, subitaneo, improvviso
+@B	E' la conseguenza di una serie di azioni nocive che maturano lentamente nell'organismo del lavoratore per trasformarsi poi in forma morbosa
+C	E' dovuta all'esposizione nel tempo a fattori nocivi presenti nell'ambiente di vita
+D	E' la conseguenza di una singola azione nociva che matura lentamente nell'organismo del lavoratore per trasformarsi poi in forma morbosa
+
+10	I Progettisti, Fabbricanti e Installatori:
+A	Non sono destinatari di obblighi in materia di sicurezza
+@B	Devono attenersi agli obblighi individuati dagli articoli 22,23,24 del D.lgs. 81/08
+C	Devono attenersi agli obblighi individuati dagli articoli 25,26,27 del D.lgs. 81/08
+D	Non sono destinatari di sanzioni
+
+<Lezione 22
+
+1	La tessera di riconoscimento deve essere indossata:
+A	Da tutti i lavoratori, sempre
+@B	In caso di svolgimento di attività in regime di subappalto
+C	Mai
+D	In caso di svolgimento di attività in regime di subappalto, solo dai lavoratori dipendenti
+
+2	I lavoratori autonomi:
+A	Non sono destinatari di obblighi ai sensi del D.lgs.81/08
+@B	Sono tenuti a munirsi di tessera di riconoscimento quando effettuano attività in regime di appalto
+C	Non sono tenuti a munirsi di tessera di riconoscimento quando effettuano attività in regime di appalto
+D	Sono destinatari di obblighi individuati dall'art.20 del D.lgs. 81/08
+
+3	I progettisti, fabbricanti e installatori:
+@A	Sono destinatari di obblighi e sanzioni ai sensi del D.lgs. 81/08
+B	Non sono destinatari di obblighi ai sensi del D.lgs. 81/08
+C	Non sono destinatari di sanzioni ai sensi del D.lgs. 81/08
+D	Non sono contemplati dal D.lgs. 81/08
+
+4	I lavoratori:
+A	Sono destinatari di diritti ma non di doveri in materia di sicurezza
+B	Sono destinatari di obblighi in materia di sicurezza individuati dall'art. 21
+@C	Sono destinatari di obblighi in materia di sicurezza individuati dall'art. 20
+D	Sono tenuti a rispettare solo le istruzioni operative
+
+5	La durata dei corsi di formazione per i lavoratori è stabilita:
+A	Dall'art.37 del D.lgs. 81/08
+B	Dall'art.36 del D.lgs. 81/08
+C	Dall'Accordo Stato-Regioni 07/07/2016
+@D	Dall'Accordo Stato-Regioni 21/12/2011
+
+6	La durata dei corsi di formazione per il Rappresentante dei Lavoratori per la Sicurezza è stabilita:
+@A	Dall'art.37 del D.lgs. 81/08
+B	Dall'art.36 del D.lgs. 81/08
+C	Dall'Accordo Stato-Regioni 07/07/2016
+D	Dall'Accordo Stato-Regioni 21/12/2011
+
+7	Gli addetti Antincendio e al Primo Soccorso:
+A	Sono nominati dal preposto
+B	Possono rifiutare la designazione
+@C	Non possono rifiutare la designazione se non per giustificato motivo
+D	Ricevono la medesima formazione dei lavoratori
+
+8	La durata dei corsi di formazione per gli Addetti al Primo Soccorso è stabilita:
+A	Dall'art.37 del D.lgs. 81/08
+@B	Dal D.M. 388/03
+C	Dal D.M. 10/03/98
+D	Dall'Accordo Stato-Regioni 21/12/2011
+
+9	La durata dei corsi di formazione per gli Addetti Antincendio è stabilita:
+A	Dall'art.37 del D.lgs. 81/08
+B	Dal D.M. 388/03
+@C	Dal D.M. 10/03/98
+D	Dall'Accordo Stato-Regioni 21/12/2011
+
+10	La durata della formazione degli Addetti Antincendio in aziende di Gruppo B è pari a:
+A	8 ore
+B	24 ore
+C	16 ore
+@D	12 ore
+
+<Lezione 23
+
+1	Il rischio è definito come:
+A	Proprietà o qualità intrinseca di un determinato fattore avente la potenzialità di causare danni
+@B	Probabilità di raggiungimento del livello potenziale di danno
+C	Un evento accidentale
+D	Un processo morboso
+
+2	La salute è definita come:
+A	Stato di benessere lavorativo
+B	Assenza di malattia
+C	Stato non consistente solo in un'assenza di malattia o d'infermità
+@D	Stato di completo benessere fisico
+
+3	I rischi convenzionali:
+A	Sono legati a fattori chimici e fisici
+@B	Sono legati all'attività di lavoro e presenti in tutti i settori industriali
+C	Presentano frequenza molto bassa
+D	Derivano da incendi, esplosioni o rilascio di prodotti tossici
+
+4	I rischi di natura igienico- industriale:
+@A	Sono rischi per la salute
+B	Sono rischi trasversali
+C	Sono rischi per la sicurezza
+D	Sono rischi di natura infortunistica
+
+5	I rischi ergonomici:
+A	Sono rischi per la salute
+@B	Sono rischi per la salute e la sicurezza
+C	Sono rischi per la sicurezza
+D	Non comprendono l'organizzazione del lavoro
+
+6	P (Probabilità di accadimento) = 3 significa che:
+A	La mancanza rilevata può provocare un danno solo in circostanze sfortunate di eventi
+B	La mancanza rilevata può provocare un danno per la concomitanza di più eventi poco probabili indipendenti
+@C	Il verificarsi del danno ipotizzato, susciterebbe una moderata sorpresa in Azienda
+D	Vi è correlazione diretta tra la mancanza rilevata ed il verificarsi del danno
+
+7	Se R > 8:
+A	Devono essere attuate azioni migliorative da valutare in fase di programmazione
+B	Sono necessarie azioni correttive da programmare con urgenza
+C	Sono necessarie azioni correttive da programmare nel breve - medio periodo
+@D	Sono necessarie azioni correttive immediate
+
+8	Quando si ci trova nell'area ALARP:
+@A	Occorre svolgere ulteriori indagini e prevedere azioni mitigative al fine di ridurre, per quanto ragionevolmente praticabile, il valore del rischio
+B	Il rischio deve essere necessariamente ridotto con metodi appropriati
+C	Deve essere condotta un'analisi costo-efficacia
+D	Il rischio è accettabile
+
+9	La prevenzione è:
+@A	La riduzione della probabilità che si verifichi l'evento che può produrre danno
+B	La limitazione degli effetti negativi di un evento dannoso
+C	Complesso delle valutazioni analitiche richieste per individuare i rischi e le misure preventive e protettive per salvaguardare la sicurezza
+D	Insieme delle azioni che devono essere messe in atto per cercare di attenuare il rischio
+
+10	La protezione è:
+A	La riduzione della probabilità che si verifichi l'evento che può produrre danno
+@B	La limitazione degli effetti negativi di un evento dannoso
+C	Complesso delle valutazioni analitiche richieste per individuare i rischi e le misure preventive e protettive per salvaguardare la sicurezza
+D	Insieme delle azioni che devono essere messe in atto per cercare di attenuare il rischio
+
+<Lezione 24
+
+1	La normativa di riferimento in material di Valutazione dei Rischi è rappresentata da:
+@A	Titolo I, Capo III del D.lgs. 81/08
+B	Titolo I, Capo II del D.lgs. 81/08
+C	Titolo II, Capo I del D.lgs. 81/08
+D	Titolo III, Capo I del D.lgs. 81/08
+
+2	L'oggetto della valutazione dei rischi:
+A	Viene disciplinato dall'art. 17 del D.lgs. 81/08
+@B	Viene disciplinato dall'art. 28 del D.lgs. 81/08
+C	Viene disciplinato dall'art. 29 del D.lgs. 81/08
+D	Viene disciplinato dall'art. 18 del D.lgs. 81/08
+
+3	La data del DVR viene attestata mediante sottoscrizione da parte di:
+@A	Datore di Lavoro, Responsabile del servizio di prevenzione e protezione, rappresentante dei lavoratori per la sicurezza, medico competente, ove nominato
+B	Responsabile del servizio di prevenzione e protezione e rappresentante dei lavoratori per la sicurezza
+C	Responsabile del servizio di prevenzione e protezione, rappresentante dei lavoratori per la sicurezza, medico competente, ove nominato
+D	Datore di Lavoro, Responsabile del servizio di prevenzione e protezione, rappresentante dei lavoratori per la sicurezza, medico competente, ove nominato e addetti al
+	primo soccorso
+
+4	La rielaborazione del DVR in occasione di modifiche al processo produttivo deve essere effettuata entro:
+A	60 giorni
+B	120 giorni
+@C	30 giorni
+D	15 giorni
+
+5	In caso di rielaborazione del DVR il datore di lavoro deve:
+A	Dare comunicazione al lavoratore
+B	Dare comunicazione al Medico Competente
+C	Dare comunicazione all'INAIL
+@D	Dare comunicazione al Rappresentante dei Lavoratori per la Sicurezza
+
+6	La valutazione del rischio biologico deve essere aggiornata con frequenza:
+A	Il D.lgs. 81/08 non stabilisce una frequenza specifica di aggiornamento
+B	Annuale
+C	Quadriennale
+@D	Triennale
+
+7	La valutazione del rischio rumore deve essere aggiornata con frequenza:
+A	Il D.lgs. 81/08 non stabilisce una frequenza specifica di aggiornamento
+B	Annuale
+@C	Quadriennale
+D	Triennale
+
+8	La pirma fase dell'elaborazione del DVR è:
+@A	La fase preliminare che consiste nella raccolta della documentazione
+B	La fase preliminare che consiste nella valutazione della documentazione
+C	La fase analitica
+D	La stesura del documento
+
+9	La valutazione igienistica dell'ambiente di lavoro prevede:
+@A	La verifica della presenza di impianti di aspirazione fumi
+B	La verifica dell'idoneità delle macchine alle norme antifortunistiche
+C	La verifica della formazione dei lavoratori
+D	La verifica della presenza di mezzi di estinzione
+
+10	Tra la documentazione da allegare al Documento di Valutazione dei Rischi:
+A	Non compaiono i libretti di uso e manutenzione delle attrezzature
+B	Non rientra il Registro dei controlli antincendio ai sensi del DM 10/03/98
+@C	Compaiono anche le Cartelle sanitarie dei lavoratori sottoposti a sorveglianza sanitaria
+D	Rientrano solo i certificati di collaudo ed omologazione di impianti, macchinari ed attrezzature
+
+<Lezione 25
+
+1	L'analisi e la valutazione dei rischi sui luoghi di lavoro:
+A	Non richiede necessariamente l'individuazione degli eventi accidentali
+@B	Prevede un confronto del livello di rischio con i criteri di accettabilità prestabiliti (per legge o norme tecniche)
+C	Necessita solo della valutazione della probabilità di accadimento e delle conseguenze degli eventi pericolosi
+D	Non ha come obiettivo l'individuazione di misure di prevenzione e protezione
+
+2	Nel caso di sistemi complessi:
+A	Non è possibile effettuare l'analisi e valutazione dei rischi
+B	Nell'individuazione degli eventi pericolosi, è sufficiente fare riferimento a dati storici
+@C	Nell'individuazione degli eventi pericolosi, potrebbe non essere sufficiente fare riferimento a dati storici
+D	Nell'individuazione degli eventi di pericolo, si può fare riferimento solo a sistemi simili
+
+3	Nell'ambito dei metodi di analisi e valutazione dei rischi:
+A	I metodi deduttivi ipotizzano il guasto del componente procedendo poi ad un'analisi volta ad identificare gli eventi che tale guasto potrebbe causare
+B	I metodi induttivi ipotizzano l'evento finale per risalire agli eventi che potrebbero causarlo
+C	I metodi quantitativi non utilizzano espressioni matematiche del tipo R=f(P,D)
+@D	I metodi qualitativi non utilizzano espressioni matematiche del tipo R=f(P,D)
+
+4	Nell'ambito dei metodi di analisi e valutazione dei rischi:
+A	Esistono solo approcci di natura normativa
+B	Esistono solo approcci di natura affidabilistica
+C	I metodi semi-quantitativi (o semi-qualitativi) non si basano su un'analisi quantitativa di tipo semplificato
+@D	Esistono anche approcci di natura normativa
+
+5	Nella scelta della tecnica di analisi dei rischi più efficace:
+@A	Sarebbe preferibile valutare la disponibilità di metodologie specifiche per il sistema in esame
+B	Non si tiene conto delle caratteristiche del sistema oggetto di studio
+C	Non si tiene conto della disponibilità di informazioni e dati e del loro dettaglio e precisione
+D	Non è preferibile l'utilizzo di più metodologie o di una loro combinazione nell'ambito dello studio di uno stesso sistema
+
+6	Nella scelta della tecnica di analisi dei rischi maggiormente adeguata:
+A	Non è necessario tenere conto delle competenze del gruppo di valutazione
+@B	Normalmente si tiene conto anche della complessità del sistema in esame
+C	Bisogna considerare solo le caratteristiche del sistema oggetto di studio
+D	Il solo aspetto vincolante è quello della disponibilità di informazioni e dati e del loro dettaglio e precisione
+
+7	Il metodo proposto dalla norma UNI EN ISO 14121-1:2007 (ex UNI EN 1050):
+A	E' un metodo quantitativo
+B	E' un metodo qualitativo
+@C	É di natura semi-quantitativa
+D	Non riguarda le macchine utensili
+
+8	Il metodo proposto dalla norma UNI EN ISO 14121-1:2007 (ex UNI EN 1050) nella sua articolazione:
+A	Non prevede l'identificazione dei fattori di rischio
+@B	Prevede che la fase centrale sia quella della valutazione del rischio
+C	Prevede solo la selezione delle misure di sicurezza
+D	Non richiede una fase di valutazione del rischio
+
+9	Nel metodo proposto dalla norma UNI EN ISO 14121-1:2007 (ex UNI EN 1050):
+@A	La severità del danno è considerata funzione di due parametri (DP danno prevedibile; ED massima estensione del danno)
+B	Non è valutata la severità del danno
+C	Non è valutata la probabilità di accadimento del danno
+D	La probabilità di accadimento è funzione di due soli parametri
+
+10	Nel metodo proposto dalla norma UNI EN ISO 14121-1:2007 (ex UNI EN 1050):
+A	Il legame funzionale tra Danno ed Accadimento può essere solo di tipo prodotto
+B	Danno ed Accadimento non possono essere pesati diversamente
+@C	La relazione analitica per la valutazione del rischo è: R = (DP x ED) x [(FA x TP x IO)/IP]
+D	La relazione analitica per la valutazione del rischo è: R = (DP x ED) x [(FA x TP x IO)]
+
+<Lezione 26
+
+1	L'incidente o infortunio sul luogo di lavoro:
+A	E' solo dovuta alla presenza di pericoli su tale luogo
+@B	E' anche favorito dalla presenza di fattori scatenanti (quali attività di lavoro ordinarie o straordinarie; eventi esterni)
+C	E' un evento puramente casuale
+D	Non richiede la presenza di fattori "scatenanti"
+
+2	Tra le cause degli infortuni sul lavoro:
+A	Non compare un'errata progettazione
+B	Esiste solo il cattivo stato del macchinario
+@C	Bisogna ricordare anche l'assenza di dispositivi di protezione
+D	Non compare il comportamento individuale
+
+3	Una possibile aggregazione dei fattori di rischio presenti su un luogo di lavoro:
+A	Non è mai possibile farla in ragione della grandissima varietà dei fattori di rischio riscontrabili
+B	Prevede due grandi categorie di fattori di rischio tra cui non compaiano affatto i rischi riconducibili all'ambiente
+C	Prevede due grandi categorie di fattori di rischio riconducibili al fattore umano e all'organizzazione del lavoro
+@D	Prevede tre grandi categorie di fattori di rischio tra cui compare anche quella riconducibile al materiale o alll'attrezzatura di lavoro
+
+4	Nella valutazione del rischio globale proprio (intrinseco) del posto di lavoro:
+A	Vengono considerati solo fattori di pericolo legati all'ambiente di lavoro
+B	Vengono considerati solo fattori di pericolo legati alle attrezzature di lavoro
+C	Si tiene conto anche di fattori di rischio psico-sociali
+@D	Si tiene conto anche di fattori di rischio legati all'uso di attrezzature e macchine
+
+5	La valutazione dell'incidenza legata al fattore materiale':
+@A	Dipende anche dalla frequenza e durata dell'esposizione durante il funzionamento della macchina o attrezzatura
+B	Deriva dal prodotto di tre fattori
+C	Deriva dalla somma di tre fattori
+D	Non dipende dalla probabilità di evitare o di limitare le lesioni
+
+6	La valutazione dell'incidenza legata all'ambiente di lavoro:
+A	Deriva dal prodotto di tre fattori
+@B	Deriva dalla somma di tre fattori
+C	Non dipende dall'ubicazione del posto di lavoro
+D	Non considera fattori quali l'illuminazione, il rumore o il microclima
+
+7	La valutazione della capacità dell'individuo di dominare il rischio:
+A	Non dipende dal suo grado di formazione
+B	Deriva dal prodotto di tre fattori
+@C	Dipende anche da fattori fisiologici
+D	Dipende solo dall'organizzazione del lavoro
+
+8	La valutazione del rischio d'infortunio:
+A	Non dipende dal rischio globale proprio del posto di lavoro
+@B	Riduce il rischio globale proprio del posto di lavoro di una quantità proporzionale alla capacità dell'individuo di dominare il rischio stesso
+C	Non dipende dalla capacità dell'individuo di dominare il rischio
+D	Dipende solo dalla capacità dell'individuo di dominare il rischio
+
+9	Il coefficiente di ponderazione Ma/150 della capacità del soggetto di dominare il rischio (P):
+@A	Indica che la riduzione del Rischio d'infortunio per effetto di P dipende linearmente dal materiale
+B	Indica che la riduzione del Rischio d'infortunio per effetto di P ha un andamento quadratico
+C	Indica che la riduzione del Rischio d'infortunio per effetto di P non dipende dal materiale
+D	Indica che il fattore P dipende dal livello di rischio legato al materiale
+
+10	Il Metodo AISS-ISPESL per la valutazione dei rischi:
+A	E' molto flessibile essendo applicabile a qualsivoglia situazione lavorativa
+B	Non risulta di semplice applicazione non essendo approccio strutturato
+@C	E' un valido strumento in tutti quei casi in cui il reperimento dei dati sia difficile od impossibile
+D	Non permette di programmare gli interventi correttivi (preventivi o protettivi)
+
+<Lezione 27
+
+1	L'utilizzo di metodologie di natura affidabilistica per sistemi complessi nell'ambito della sicurezza sui luoghi di lavoro:
+A	Non è mai possibile
+@B	Deriva dal fatto che i contesti di applicazione della sicurezza (ambienti di lavoro, macchine, impianti, processi ecc.) sono a tutti gli effetti dei sistemi socio-tecnici complessi
+C	Non è legata esclusivamente all'analisi dei fenomeni di guasto del sistema
+D	Richiede necessariamente dei compnenti bistabili
+
+2	In un sistema produttivo:
+A	Non è possibile classificare le circostanze che possono determinare danni e incidenti
+B	I danni all'operatore derivano solo da fenomeni di guasto
+@C	I fenomeni di guasto e di esposizione sono completamente diversi tral loro sia come genesi ed evoluzione, sia come conseguenze
+D	I danni all'operatore derivano solo da fenomeni di esposizione
+
+3	In un sistema tecnico qualunque:
+A	I guasti iniziali dei percorsi di guasto (ovvero i guasti nei componenti del sistema) possono essere propagativi o migliorativi
+B	Gli eventi di guasto intermedi sono propagativi se determinano l'arresto del percorso di guasto o almeno limitano la velocità del verificarsi di eventi successivi
+C	I percorsi di guasto cominciano da eventi intermedi di guasto
+@D	Il percorso di guasto termina con il cosiddetto top event, che l'evento dannoso grave che si vuole scongiurare
+
+4	L'analisi dei modi e degli effetti di guasto e della loro criticità (Failure Mode, Effects, and Criticality Analysis - FMECA):
+A	Non prevede la scomposizione funzionale del sistema fino ad arrivare agli elementi del sistema che possono essere considerati singolarmente ai fini della valutazione di criticità
+B	Prevede solo per certi elementi di individuare i possibili modi di guasto e per ciascuno di essi gli effetti e le cause
+C	Non prevede una valutazione quantitativa della criticità del modo di guasto
+@D	E' un approccio strutturato che definisce una serie di attività per effettuare l'analisi di un sistema complesso
+
+5	Nella metodologia FMECA:
+@A	La quantificazione della criticità dei diversi modi di guasto permette di definire una priorità di intervento in funzione del valore di RPN
+B	Il Risk Priority Number (RPN) dipende solo dalla stima della probabilità di verificarsi del modo di guasto
+C	Il Risk Priority Number (RPN) non dipende dalla stima della gravità delle conseguenze del modo di guasto
+D	La quantificazione della criticità dei diversi modi di guasto non permette di individuare specifici interventi migliorativi
+
+6	La tecnica HAZOP (HAZard and OPerability analysis):
+A	E' una tecnica di tipo quantitativo e permette di evidenziare le modalità con cui un sistema potrebbe non corrispondere al comportamento previsto in fase progettuale
+@B	Si basa sul concetto che un processo si svolge regolarmente se opera nelle condizioni di progetto o nominali'
+C	Richiede la conoscenza solo dei parametri di processo per individuare tutte le possibili situazioni di deviazione rispetto alle intenzioni di progetto
+D	Allo stesso modo della FMECA, si focalizza su aspetti strutturali ed hardware del sistema
+
+7	La metodologia del Fault Tree Analysis (FTA):
+A	Si basa su una logica bottom-up
+B	Non prevede la costruzione di opportuni alberi per analizzare gli scenari di incidente di sistemi complessi
+@C	Inizia con la definizione di un evento indesiderato chiamato top event (in genere un guasto o un malfunzionamento del sistema nel suo complesso) e prosegue con la determinazione di tutte le possibili modalità di accadimento del top event così definito
+D	Parte dalla definizione degli eventi base (guasti dei componenti) per poi arrivare a definire il top event
+
+8	Nella metodologia del Fault Tree Analysis (FTA):
+A	Si considerano allo stesso tempo diversi Top Event
+@B	I Minimal Cut Set (MCS) sono i più piccoli sottoinsiemi di eventi dal cui accadimento simultaneo deriva anche l'accadimento di un particolare top event
+C	Non si tiene conto delle interconnessioni presenti fra i vari eventi di base (basic event) ed intermedi
+D	Non sono utilizzati operatori di tipo logico (es. OR o AND) per combinare gli eventi tra loro
+
+9	La soluzione di un albero di guasto:
+@A	Peremette una semplificazione dell'albero di guasto applicando le regole dell'algebra di Boole
+B	Non è sempre possibile
+C	Può essere realizzata solo attraverso il metodo dei Minimal Cut Sets
+D	Per sistemi molto complessi, può essere affrontata con l'analisi Gate by Gate
+
+10	L'analisi quantitativa dell'albero dei guasti:
+A	Non richiede la raccolta dei dati relativi agli eventi base
+B	Permette la selezione degli appropriati parametri affidabilistici
+@C	Permette il calcolo dei parametri affidabilistici per il top event
+D	Non si avvale della semplificazione dell'albero di guasto
+
+<Lezione 28
+
+1	La normativa di riferimento per la protezione dei lavoratori dai rischi di natura elettrica è:
+A	Titolo III, Capo II del D.lgs. 81/08
+B	Titolo IV, Capo II del D.lgs. 81/08
+@C	Titolo III, Capo III del D.lgs. 81/08
+D	Titolo I del 81/08
+
+2	I lavori sotto tensione:
+A	Sono sempre vietati
+B	Possono essere effettuati se autorizzati dall'ASL
+C	Possono essere effettuati, per i sistemi di categoria II e III purchè affidati a lavoratori risconosciuti dal datore di lavoro come idonei
+@D	Possono essere effettuati, per i sistemi di categoria II e III purchè siano effettuati da aziende autorizzate ad operare sotto tensione e l'esecuzione di lavori su parti in tensione sia affidata a lavoratori abilitati dal datore di lavoro e riconosciuti idonei per tale attività
+
+3	I sistem di categoria 1:
+A	Sono detti anche "a bassissima tensione"
+B	Sono caratterizzati da tensione nominale
+@C	Sono caratterizzati da tensione nominale compresa tra 50 e 1000 V in corrente continua; compresa tra 120 e 1500 V in corrente alternata
+D	Sono caratterizzati da tensione nominale compresa tra 50 e 120 V in corrente continua; compresa tra 120 e 1000 V in corrente alternata
+
+4	I lavori non elettrici in prossimità di parti attive non protette:
+A	Sono sempre vietati
+B	Possono essere effettuati se autorizzati dall'ASL
+@C	Possono essere effettuati se vengano adottate disposizioni organizzative e procedurali idonee a proteggere i lavoratori dai conseguenti rischi
+D	Possono essere effettuati se autorizzati dal datore di lavoro
+
+5	La distanza di sicurezza da parti attive con tensione nominale pari a 130kV è:
+@A	5 metri
+B	3,5 metri
+C	7 metri
+D	4 metri
+
+6	La differenza di potenziale si misura in:
+A	Ampere
+@B	Volt
+C	Ohm
+D	Watt
+
+7	La resistenza elettrica di un conduttore:
+A	Non dipende dalla sua lunghezza prevalente
+B	Dipende solo dalla sua resistività
+@C	Dipende anche dalla sua resistività
+D	Non dipende dalla sezione del conduttore
+
+8	L'intensità di corrente si misura in:
+@A	Ampere
+B	Volt
+C	Ohm
+D	Watt
+
+9	Le anomalie della corrente elettrica:
+@A	Comprendono anche la dispersione elettrica
+B	Non comprendono il cortocircuito
+C	Ai fini della sicurezza elettrica comprensono solo il sovraccarico termico
+D	Considerano solo l'arco elettrico
+
+10	La condizione in conseguenza della quale i circuiti elettrici sono percorsi da una corrente superiore rispetto a quella per la quale sono stati dimensionati è:
+@A	Il sovraccarico termico
+B	Il cortocircuito
+C	L'arco elettrico
+D	La rigidità dielettrica
+
+<Lezione 29
+
+1	Il contatto elettrico indiretto:
+A	E' il contatto tra la persona e parti dell'impianto elettrico o dell'utilizzatore che si trovano in tensione in condizioni di ordinario funzionamento
+@B	E' il contatto tra la persona e parti dell'impianto elettrico o dell'utilizzatore che non si trovano in tensione in condizioni di ordinario funzionamento
+C	E' il contatto tra la persona e parti dell'impianto elettrico o dell'utilizzatore che vanno in tensione a causa di un guasto
+D	Avviene quando si entra in contatto con conduttori non nudi
+
+2	Il contatto elettrico diretto:
+@A	E' il contatto tra la persona e parti dell'impianto elettrico o dell'utilizzatore che si trovano in tensione in condizioni di ordinario funzionamento
+B	E' il contatto tra la persona e parti dell'impianto elettrico o dell'utilizzatore che non si trovano in tensione in condizioni di ordinario funzionamento
+C	E' il contatto tra la persona e parti dell'impianto elettrico o dell'utilizzatore che vanno in tensione a causa di un guasto
+D	Avviene quando si entra in contatto con conduttori non nudi
+
+3	La guaina isolante dei conduttori di terra deve essere di colore:
+A	Blu
+@B	Giallo-verde
+C	Nero
+D	Marrone
+
+4	L'interruttore differenziale:
+A	Offre protezione contro sovraccarico o cortocircuito
+B	E' detto anche magnetotermico
+@C	Offre protezione in caso di dispersione elettrica
+D	Offre protezione in caso di dispersione elettrica, sovraccarico o cortocircuito
+
+5	I componenti di seconda classe:
+@A	Devono essere collegati a terra
+B	Non devono essere collegati a terra
+C	Sono detti anche a isolamento potenziato
+D	Sono contrassegnati da un doppio triangolo
+
+6	La tetanizzazione è:
+A	L'arresto della respirazione
+@B	La contrazione involontaria delle fibre muscolari con parziale paralisi
+C	Lo stato di mancata sincronizzazione delle cellule cardiache
+D	La conseguenzza di bruciature dei tessuti
+
+7	La fibrillazione cardiaca è:
+A	L'arresto della respirazione
+B	La contrazione involontaria delle fibre muscolari con parziale paralisi
+@C	Lo stato di mancata sincronizzazione delle cellule cardiache
+D	La conseguenzza di bruciature dei tessuti
+
+8	La protezione passiva:
+A	Interrompe il circuito in caso di contatto
+@B	Non interrompe il circuito in caso di contatto ma è finalizzata ad evitare il contatto
+C	Si ottiene tramite l'intervento di un interruttore automatico differenziale
+D	Si ottiene tramite l'impianto di messa a terra
+
+9	La protezione attiva:
+@A	Interrompe il circuito in caso di contatto
+B	Non interrompe il circuito in caso di contatto ma è finalizzata ad evitare il contatto
+C	Si ottiene tramite il distanziamento
+D	Si ottiene tramite involucri o barriere
+
+10	La principale misura di potezione dai contatti indiretti è:
+@A	Il coordinamento tra l'interruttore differenziale e impianto di messa a terra
+B	L'isolamento
+C	Il distanziamento
+D	La formazione dei lavoratori
+
+<Lezione 30
+
+1	La dichiarazione di conformità degli impianti elettrici E' sancita dal:
+A	DM 37/08, art. 3
+B	DPR 462/01
+C	D.lgs. 81/08
+@D	DM 37/08, art.7
+
+2	Non sono soggetti a progettazione:
+@A	Impianti di potenza inferiore ai 6 kW
+B	Impianti in locali ad uso medico
+C	Impianti a maggior rischio incendio
+D	Impianti con pericolo di esplosione incendio
+
+3	La manutenzione degli impianti:
+A	Richiede il progetto
+@B	Non richiede il progetto
+C	Richiede il collaudo
+D	Richiede sia collaudo che progetto
+
+4	La dichiarazione di conformità degli impianti elettrici viene rilasciata:
+A	Dal costruttore
+B	Dall'INAIL
+@C	Dall'impresa installatrice
+D	Dal committente
+
+5	La verifica degli impianti di messa a terra E' disciplinata dal:
+A	DM 37/08
+@B	DPR 462/01
+C	D.lgs. 81/08
+D	Disposizioni dell'INAIL
+
+6	La prima delle verifiche periodiche, ai sensi dell'art. 3 del DPR 462/01:
+A	Viene effettuata dall'ASL a campione
+B	Viene effettuata dall'INAIL sistematicamente
+@C	Viene effettuata dall'INAIL a campione
+D	Viene effettuata dall'ASL sistematicamente
+
+7	Ai sensi del DPR 462/01:
+A	Le variazioni degli impianti devono essere comunicate all'ASL
+@B	Le variazioni degli impianti devono essere comunicate all'INAIL
+C	Non sono oggetto di comunicazione
+D	Deve essere comunicata solo la cessazione dell'esercizio
+
+8	Relativamente alla protezione contro i cortocircuiti:
+A	Il potere di interruzione del dispositivo di protezione deve essere uguale alla corrente di cortocircuito presunta
+B	Il potere di interruzione del dispositivo di protezione deve essere inferiore alla corrente di cortocircuito presunta
+@C	Il potere di interruzione del dispositivo di protezione non deve essere inferiore alla corrente di cortocircuito presunta
+D	Il potere di interruzione del dispositivo di protezione deve essere inferiore o uguale alla corrente di cortocircuito presunta
+
+9	L'esame a vista degli impianti elettrici:
+A	Non prevede il controllo della rispondenza tra progetto e impianto
+@B	Non prevede l'esecuzione di prove
+C	Comprende solo la verifica del grado di protezione
+D	Comprende solo la verifica di marchiatura CE
+
+10	La verifica ai fini della sicurezza:
+@A	E' finalizzata ad accertare i requisiti necessari per ridurre il rischio elettrico al limite dell'accettaibile
+B	E' finalizzata a verificare le prestazioni dell'impianto
+C	E' finalizzata a verificare se l'impianto E' stato correttamente installato
+D	E' finalizzata a verificare se l'impianto E' confrome alle regole dell'arte
+
+<Lezione 31
+
+1	Il limite inferiore di infiammabilità è:
+@A	La concentrazione minima di combustibile nella miscela aria-combustibile che consente a quest'ultima, se innescata, di reagire dando luogo ad una fiamma in grado di propagarsi a tutta la miscela
+B	La concentrazione massima di combustibile nella miscela aria-combustibile che consente a quest'ultima, se innescata, di reagire dando luogo ad una fiamma in grado di propagarsi a tutta la miscela
+C	La più bassa temperatura alla quale un combustibile liquido emette vapori sufficienti a formare con l'aria una miscela che, se innescata, brucia spontaneamente
+D	La più alta temperatura alla quale un combustibile liquido emette vapori sufficienti a formare con l'aria una miscela che, se innescata, brucia spontaneamente
+
+2	Una temperatura di infiammabilità inferiore a 21°C indica:
+A	Un liquido infiammabile
+@B	Un liquido molto infiammabile
+C	Una sostanza non infiammabile
+D	Un liquido combustibile
+
+3	Una temperatura di infiammabilità compresa tra 21 e 65 °C indica:
+A	Un liquido molto infiammabile
+B	Una sostanza non infiammabile
+C	Un liquido combustibile
+@D	Un liquido infiammabile
+
+4	Il comburente è:
+A	Una sostanza in grado di reagire con l'ossigeno dando luogo ad una reazione di combustione
+@B	Una sostanza ossidante che miscelata al combustibile ne permette la combustione
+C	Una sostanza ossidabile che miscelata al combustibile ne permette la combustione
+D	Una sostanza che impedisce la combustione
+
+5	Un liquido infiammabile brucia:
+A	Allo stato liquido, miscelandosi con l'ossigeno a concentrazioni comprese nel campo di infiammabilità
+B	Allo stato di vapore, miscelandosi con l'ossigeno a concentrazioni non necessariamente comprese nel campo di infiammabilità
+@C	Allo stato di vapore, miscelandosi con l'ossigeno a concentrazioni comprese nel campo di infiammabilità
+D	Allo stato liquido, miscelandosi con l'ossigeno a concentrazioni non necessariamente comprese nel campo di infiammabilità
+
+6	L'accensione indiretta:
+@A	Si verifica quando il calore d'innesco avviene nelle forme della convezione, conduzione e irraggiamento termico
+B	Si verifica quando una fiamma, una scintilla o altro materiale incandescente entra in contatto con un materiale combustibile in presenza di ossigeno
+C	Si verifica quando il calore è prodotto dallo sfregamento di due materiali
+D	Si verifica quando il calore viene prodotto dallo stesso combustibile
+
+7	Il comburente è:
+@A	Una sostanza ossidante che miscelata al combustibile ne permette la combustione
+B	Una sostanza ossidabile che miscelata al combustibile ne permette la combustione
+C	Una sostanza che impedisce la combustione
+D	Una sostanza non necessaria ai fini della combustione
+
+8	Risulta più pericoloso:
+@A	Un combustibile i cui vapori hanno un peso specifico maggiore a quello dell'aria
+B	Un combustibile i cui vapori hanno un peso specifico minore a quello dell'aria
+C	Un combustibile solido di grande pezzatura
+D	Un combustibile con elevata temperatura di accensione
+
+9	La fase iniziale o di accensione:
+A	E' detta a velocità di combustione costante
+@B	Va dal primo apparire della fiamma al flash over
+C	Va dal flash over al punto in cui la temperatura media raggiunge il suo valore massimo
+D	E' suddivisa in due stadi
+
+10	Il flash over:
+A	Si verifica dopo 60 minuti dall'inizio di ignizione
+B	E' il punto in cui la temperatura del gas presso il soffitto raggiunge il valore medio di 800°C
+@C	E' il punto in cui la temperatura del gas presso il soffitto raggiunge il valore medio di 600°C
+D	E'' uno stadio reversibile
+
+<Lezione 32
+
+1	L'ampiezza massima di un compartimento:
+A	Non dipende dalla destinazione del compartimento
+B	Dipende solo dal carico di incendio
+C	Dipende solo dai mezzi di spegnimento automatici installati
+@D	Dipende anche dalla presenza di mezzi di rivelazione e segnalazione
+
+2	Relativamente alla velocità di combustione:
+@A	Se c'è carenza di ossigeno, la velocità di combustione è proporzionale alla quantità d'aria che affluisce attraverso le aperture e non dipende dalla quantità, porosità e forma del combustibile
+B	Se c'è disponibilità di ossigeno, la velocità di combustione è proporzionale alla quantità d'aria che affluisce attraverso le aperture
+C	Se c'è carenza di ossigeno, la velocità di combustione è indipendente dalla quantità d'aria che affluisce attraverso le aperture
+D	Se c'è carenza di ossigeno, la velocità di combustione dipende in maniera apprezzabile dalla quantità, porosità e forma del combustibile
+
+3	Il carico di incendio è:
+A	La quantità di calore che si svilupperebbe per combustione incompleta di tutti i materiali combustibili contenuti nel compartimento, escluse le strutture, gli infissi pavimenti e soffitti
+B	La quantità di calore che si svilupperebbe per combustione incompleta di tutti i materiali combustibili contenuti nel compartimento, comprese le strutture, gli infissi pavimenti e soffitti
+@C	La quantità di calore che si svilupperebbe per combustione completa di tutti i materiali combustibili contenuti nel compartimento, comprese le strutture, gli infissi pavimenti e soffitti
+D	La quantità di calore che si svilupperebbe per combustione completa di tutti i materiali combustibili contenuti nel compartimento, escluse le strutture, gli infissi pavimenti e soffitti
+
+4	La formazione di gas nel processo di combustione non dipende da:
+A	Composizione chimica del combustibile/comburente
+B	Quantità di comburente disponibile
+C	Temperatura raggiunta durante la combustione
+@D	Velocità di combustione
+
+5	L'anidride carbonica:
+A	Deriva dalla combustione in assenza di ossigeno
+B	Produce asfissia se raggiunge il limite del 40 %
+@C	Non ha effetti tossici ma abbassa il livello di ossigeno nel sangue
+D	Presenta elevata tossicità
+
+6	L'ossido di carbonio:
+@A	Deriva dalla combustione in assenza di ossigeno
+B	Elevate concentrazioni possono essere sopportate a lungo dall'uomo
+C	Deriva dalla combustione in presenza di ossigeno
+D	E' una sostanza estinguente
+
+7	Le polveri estinguenti:
+A	Danneggiano le strutture sulle quali sono scaricate
+B	Sono altamente instabili
+C	Sono stabili fino a 80°C
+@D	Sono stabili fino a 60°C
+
+8	L'anidride carbonica:
+@A	E' utilizzabile in qualsiasi tipo di incendio, fatta eccezione per quelle sostanze che sono in grado di decomporla
+B	E' utilizzabile per gli incendi di nitrocellulose
+C	E' in grado di produrre un'azione estinguente per raffreddamento, dovuta all'assorbimento di calore generato dal passaggio dalla fase gassosa alla fase liquida
+D	E' conservata allo stato gassoso
+
+9	Gli incendi di classe A:
+@A	Sono incendi di materiali solidi
+B	Sono incendi di materiali liquidi
+C	Sono incendi di impianti elettrici
+D	Sono incendi di gas
+
+10	La disgregazione consiste:
+A	Nell'utilizzo di sostanze inibitrici
+@B	Nell'utilizzo di reti spostafiamme, getti tagliafiamme, azione meccanica di mezzi estinguenti
+C	Nella diminuzione della temperatura
+D	Nella diminuzione della concentrazione del combustibile o del comburente
+
+<Lezione 33
+
+1	Gli interventi in fase di esercizio prevedono:
+A	L'addestramento del personale
+@B	L'accurata verifica periodica delle attrezzature di difesa contro gli incendi
+C	L'installazione di ogni necessario sistema di rivelazione di presenza di gas nell'ambiente
+D	L'installazione di sistemi di rilevazione di fumi
+
+2	La prevenzione incendi:
+A	Può essere attuata solo in fase di esercizio
+B	Può essere attuata solo in fase di progettazione
+C	Indica l'insieme delle azioni che devono essere messe in atto per gestire l'incendio una volta verificatosi
+@D	Indica l'insieme delle azioni che devono essere messe in atto per impedire il verificarsi dell'incendio
+
+3	La difesa attiva avviene attraverso:
+A	L'addestramento del personale
+B	Interventi in fase di progettazione
+C	L'adozione di impianti elettrici adeguati al tipo di impianto progettato
+@D	L'estinzione e contenimento dell'incendio
+
+4	Il contenimento dell'incendio è:
+@A	Una misura di difesa attiva dagli incendi
+B	Una misura di difesa passiva dagli incendi
+C	Una misura di prevenzione dell'incendio
+D	L'insieme di operazioni di estinzione dell'incendio
+
+5	La prima fase della valutazione del rischio incendio ai sensi del DM 10/03/98 è:
+A	L'individuazione dei rischi
+B	L'individuazione dei lavoratori e di altre persone esposte a rischi di incendio
+@C	L'individuazione dei pericoli di incendio
+D	La valutazione del rischio residuo di incendio
+
+6	I luoghi di lavoro a rischio incendio medio sono:
+A	Luoghi di lavoro in cui sono presenti poche sostanze infiammabili
+@B	Luoghi di lavoro in cui possono verificarsi incendi, ma nei quali la probabilità di propagazione dello stesso è da ritenersi limitata
+C	Luoghi di lavoro in cui non sono presenti sostanze infiammabili
+D	Luoghi di lavoro in cui sono presenti sostanze infiammabili o condizioni che possono favorire lo sviluppo di incendi con elevata probabilità di propagazione
+
+7	I luoghi di lavoro a rischio incendio alto sono:
+A	Luoghi di lavoro in cui sono presenti poche sostanze infiammabili
+B	Luoghi di lavoro in cui possono verificarsi incendi, ma nei quali la probabilità di propagazione dello stesso è da ritenersi limitata
+C	Luoghi di lavoro in cui non sono presenti sostanze infiammabili
+@D	Luoghi di lavoro in cui sono presenti sostanze infiammabili o condizioni che possono favorire lo sviluppo di incendi con elevata probabilità di propagazione
+
+8	Le attività di categoria C:
+A	Sono soggette a controlli a campione
+B	Sono soggette a sopralluogo con rilascio di verbale tecnico di accertamento
+@C	Sono soggette a sopralluogo con rilascio del CPI
+D	Non sono soggette a valutazione di conformità progetto
+
+9	Le attività di categoria A, ai sensi del DPR 151/11:
+@A	Sono attività dotate di regola tecnica e limitato livello di complessità
+B	Sono attività dotate di regola tecnica e elevato livello di complessità
+C	Sono attività non dotate di regola tecnica e elevato livello di complessità
+D	Sono attività a rischio elevato
+
+10	Le attività di categoria B, ai sensi del DPR 151/11:
+A	Non sono soggette a parere di conformità sul progetto da parte dei VVF
+B	Sono soggette a parere di conformità sul progetto da parte dei VVF, che effettuano un sopralluogo entro 60 giorni
+@C	Sono soggette a parere di conformità sul progetto da parte dei VVF, che effettuano controlli con sopralluogoa campione entro 60 giorni
+D	Sono soggette a Certificato di Prevenzione Incendi
+
+<Lezione 34
+
+1	Il Microclima è:
+A	L'insieme dei fattori legati all'individuo che condizionano gli scambi termici uomo-ambiente
+@B	L'insieme dei fattori fisici, quali la Temperatura, l'Umidità Relativa e la velocità dell'aria che caratterizzano l'ambiente indoor e di conseguenza gli scambi termici uomo-ambiente
+C	L'insieme dei fattori che caratterizzano l'ambiente outdoor
+D	L'insieme dei fattori, quali l'Illuminamento, l'Umidità Relativa e la velocità dell'aria che caratterizzano l'ambiente indoor e di conseguenza gli scambi termici uomo-ambiente
+
+2	L'omeostasi termica:
+@A	E' garantita nella condizione in cui la quantità di calore prodotta ed acquisita dall'organismo eguaglia la quantità dissipata
+B	E' garantita nella condizione in cui la quantità di calore prodotta ed acquisita dall'organismo è maggiore della quantità dissipata
+C	E' garantita nella condizione in cui la quantità di calore prodotta ed acquisita dall'organismo è minore della quantità dissipata
+D	E' garantita quando B>0
+
+3	La velocità dell'aria si misura mediante:
+A	Lo psicrometro
+B	Il termometro
+@C	L'anemometro
+D	Il globotermometro
+
+4	L'indice WBGT rappresenta:
+@A	Il valore, in relazione al dispendio metabolico associato ad una particolare attività lavorativa, oltre il quale il soggetto si trova in una situazione di stress termico
+B	Il valore, indipendente dal dispendio metabolico associato ad una particolare attività lavorativa, oltre il quale il soggetto si trova in una situazione di stress termico
+C	Il valore, in relazione al dispendio metabolico associato ad una particolare attività lavorativa, oltre il quale il soggetto si trova in una condizione di eccessiva dispersione termica
+D	Il valore, in relazione al dispendio metabolico associato ad una particolare attività lavorativa, oltre il quale il soggetto si trova in una condizione di comfort termico
+
+5	La valutazione del comfort termico negli ambienti moderati:
+A	Non è necessaria
+B	Viene effettuata attraverso l'indice WBGT
+@C	Viene effettuata attraverso gli indici PMV e PPD
+D	Viene effettuata attraverso l'indice PPD
+
+6	L'indice PMV:
+A	Rappresenta la percentuale di individui che in un determinato ambiente prova una sensazione di disagio
+B	Assume valori compresi tra 0 e 3
+@C	Assume valori compresi tra +3 e -3
+D	Assume valori compresi tra 0 e -3
+
+7	Un ambiente di lavoro caratterizzato da PMV= +2 e PPD=75% è un ambiente termico:
+@A	Caldo
+B	Molto caldo
+C	Tiepido
+D	Ambiente in cui si verifica il benessere termico degli occupanti
+
+8	Nel caso di ambiente termico freddo, la condizione IREQmin <Icl<IREQneu:
+A	E' rappresentativa di una situazione di rschio molto elevata
+@B	Indica che la protezione è accettabile e non produce significative variazioni alla temperatura corporea
+C	Indica che la protezione è insufficiente e permane il rischio ipotermia
+D	Indica che la protezione è eccessiva
+
+9	In un ambiente moderato-caldo un PMV ≤ +0,5 (ovvero PPD ≤ 10%):
+A	Indicano un'area di discomfort
+B	Indicano un'area di allarme
+@C	Indicano un'area di comfort
+D	Possono verificarsi rischi per la salute
+
+10	In caso di ambiente severo termicamente:
+A	Non è mai prevista sorveglianza sanitaria
+B	La valutazione del rischio è orientata solo a definire l'esigenza di zone di acclimatamento in avvicinamento od allontanamento dai luoghi termicamente severi
+@C	La valutazione del rischio è orientata anche a definire delle procedure operative di tutela del lavoratore
+D	La valutazione del rischio è orientata solo a definire le caratteristiche di protezione dei DPI
+
+
+<Lezione 35
+
+1	La normativa di riferimento in materia di tutela dei lavoratori esposti ad agenti chimici è:
+A	D.Lgs. 81/08 Titolo IX, Capo III
+@B	D.Lgs. 81/08 Titolo IX, Capo I
+C	D.Lgs. 626/94
+D	D.Lgs. 81/08 Titolo X
+
+2	Il valore limite di esposizione professionale è:
+@A	Il limite della concentrazione media ponderata nel tempo di un agente chimico nell'aria all'interno della zona di respirazione di un lavoratore in relazione ad un determinato periodo di riferimento
+B	Il limite della concentrazione del relativo agente, di un suo metabolita, o di un indicatore di effetto, nell'appropriato mezzo biologico
+C	La misura, usualmente nel sangue, urine e aria espirata del soggetto esposto, degli agenti chimici presenti nel luogo di lavoro
+D	Il limite della concentrazione media ponderata nel tempo di un agente chimico, di un suo metabolita, o di un indicatore di effetto, nell'appropriato mezzo biologico
+
+3	Se i risultati della valutazione dei rischi dimostrano un rischio basso per la sicurezza e irrilevante per la salute dei lavoratori:
+A	Non effettua la formazione e informazione dei lavoratori
+@B	Non si applicano le disposizioni degli articoli 225, 226, 229, 230
+C	Si applicano le disposizioni degli articoli 225, 226, 229, 230
+D	Il lavoratore è sottoposto a sorveglianza sanitaria
+
+4	L'assorbimento delle sostanze chimiche per inalazione non dipende da:
+A	Dimensione delle particelle solide
+B	Diffusibilità degli aeriformi
+C	Concentrazione esterna degli inquinanti
+@D	Liposolubilità degli agenti
+
+5	L'assorbimento transcutaneo delle sostanze chimiche non dipende da:
+A	Liposolubilità degli agenti
+B	Idrosolubilità degli agenti
+@C	Diffusibilità degli aeriformi
+D	Stato della cute e delle mucose
+
+6	I rischi per la salute dei lavoratori esposti ad agenti chimici sono dovuti:
+A	All'infiammabilità delle sostanze
+@B	All'effetto tossico delle sostanze
+C	All'esplosività delle sostanze
+D	Alla solubilità delle sostanze
+
+7	I TLV rappresentano:
+@A	Le concentrazioni al di sotto delle quali si ritiene che la maggior parte dei lavoratori possa essere esposta ripetutamente giorno per giorno senza effetti negativi per 	 la salute
+B	Le concentrazioni al di sotto delle quali si ritiene che tutti dei lavoratori possa essere esposta ripetutamente giorno per giorno senza effetti negativi per la salute
+C	Le concentrazioni al di sotto delle quali si ritiene che i lavoratori non debbano essere esposti
+D	Le concentrazioni al di sotto delle quali si ritiene i lavoratori particolarmente sensibili possano essere esposti ripetutamente giorno per giorno senza effetti negativi per la salute
+
+8	Il TLV-TWA:
+@A	E' la concentrazione media alla quale, quasi tutti i lavoratori possono essere esposti, ripetutamente, giorno dopo giorno, senza subire effetti dannosi alla salute
+B	Viene usato quando la sostanza presenta anche effetti acuti
+C	Integra il TLV-STEL
+D	Integra il TLV-CEILING
+
+9	Relativamente al TLV-STEL:
+A	Le escursioni non devono essere più di 4 e il TLV-TWA giornaliero può essere superato
+B	Le escursioni non devono essere più di 4, deve intercorrere un intervallo di almeno 30 minuti e il TLV-TWA giornaliero non può essere superato
+@C	Le escursioni non devono essere più di 4, deve intercorrere un intervallo di almeno 60 minuti e il TLV-TWA giornaliero non può essere superato
+D	E' il calore che non deve essere mai superato
+
+10	Per le miscele con effetto additivo, il calcolo del TLV:
+A	Si valuta separatamente
+@B	Si valuta attraverso la somma dei rapporti tra le concentrazioni dei diversi inquinanti e i rispettivi TLV
+C	Si valuta attraverso il prodotto dei rapporti tra le concentrazioni dei diversi inquinanti e i rispettivi TLV
+D	Si valuta attraverso rapporto tra le concentrazioni dei diversi inquinanti e i rispettivi TLV
+
+<Lezione 36
+
+1	La valutazione del rischio può essere condotta:
+A	Solo attraverso algoritmi
+B	Solo attraverso misurazioni
+@C	Attraverso algoritmi o misurazioni
+D	Attraverso banche dati
+
+2	La Valutazione del rischio chimico è disciplinata dall'articolo:
+@A	223 del D.lgs. 81/08
+B	28 del D.lgs. 81/08
+C	17 del D.lgs. 81/08
+D	224 del D.lgs. 81/08
+
+3	Nel caso di nuova attività che comporti la presenza di agenti chimici pericolosi, la valutazione dei rischi deve essere effettuata:
+A	Entro 30 giorni dall'inizio dell'attività
+B	Entro 60 giorni dall'inizio dell'attività
+C	Entro 120 giorni dall'inizio dell'attività
+@D	Preliminarmente, prima dell'inizio dell'attività
+
+4	I guanti di protezione da agenti chimici devono essere conformi alla norma tecnica:
+A	UNI EN 388
+@B	UNI EN 374
+C	UNI EN 166
+D	UNI EN 141
+
+5	Gli occhiali di protezione da agenti chimici devono essere conformi alla norma tecnica:
+A	UNI EN 388
+B	UNI EN 374
+@C	UNI EN 166
+D	UNI EN 141
+
+6	I filtri di protezione dalle polveri sono contrassegnati da colore:
+@A	Bianco
+B	Verde
+C	Giallo
+D	Marrone
+
+7	I filtri di protezione da gas e vapori organici sono contrassegnati da colore:
+A	Bianco
+B	Verde
+C	Giallo
+@D	Marrone
+
+8	Le frasi R:
+A	Sono ancora vigenti
+@B	Sono state sostituite dalle frasi H
+C	Sono state sostituite dalle frasi P
+D	Sono state sostituite dai consigli di prudenza
+
+9	Le frasi H sono disciplinate da:
+@A	Regolamento 1272/2008
+B	Regolamento 1907/2006
+C	D.lgs. 81/08
+D	Direttiva 67/548/CEE
+
+10	I pittogrammi di pericolo:
+A	Sono costituiti da simbolo nero su fondo arancione
+@B	Sono costituiti da simbolo nero su fondo bianco e cornice rossa
+C	Sono disciplinati dalla direttiva 67/548/CEE
+D	Non sono disciplinati dal Regolamento 1272/2008
+
+<Lezione 37
+
+1	Il metodo MoVaRisCh:
+@A	Consente di calcolare il rischio separatamente per esposizioni inalatorie e cutanee
+B	Consente di calcolare solo il rischio per esposizioni inalatorie
+C	Consente di calcolare solo il rischio per esposizioni cutanee
+D	Consente di calcolare solo il rischio per ingestione
+
+2	Il Rischio Cumulativo è compreso tra:
+A	1 < Rcum < 100
+@B	1 < Rcum < 141
+C	1 < Rcum < 80
+D	0,1 < Rcum < 100
+
+3	La prima fase della valutazionedel rischio chimico consiste:
+A	Nel calcolo del P score
+@B	Nell'individuazione dei lavoratori esposti, indentificazione delle sostanze chimiche pericolose, raccolta delle Schede di Sicurezza, individuazione dei tempi di esposizione e quantità di utilizzo
+C	Nella gestione del rischio residuo
+D	Nel calcolo del Rinal e del Rcute
+
+4	L'indice di pericolosita P (P score) viene calcolato:
+A	Attribuendo ad ogni frase P un punteggio
+B	Attribuendo ad ogni frase S un punteggio
+C	Attribuendo ad ogni frase R un punteggio
+@D	Attribuendo ad ogni frase H (Hazard) un punteggio
+
+5	Nel calcolo dell'indice di esposizione per le vie inalatorie, l'indice I è funzione di:
+A	Proprietà chimico - fisiche del prodotto chimico; quantità in uso; tipologia d'uso
+@B	Proprietà chimico - fisiche del prodotto chimico; quantità in uso; tipologia d'uso; tipologia di controllo; tempo di esposizione
+C	Tipologia d'uso; tipologia di controllo; tempo di esposizione
+D	Proprietà chimico - fisiche del prodotto chimico; tipologia d'uso; tipologia di controllo; tempo di esposizione
+
+6	L'indice di esposizione per via cutanea tiene conto di:
+@A	Tipologia d'uso; livelli di contatto cutaneo
+B	Proprietà chimico - fisiche del prodotto chimico; quantità in uso
+C	Tipologia d'uso; quantità in uso
+D	Livelli di contatto cutaneo; quantità in uso
+
+7	Se 21 < R < 40:
+A	Si applicano solo le misure e principi generali per la prevenzione dei rischi di cui all'art. 224 del D.lgs. 81/08
+@B	Si applicano le misure previste dagli articoli 225, 226, 229 e 230 del D.lgs. 81/08
+C	Il Rischio è elevato
+D	Il Rischio è irrilevante per la salute
+
+8	Se 0,1 < R < 15:
+A	E' necessario rivedere l'assegnazione dei punteggi
+B	Il Rischio è superiore a irrilevante per la salute
+@C	Il Rischio è irrilevante per la salute
+D	Il Rischio è elevato
+
+9	Se 40 < R < 80:
+@A	Il Rischio è elevato
+B	Il Rischio è irrilevante per la salute
+C	Ѐ necessario rivedere l'assegnazione dei punteggi
+D	Il rischio è grave
+
+10	L'articolo 229 prevede:
+A	Disposizioni in caso di incidenti o emergenze
+B	Misure specifiche di prevenzione e protezione
+C	La predisposizione di cartelle sanitarie e di rischio
+@D	La Sorveglianza Sanitaria dei lavoratori esposti al rischio chimico
+
+<Lezione 38
+
+1 	La normativa di riferimento in materia di tutela dei lavoratori esposti ad agenti biologici è:
+a	D.Lgs. 81/08 Titolo IX
+@b	D.Lgs. 81/08 Titolo X
+c	D.Lgs. 626/94
+d	D.Lgs. 81/00 Titolo X
+
+2 	Un agente biologico del gruppo 3:
+a	? un agente che presenta poche possibilità di causare malattie in soggetti umani
+b	? un agente che può causare malattie gravi in soggetti umani e non sono disponibili efficaci misure profilattiche e terapeutiche
+@c	? un agente che può causare malattie gravi in soggetti umani e costituisce un serio rischio per i lavoratori; l’agente può propagarsi nelle comunità ma di norma sono disponibili efficaci misure profilattiche e terapeutiche
+d	? poco probabile che si propaghi nelle comunità
+
+3 	La valutazione del rischio biologico deve essere aggiornata:
+@a	Ogni 3 anni
+b	Ogni 4 anni
+c	Solo in occasione di modifiche significative dell'attività lavorativa
+d	Ogni 5 anni
+
+4 	Ai sensi dell'art. 270 del D.lgs. 81/08 deve essere autorizzato dal Ministero della Salute:
+@a	Il datore di lavoro che utilizza un agente biologico di gruppo 4
+b	Il datore di lavoro che utilizza un agente biologico di gruppo 3
+c	Il datore di lavoro che utilizza agenti biologici di gruppo 3 e 4
+d	Nessun Datore di Lavoro
+
+5 	La pericolosità di un agente biologico viene valutata in base a:
+a	Infettività e Patogenicità
+@b	Infettività, Patogenicità, Trasmissibilità, Neutralizzabilità
+c	Infettività, Patogenicità, Trasmissibilità, Resistenza all'interno dell'ambiente
+d	Infettività, Patogenicità, Temperatura di replicazione, Neutralizzabilità
+
+6 	Il rischio biologico generico:
+@a	? presente in tutti gli ambienti di lavoro
+b	? presente solo negli ambienti sanitari
+c	? proprio della mansione svolta
+d	Non è presente negli ambienti di lavoro
+
+7 	Il rischio biologico deliberato:
+a	? presente in tutti gli ambienti di lavoro
+@b	Prevede che l'agente biologico sia ben noto
+c	Non prevede che l'agente biologico sia noto
+d	Non è presente negli ambienti industriali
+
+8 	Le attività sanitarie sono caratterizzate da:
+a	Un rischio biologico generico
+@b	Rischio biologico specifico
+c	Non sussiste il rischio biologico
+d	Basso rischio di contrarre patologie
+
+9 	Per gli agenti biologici di gruppo 4 devono essere impiegate cappe di classe:
+a	1
+b	2A
+@c	3
+d	2B1
+
+10 	Nelle attività a rischio biologico specifico la protezione viene realizzata principalmente mediante:
+@a	Cappe di aspirazione
+b	Formazione dei lavoratori
+c	Misure Igieniche
+d	Eliminazione degli agenti biologici
+
+<Lezione 39
+
+1 	La luminanza si misura in:
+a	Lumen
+b	Candela
+c	Lux
+@d	Candela per metro quadrato
+
+2 	La luminanza esprime:
+@a	La luminosità che una superficie produce
+b	La quantità di energia luminosa emessa dalla sorgente luminosa
+c	Il flusso luminoso incidente su una superficie
+d	La quantità di energia luminosa emessa da una sorgente di luce nell'unità di tempo
+
+3 	Il fattore di riflessione luminoso:
+a	Esprime il rapporto tra il flusso luminoso trasmesso da una superficie trasparente ed il flusso luminoso incidente
+@b	Esprime il rapporto tra il flusso luminoso riflesso dalla superficie ed il flusso luminoso incidente
+c	Esprime il rapporto tra il flusso luminoso assorbito dalla superficie ed il flusso luminoso incidente
+d	Non condiziona l'illuminazione di un ambiente
+
+4 	La distribuzione delle luminanze:
+a	? un fattore trascurabile nella progettazione di un ambiente luminoso
+@b	Il rapporto tra la luminanza media delle aree immediatamente circostanti la zona del compito visivo e quella del compito, secondo i dati in letteratura, non deve essere inferiore di 1:3
+c	Il rapporto tra la luminanza media delle aree immediatamente circostanti la zona del compito visivo e quella del compito, secondo i dati in letteratura, non deve essere inferiore di 1:10
+d	Il rapporto tra la luminanza media delle zone periferiche del campo visivo e quella del compito, secondo i dati in letteratura, non deve essere inferiore di 1:3
+
+5 	I valori di illuminamento medio mantenuto:
+a	Sono stabiliti dal D.lgs. 81/08
+b	Sono stabiliti dal datore di lavoro
+c	Sono stabiliti dal progettista
+@d	Sono stabiliti dalla norma UNI EN 12464-1:2004
+
+6 	Se l'illuminamento nella zona del compito è pari a 500 lux, l'illuminamento minimo nelle zone immediatamente circostanti è pari a:
+a	400 lux
+b	500 lux
+@c	300 lux
+d	100 lux
+
+7 	L'indice UGR viene utilizzato per:
+@a	La valutazione dell'abbagliamento molesto direttamente prodotto dagli apparecchi di illuminazione
+b	La valutazione dell'abbagliamento debilitante direttamente prodotto dagli apparecchi di illuminazione
+c	La valutazione dell'illuminamento
+d	La valutazione della luminanza
+
+8 	L'indice di resa del colore nei luoghi di lavoro non deve essere inferiore a:
+a	50
+@b	80
+c	100
+d	40
+
+9 	Il fattore medio di luce diurno viene calcolato mediante rilevazioni fatte con:
+a	Luminanzometro
+@b	Luxmetro
+c	Psicrometro
+d	Luxmetro più Luminanzometro
+
+10	Nella valutazione del Fattore medio di luce diurno, l'illuminamento medio interno (Eim):
+a	Coincide con il valore di illuminamento massimo in un certo numero di punti
+@b	Va calcolato come media (aritmetica) degli illuminamenti in un certo numero di punti
+c	Non dipende dal numero di punti in cui si fa la valutazione
+d	Va calcolato come media geometrica degli illuminamenti in un certo numero di punti
+
+<Lezione 40
+
+1 	La definizione di movimentazione manuale dei carichi è riportata da:
+a	L'art. 170 del D.lgs. 81/08
+b	L'art. 169 del D.lgs. 81/08
+c	L'art. 168 del D.lgs. 81/08
+@d	L'art. 167 del D.lgs. 81/08
+
+2 	Il "Low Back Pain" è una patologia che interessa:
+a	Il tratto cervicale della colonna vertebrale
+b	Il tratto sacrale della colonna vertebrale
+@c	Il tratto lombare della colonna vertebrale
+d	Il tratto toracico della colonna vertebrale
+
+3 	Secondo la norma UNI 11228-1 il peso sollevabile in condizioni ideali per gli uomini durante la MMC è pari a:
+@a	25 kg
+b	30 kg
+c	15 kg
+d	10 kg
+
+4 	Gli obblighi del datore di lavoro in materia di MMC sono individuati da:
+a	L'art. 170 del D.lgs. 81/08
+b	L'art. 169 del D.lgs. 81/08
+@c	L'art. 168 del D.lgs. 81/08
+d	L'art. 167 del D.lgs. 81/08
+
+5 	Nell'ambito degli obblighi del datore di lavoro in materia di MMC, egli deve, in primo luogo:
+@a	Individuare i compiti che comportano una movimentazione manuale potenzialmente a rischio ed evitare la movimentazione facendo ricorso ad attrezzature meccaniche
+b	Individuare i compiti che comportano una movimentazione manuale potenzialmente a rischio e sottoporre i lavoratori a sorveglianza sanitaria
+c	Individuare i compiti che comportano una movimentazione manuale potenzialmente a rischio e informare i lavoratori
+d	Individuare i compiti che comportano una movimentazione manuale potenzialmente a rischio e formare i lavoratori
+
+6 	La prevenzione del rischio di patologie da sovraccarico biomeccanico, deve considerare gli elementi di riferimento riportati:
+@a	Nell'Allegato XXXIII del D.lgs. 81/08
+b	Nell'Allegato XXX del D.lgs. 81/08
+c	Nell'Allegato XXXI del D.lgs. 81/08
+d	Nell'Allegato XXXII del D.lgs. 81/08
+
+7 	Lo sforzo fisico durante la MMC è contenuto se:
+a	Il lavoratore effettua bruschi movimenti
+b	Il lavoratore solleva carichi pesanti
+@c	Il lavoratore non effettua movimenti di torsione del tronco
+d	Il lavoratore esegue movimenti con il corpo in equilibrio
+
+8 	La prevenzione primaria del Rischio MMC:
+a	Non prevede la Meccanizzazione dell'attività lavorativa
+b	Non comprende l'Ausiliazione
+@c	Non comprende la riabilitazione dei lavoratori che soffrono di patologie causate dalla MMC
+d	Comprende anche la sorveglianza sanitaria dei lavoratori
+
+9 	La prevenzione secondaria del Rischio MMC prevede:
+a	La formazione e informazione dei lavoratori
+b	L'Ausiliazione
+c	La riabilitazione dei lavoratori che soffrono di patologie causate dalla MMC
+@d	Anche la sorveglianza sanitaria dei lavoratori
+
+10 	La prevenzione terziaria del Rischio MMC prevede:
+a	La formazione e informazione dei lavoratori
+b	Anche la Meccanizzazione dell'attività lavorativa
+@c	La riabilitazione dei lavoratori che soffrono di patologie causate dalla MMC
+d	Solo la sorveglianza sanitaria dei lavoratori
+
+<Lezione 41
+
+1 	Il Metodo NIOSH viene utilizzato per la valutazione:
+a	Del rischio chimico
+@b	Dei rischi derivanti dall'attività di sollevamento e trasporto di carichi
+c	Dei rischi derivanti da movimenti ripetitivi
+d	Dei rischi derivanti da operazioni di traino/spinta/trasporto in piano
+
+2 	Il Peso Limite Raccomandato nel metodo NIOSH si calcola:
+a	A partire dalla costante di peso pari a 25 kg
+b	A partire dalla costante di peso pari a 30 kg
+c	A partire dalla costante di peso pari a 15 kg
+@d	A partire dalla costante di peso pari a 23 kg
+
+3 	Se dalla valutazione del rischio effettuata con metodo NIOSH risulta un I.S. superiore a 1,25:
+a	Il rischio è trascurabile
+b	Il rischio è medio
+c	Si devono attuare interventi di prevenzione terziaria, ovvero riabilitazione dei lavoratori con problematiche connesse alla MMC
+@d	Il rischio è alto
+
+4 	Il Peso Limite Raccomandato nel metodo NIOSH si calcola:
+a	Moltiplicando la costante di peso per il fattore altezza e fattore dislocazione verticale
+b	Moltiplicando la costante di peso per il fattore altezza, fattore dislocazione verticale e fattore frequenza
+@c	Moltiplicando la costante di peso per il fattore altezza, fattore dislocazione verticale, fattore orizzontale, fattore dislocazione angolare, fattore presa e fattore frequenza
+d	Moltiplicando la costante di peso per il fattore altezza, fattore dislocazione verticale, fattore orizzontale, fattore dislocazione angolare e fattore presa
+
+5 	Il Metodo Snook e Ciriello viene utilizzato per la valutazione:
+a	Del rischio chimico
+b	Dei rischi derivanti dall'attività di sollevamento e trasporto di carichi
+c	Dei rischi derivanti da movimenti ripetitivi
+@d	Dei rischi derivanti da operazioni di traino/spinta/trasporto in piano
+
+6 	L'indice di esposizione nel metodo Snook e Ciriello è dato:
+a	Dal prodotto della costante di peso e fattori moltiplicativi
+b	Dal rapporto tra il numero di azioni effettivamente svolte in un turno di lavoro e il numero di azioni raccomandate
+@c	Dal rapporto tra il peso o forza effettivamente azionati e il valore raccomandato
+d	Dal rapporto tra il numero il numero di azioni raccomandate e il numero di azioni effettivamente svolte in un turno di lavoro
+
+7 	I valori raccomandati per le azioni di spinta, traino e trasporto in piano sono stabiliti:
+@a	Dalle tabelle Psicofisiche
+b	Dal D.lgs. 81/08
+c	Dal Datore di Lavoro
+d	Dal Responsabile del Servizio di Prevenzione e Protezione
+
+8 	Il Metodo OCRA viene utilizzato per la valutazione:
+a	Del rischio chimico
+b	Dei rischi derivanti dall'attività di sollevamento e trasporto di carichi
+@c	Dei rischi derivanti da movimenti ripetitivi
+d	Dei rischi derivanti da operazioni di traino/spinta/trasporto in piano
+
+9 	Valori dell'indice OCRA inferiori a 1 indicano:
+@a	Che l'attività lavorativa non comporta rischi
+b	Che l'attività è caratterizzata da un rischio medio-alto
+c	Che l'attività è caratterizzata da un rischio alto
+d	Che l'attività è caratterizzata da un rischio medio
+
+10 	L'indice OCRA è dato:
+a	Dal prodotto della costante di peso e fattori moltiplicativi
+@b	Dal rapporto tra il numero di azioni effettivamente svolte in un turno di lavoro e il numero di azioni raccomandate
+c	Dal rapporto tra il numero di azioni raccomandate e il numero di azioni effettivamente svolte in un turno di lavoro
+d	Dal rapporto tra il peso sollevato e il peso limite raccomandato
+
+<Lezione 42
+
+1   Nel caso in cui il rapporto tra Delivery Time e Cumulative Lead Time risulti molto minore di 1:
+@a   Ci troviamo nel contesto tipico della produzione per il magazzino
+b   Non bisogna anticipare la totalità dei processi logistico‐produttivi
+c   Il cliente tipicamente può personalizzare il proprio prodotto
+d   Ci troviamo nel contesto tipico della produzione su commessa singola
+
+2   L'approccio gerarchico alla pianificazione della produzione:
+a   Permette di aumentare sensibilmente il numero di variabili del problema
+b   Considera sempre il massimo livello di dettaglio delle informazioni
+@c   Permette di semplificare il problema della pianificazione
+d   Considera un solo orizzonte temporale di pianificazione
+
+3   La pianificazione aggregata della produzione:
+a   Elabora i piani di produzione per i singoli codici di produzione
+@b   Elabora i piani di produzione su famiglie di prodotti
+c   Non prevede schemi di aggregazione per gli intervalli temporali di pianificazione
+d   Non utilizza previsioni di vendita
+
+4   Il piano principale di produzione:
+a   Deve essere elaborato per ciascuna famiglia di produzione
+b   Elabora le informazioni contenute nel piano MRP
+c   Richiede la conoscenza della distinta base del prodotto
+@d   Tiene conto dei vincoli di capacità produttiva
+
+5   La pianificazione dei fabbisogni di materiali:
+a   Rappresenta l'input principale dell'MPS
+b   Non prevede una fase di 'esplosione' della distinta base del codice padre
+@c   Richiede necessariamente la conoscenza della distinta base del prodotto
+d   Elabora solo i piani di ordini da emettere ai fornitori
+
+6   La scorta di sicurezza:
+@a   Dipende anche dalla probabilità di mancanza del materiale
+b   Non viene considerata al livello di piano MRP
+c   Non tutela rispetto a variabilità del tempo di approvvigionamento
+d   Non è detto che incrementi in livello medio inventariale
+
+7   Il percorso critico di un progetto:
+a   Richiede solo il calcolo dei 'tempi al più tardi' delle attività
+b   Richiede solo il calcolo dei 'tempi al più presto' delle attività
+c   Non è sempre possibile individuarlo
+@d   Incide sulla sua durata
+
+8   Il tasso di guasto di un sistema:
+a   Non incide sulla scelta della politica di manutenzione del sistema
+@b   Assume il tipo andamento a 'vasca da bagno'
+c   Ha sempre andamento monotono
+d   Non è legato alle caratteristiche affidabilistiche del sistema
+
+9   In uno schema RBD in serie:
+@a   L'affidabilità può essere facilmente calcolata come prodotto delle affidabilità
+b   Il valore di affidabilità coincide con quello ottenibile disponendo gli stessi elementi in parallelo
+c   Non è sempre possibile valutarne l'affidabilità
+d   L'affidabilità risultante è maggiore della più piccola delle affidabilità del sistema
+
+10  Il metodo FMECA
+a   Rispetto al metodo HAZOP, si focalizza maggiormente sui processi
+b   Permette di calcolare la probabilità del Top Event
+@c   Prevede il calcolo dell'indice di priorità del rischio
+d   Richiede lo sviluppo di un albero dei guasti

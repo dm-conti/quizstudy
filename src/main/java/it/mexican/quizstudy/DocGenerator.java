@@ -26,7 +26,7 @@ public class DocGenerator
 
     public static void main(String[] argv) throws Exception
     {
-        String fileName = "risposte-ordinate-aziendale";
+        String fileName = "risposte-ordinate-sicurezza-impianti-industriali";
 
         System.out.println("START");
 
@@ -35,7 +35,7 @@ public class DocGenerator
 
         entityManager.getTransaction().begin();
 
-        Query queryQuestions = entityManager.createQuery("FROM Question WHERE lesson.exam.description = 'Gestione Aziendale' ORDER BY testo ASC");
+        Query queryQuestions = entityManager.createQuery("FROM Question WHERE lesson.exam.description = 'Sicurezza degli Impianti Industriali' ORDER BY testo ASC");
         List<Question> questions = queryQuestions.getResultList();
 
         Query query2 = entityManager.createQuery("FROM Answer WHERE domanda IN :domande AND corretta = TRUE ORDER BY domanda.testo ASC");
@@ -45,15 +45,18 @@ public class DocGenerator
         XWPFDocument document = new XWPFDocument();
         XWPFParagraph tmpParagraph = document.createParagraph();
 
+        boolean setBoldOnQuestion = false;
+        boolean setBoldOnAnswer = true;
+
         for (Answer answer : answers){
             XWPFRun tmpRun = tmpParagraph.createRun();
-            tmpRun.setBold(true);
+            tmpRun.setBold(setBoldOnQuestion);
             tmpRun.setFontSize(10);
             tmpRun.setText(answer.getDomanda().getTesto());
             tmpRun.addBreak();
 
             tmpRun = tmpParagraph.createRun();
-            tmpRun.setBold(false);
+            tmpRun.setBold(setBoldOnAnswer);
             tmpRun.setFontSize(10);
             tmpRun.setText(answer.getTest());
             tmpRun.addBreak();
